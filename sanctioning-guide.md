@@ -1,63 +1,73 @@
-# Event Sanctioning Guide
+# Membership Guidelines
 
-This document outlines the Major League Hacking (MLH) hackathon sanctioning policies. Meeting all of these requirements does not necessarily guarantee sanctioning status for the hackathon.
+This document outlines the Major League Hacking (MLH) Membership Guidelines. MLH provides all MLH Member Events with the following benefits and resources to ease the lives of organizers and improve the hacker experience.
 
-MLH provides all sanctioned events with the following world-class services to ease the lives of organizers and improve the hacker experience. A full list of official perks for sanctioned events will always be available on the official MLH Website.
+## Base Package
 
-Sanctioning requirements are how MLH maintains high quality standards for all events in the season. Hackers have very high expectations for MLH sanctioned events. The current sanctioned hackathon requirements and policies are as follows:
+As an MLH Member Event all hackathons receive the following benefits.
 
-## General Requirements
+0. **Listed on Season Page.** Events will be listed on their region's official hackathon season page.
+0. **Access to official office hours.** Our team help support 150 student hackathons every year. We've helped deal with all sorts of problems and questions. With MLH Office Hours, you can tap into the MLH team's expert advice and mentorship when you need it in a 1-on-1 environment.
+0. **Access to Q&A sessions and League Stand-Ups.** We schedule monthly group Stand-Ups where organizers can come together to share what they have learned with each other and with the MLH team. We also hold sessions with community experts from outside of MLH. These people can share best practices on community building, sponsorship, and more from beyond the hackathon organizer community.
+0. **Access to the software lab.** Every hacker who participates in an MLH Member Event gets a bundle of free services called the MLH Software Lab. This includes things such as web hosting credit and free domain names.
+0. **Prizes for winners.** All MLH Member Events are provided a level of basic prizing such as medals or finalist pins. Additionally all events receive special prizes for their 1st place team. 
+Special category prizes. From time to time, MLH will offer special category prizes to hackers such as a prize for the best domain name, or a prize for the best use of AWS. We will confirm these prizes with events beforehand.
+0. **Season and Sponsor Swag.** MLH Member Events will receive assorted swag including season shirts, season stickers, event specific I-Demoed stickers, MLH Stickers, Dell stickers, Github stickers, HelloFlo hygiene items. Events may also receive assorted swag from MLH season sponsors such as pens and t-shirts. 
+0. **Post-event surveys.** All MLH Member Events are included in post-event surveys. These surveys will be shared with all organizers in addition to postseason reporting to provide analytics into event metrics relative to similar events and the rest of the league. 
+0. **Social media promotion.** All MLH Member Events will be provided promotion to the network of tens of thousands of hackers who participate in MLH hackathons through social media and/or the MLH monthly newsletter.
+0. **MLH photographer.** An MLH photographer will be on site at every MLH Member Event to capture and record the special moments that happen at every hackathon.
+0. **Discounted Hackcon tickets.** Your team will receive discounted tickets to Hackcon or Hackcon EU, our conferences for hackathon organizers.
 
-0. Hackathon organizers must apply to MLH for sanctioning at least thirty (30) days prior to their hackathon. Sanctioned events are the only way hackers can improve their ratings and their school’s ratings, so hackathons must be advertised well enough in advance for hackers in the area to learn about them.
-0. To be sanctioned, events must have a confirmed date and location.
-0. Events may not discriminate on the basis of race, religion, national origin, color, sex, gender identity, sexual orientation, social class, economic status, veteran status, disability, or age.
-0. Sanctioned hackathons must adopt, make available, and enforce the MLH Code of Conduct to ensure a welcoming environment for everyone at the event. A link to the Code of Conduct must be placed on the website. All registrants must be agree to the Code of Conduct during registration (e.g. a compulsory check box). The Code of Conduct extends to all attendees, including, but not limited to, hackers, volunteers, organizers, sponsors, judges, and mentors. Additionally, a clear and widely known reporting system must be available for incident reporting.
-0. MLH reserves the right to refuse admittance to any individual at a sanctioned event. Reasons may include, but are not limited to, violations of the Code of Conduct, breaking the rules of events, or a pattern of negative contributions to events or community.
-0. Organizers grant Major League Hacking a non-exclusive indefinite license to use event name, branding, and materials to market the event and the league. Additionally, Major League Hacking grants organizers a non-exclusive license to use the Major League Hacking name and brand in conjunction with the event.  Major League Hacking reserves the right to terminate the organizer's license at any time in its absolute discretion.
-0. Organizers must include the official MLH Season Branding on their website in accordance with the MLH Brand Guidelines.
-0. Organizers will notify MLH of any important information or event changes as soon as they occur or before if possible. Often, MLH is able to assist when problems arise, but must receive sufficient notice for this to occur. Additionally, a regular check-in time will be established upon sanctioning. Organizers are required to attend the meeting.
-0. Sanctioned events must target a minimum of 80 registrants from at least 3 different universities.
-0. Sanctioned events must be predominantly run by students or school faculty.
-0. Sanctioned hackathons may not have entry fees.
-0. Sanctioned events must be overnight.
-0. Sanctioned events must have enough food on site to reasonably feed attendees during the event.
-0. Sanctioned events must represent and warrant participants own any intellectual property produced at the event and state this on the website.
-0. Sanctioned events must respect and enforce the alcohol laws and customs of the local country and must only allow for moderate alcohol consumption in locales where drinking is allowed.
-0. All sanctioned hackathons must make a good-will effort to advertise and make the application for admission publicly available. Secret or invite-only hackathons without a straightforward and publicly known general application process are not eligible. Additionally, organizers must publish the criteria for admission to the event.
-0. Only hackers who are students at the time of the hackathon or who have left school within the current school year may compete in Major League Hacking sanctioned events.
-0. No hackathon organizer may compete in an event he or she is organizing. This rule extends to judges, sponsors, and other staff.
-0. Potential violations of the rules set forth by Major League Hacking, including, but not limited to, the Sanctioning Guide and MLH Code of Conduct or the rules of an officially sanctioned event should be reported immediately to the appointed MLH representative on site or by phone to +1 (409) 202-6060 in North America or +44 80 0808 5675 in Europe, if one is not available. No corrective action may be taken without explicit approval from MLH.
+## Base Requirements
 
-## Day of Event Requirements
-0. Organizers must check in all attendees as they arrive at the event. Checking in attendees helps events run more smoothly and provides valuable opportunity to distribute information, swag, and event materials as well as ensure safety by knowing who is in attendance.
-0. Organizers must reserve an adequate amount of space for MLH at the event. Common uses of the space include the hardware lab, gaming lounge, photobooth, national sponsor placement, and mini-events. Simply put, this space allows MLH to make the hacker experience even more awesome.
-0. MLH sustains itself through sponsorships that add value to sanctioned events and bring value to hackers. For this reason, MLH must be allowed to showcase and/or bring its national sponsors to the event. MLH will inform you if any national sponsors are attending at least two (2) weeks prior to the event.
-0. MLH has the right to distribute swag, promotional materials, and prizes to event attendees.
-0. Organizers must have a first aid kit on site during the event.
-0. There must be at least one organizer on site at any time during the event.
-0. All sanctioned events must make a volunteer available to work with MLH throughout the entire weekend.
-0. MLH must be able to post signage across the event.
-0. MLH must be given time to speak at the event’s opening ceremony.
-0. MLH has permission to record and publish photos and video of the event and reserves the exclusive right to produce commercial video content (this does not include TV news or sponsor/event recaps). MLH will work with organizers to ensure compliance with appropriate university or venue video and photo policies.
+0. **Uphold MLH Community Values.** As hackers have very high expectations for MLH Member Events, hackathons are expected to uphold the MLH Community Values. To insure that MLH Hackathons are a safe space this includes abiding by the MLH Code of Conduct. At least one organizer on the team is expected to participate in a workshop to go over the MLH Code of Conduct and incident response. Attend a call with MLH 2 weeks before the event.  MLH Member Events use this call to coordinate any on-site support or shipments they are receiving from MLH and to make sure they’re fully prepare for the event.
+0. **Send registration data to MLH at least 72 hours before the event.** MLH uses this data compile statistics, communicate important information to attendees, and to help MLH Member Events ensure attendees who violate the code of conduct or rules do not attend the event.
+0. **Compile and submit hack submission and check-in data to MLH at most 14 days after the event.** MLH uses this data for season rankings and will send attendees two emails: (1) a post event survey to collect their feedback about the event and MLH and (2) an opt-in for future info about hackathons and the league.
+0. **Include the official MLH Season Branding on their website, post league branding around the event, and distribute season swag.**  MLH Member Events are proud to support the student hackathon movement and display the MLH logo and season badge on their website and at their event as a commitment of quality to attendees.  They enable attendees to support the movement by passing out season swag (stickers, t-shirts, etc.) during the event and making MLH resources available at an MLH Table.
+0. **Show a video explaining hackathons and MLH or ask an MLH representative to speak at the event’s opening ceremony.**  MLH Member Events recognize that many attendees have never been to a hackathon before attending their event and many attendees won’t know what MLH is or what being an MLH Member hackathon means. MLH Member Events show a video or have an MLH rep speak to explain these things.
+0. **Distribute MLH sponsor promos and prizes to attendees and provide Space for MLH Sponsors in the EU.** MLH Member Events recognize that MLH’s season sponsors enable the league to exist. If an MLH representative is not on site, MLH Member Events ensure that MLH season sponsor promos (Ex. free domains, hosting credit, etc) and prizes are properly distributed.
+0. **Grant MLH permission to record and publish photos and video of the event and the exclusive right to produce commercial video content (this does not include TV news or sponsor/event recaps).** MLH Members recognize that having photos or videos of the event is hugely beneficial for attendees and sponsors.  MLH publishes these photos and videos on its websites and may use them for recaps or to promote the league.
+0. **Grant MLH an indefinite license to use event name, branding, and materials to market the event and the league.** MLH puts the event on the official season schedule and promotes it to the MLH Community, but needs your permission to do that.  Additionally, MLH grants MLH Member Events a non-exclusive license to use the MLH name and brand in conjunction with the event.  MLH reserves the right to terminate the organizer's license at any time in its absolute discretion.
+0. **Ensure that any MLH property is properly cared for and returned on time.** MLH Member Events recognize that any MLH property they borrow (hardware, signage, mini-events, etc) is used by other members during the year.  If any supplies are lost, damaged, or late, other members will be unable to utilize them.
 
-## Deliverable Requirements
 
-0. All hackathon organizers must sign the appropriate MLH Sanctioning Application and Code of Conduct, which states that they have read and will abide by the most current official sanctioning and ranking policies.
-0. Either once attendee registration has been finalized or twenty-four (24) hours prior to the event (which ever occurs first), the hackathon must submit registration data to MLH. MLH uses this data to compile statistics, communicate important information to attendees, and ensure bad actors do not attend events. The minimum required information is name, email, mobile phone number, and school.  Collecting information about gender identity, year in school, major, birthday, food allergies, and special needs is optional, but recommended.
-0. Within fourteen (14) days after a sanctioned hackathon concludes, organizers must compile and submit hack submission data (from HackerLeague or ChallengePost) for season rankings and attendee information from check-in and registration.
+## Add-ons
 
-## Violation of Policies
+In addition to the above base packages, MLH Member Event have the ability to request the following additional benefits a la carte.  Add-ons are subject to availability and are provided on a first-come, first-served basis.
 
-In the event of a violation of sanctioning guidelines, Code of Conduct, or other official Major League Hacking regulation or policy, actions will be taken to rectify the issue. These actions will typically include, in order of severity, the following:
+### Hardware Lab 
 
-- Written Warning outlining the violation and how organizers can take action to resolve the issue.
-- Temporary Suspension from the current or future MLH season(s).
-- Permanent Ban from all MLH activities and future sanctioning.
+0. The MLH Hardware lab contain the latest and greatest hardware for hackers to utilize for free at all MLH Member Events. 
+0. MLH Member Events may additionally request that the hardware lab contains a photobooth or gaming lounge. Events are responsible for setup and teardown. 
+0. Hackathons receiving a hardware lab are responsible for inventorying all equipment on arrival and prior to departure. MLH Member Events are also responsible to palleting the hardware lab and to work with MLH to ensure that it’s able to depart their event.  
+0. MLH Member Events are required to set up any hardware lab items that requires a demo unit contained in the hardware lab.
+0. Hardware labs are required to utilize a MLH table cloth and place MLH backdrops and signage around the hardware area. 
 
-MLH believes in transparency. In the cases of suspensions or bans, a public statement will be made about what occurred to disqualify the given event.
+### MyMLH
+
+0. MLH Member Events are able to utilize MyMLH, our single sign-on hackathon OAuth tool, to help streamline the process of getting hackers registered for their events.
+0. MLH Member Events are also able to receive support configuring MyMLH upon request.
+
+### Regular Calls
+
+0. In addition to being able to request office hours when needed MLH Member Events are able to request recurring calls with a member from the MLH Team. These calls will provide organizers access to the knowledge, experience and learnings of the MLH team to help enable MLH Member Events to be as successful as possible. 
+
+### Onsite Presence
+
+0. A member of the MLH Team are able to join all MLH Member Events on request to ensure that your event is a success. 
+0. MLHers are extensions of MLH Member Event organizing teams. They’re able to help coordinate judging, mentor hackers, set up food, or even take out the trash. Whatever a hackathon needs to ensure that an event runs smoothly MLH will be available to provide assistance.
+0. When an MLHer is at a MLH Member Event hackathons are required to provide a short speaking slot during opening ceremonies (instead of the informational video). 
+
+### Mini-Event
+
+0. MLHers are able to work together with MLH Member Events to host mini events to provide a fun break during hacking.
+0. Mini-Events include Cup stacking, Code in the dark, Slideshare karaoke, Werewolf, Lasertag or Tower breakdown. Which Mini-Events is hosted is dependent on availability of supplies.
+0. Mini-Events must have a clearly set time and location on a MLH Member Event schedule. 
+0. Mini-Events are only available to events that request to have a MLHer on site. 
+
 
 Major League Hacking reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact MLH by e-mail at hi@mlh.io.
 
 
 This guide was last updated on:
-April 17, 2015
+November 16, 2015

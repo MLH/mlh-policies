@@ -72,5 +72,5 @@ codify this belief in a way that describes not only the MLH Member Events,
 but also the types of events that MLH wants to work with because of their
 positive contributions to the student hacker movement.
 
-This document was last updated on:
+This document was last updated on:  
 Novemeber 16, 2015

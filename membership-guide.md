@@ -28,17 +28,18 @@ Special category prizes. From time to time, MLH will offer special category priz
 0. **Compile and submit hack submission and check-in data to MLH at most 14 days after the event.** MLH uses this data for season rankings and will send attendees two emails: (1) a post event survey to collect their feedback about the event and MLH and (2) an opt-in for future info about hackathons and the league.
 0. **Include the official MLH Season Branding on their website, post league branding around the event, and distribute season swag.**  MLH Member Events are proud to support the student hackathon movement and display the MLH logo and season badge on their website and at their event as a commitment of quality to attendees.  They enable attendees to support the movement by passing out season swag (stickers, t-shirts, etc.) during the event and making MLH resources available at an MLH Table.
 0. **Have an MLH representative speak at the event’s opening ceremony.**  MLH Member Events recognize that many attendees have never been to a hackathon before attending their event and many attendees won’t know what MLH is or what being an MLH Member hackathon means. MLH Member Events have an MLH rep speak to explain these things.
-0. **Distribute MLH sponsor promos and prizes to attendees and provide Space for MLH Sponsors in the EU.** MLH Member Events recognize that MLH’s season sponsors enable the league to exist. If an MLH representative is not on site, MLH Member Events ensure that MLH season sponsor promos (Ex. free domains, hosting credit, etc) and prizes are properly distributed.
+0. **Distribute MLH sponsor promos and prizes to attendees.** MLH Member Events recognize that MLH’s season sponsors enable the league to exist. If an MLH representative is not on site, MLH Member Events ensure that MLH season sponsor promos (Ex. free domains, hosting credit, etc) and prizes are properly distributed.
 0. **Grant MLH permission to record and publish photos and video of the event and the exclusive right to produce commercial video content (this does not include TV news or sponsor/event recaps).** MLH Members recognize that having photos or videos of the event is hugely beneficial for attendees and sponsors.  MLH publishes these photos and videos on its websites and may use them for recaps or to promote the league.
 0. **Grant MLH an indefinite license to use event name, branding, and materials to market the event and the league.** MLH puts the event on the official season schedule and promotes it to the MLH Community, but needs your permission to do that.  Additionally, MLH grants MLH Member Events a non-exclusive license to use the MLH name and brand in conjunction with the event.  MLH reserves the right to terminate the organizer's license at any time in its absolute discretion.
 0. **Ensure that any MLH property is properly cared for and returned on time.** MLH Member Events recognize that any MLH property they borrow (hardware, signage, mini-events, etc) is used by other members during the year.  If any supplies are lost, damaged, or late, other members will be unable to utilize them.
+0. **Allocate space for MLH Sponsors in the EU & Mexico.** Due to the nature of the EU and Mexico, MLH Member Events must offer MLH Season Sponsors space at their event if they request it.  Space includes a table at the event and an API demo during opening ceremony if they are being provided.  MLH Season Sponsors allow the league to exist and expand and MLH Member Events recognize that without season sponsors this would not be possible.
 
 
 ## Add-ons
 
 In addition to the above base packages, MLH Member Event have the ability to request the following additional benefits a la carte.  Add-ons are subject to availability and are provided on a first-come, first-served basis.
 
-### Hardware Lab 
+### Hardware Lab
 
 0. The MLH Hardware lab contain the latest and greatest hardware for hackers to utilize for free at all MLH Member Events.
 0. MLH Member Events are required to set up any hardware lab items that requires a demo unit contained in the hardware lab.

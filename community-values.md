@@ -11,7 +11,7 @@ communities around the world.  By following these Core Values, they set an
 example of excellence and help create the highest quality experience possible
 for hackers, organizers, and sponsors alike.
 
-*MLH Member Events set a standard of excellence for attendees.*
+## MLH Member Events set a standard of excellence for attendees.
 
  - Have a confirmed date and location that attendees can depend on.
  - Host attendees overnight.
@@ -25,7 +25,8 @@ for hackers, organizers, and sponsors alike.
  - up-to-date name, email, mobile phone number, and school for each of them.
  - Have at least one lead organizer on site at any time during the event.
   
-*MLH Member Events are open and accessible to all students.*
+## MLH Member Events are open and accessible to all students.
+
  - Do not have entry fees.
  - Advertise well enough in advance for hackers in the area to learn about the
    event.
@@ -38,7 +39,7 @@ for hackers, organizers, and sponsors alike.
  - Have a straightforward and publicly known general application process. 
  - Publish the criteria for admission to their event.
 
-*MLH Member Events are fair.*
+## MLH Member Events are fair.
 
  - Organizers don’t compete in any event they are organizing. They extend the
    same rule to judges, sponsors, and other staff.
@@ -46,7 +47,7 @@ for hackers, organizers, and sponsors alike.
    have left school within the current school year.  They welcome non-students
    as volunteers, mentors, sponsors, and judges.
 
-*MLH Member Events are safe and welcoming spaces.*
+## MLH Member Events are safe and welcoming spaces.
 
  - Adopt, make available, and enforce the MLH Code of Conduct.
  - Organizers all sign and agree to the MLH Code of Conduct.

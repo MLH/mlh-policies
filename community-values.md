@@ -19,12 +19,13 @@ for hackers, organizers, and sponsors alike.
  - Ensure that participants own any intellectual property they produce at the
    event.
  - Have enough food on site to reasonably feed attendees during the event.
+ - Events should provide healthy food options and have options available for hackers with dietary restrictions.
  - Clearly communicate any major changes to the event (Ex. venue, location,
    schedule, theme, etc.) as soon as they occur.
  - Check in all attendees as they arrive at the event and make sure they have
  - up-to-date name, email, mobile phone number, and school for each of them.
- - Have at least one lead organizer on site at any time during the event.
-  
+ - Have at least one lead organizer who has full ability to make decisions on site at any time during the event.
+
 ## MLH Member Events are open and accessible to all students.
 
  - Do not have entry fees.
@@ -46,6 +47,7 @@ for hackers, organizers, and sponsors alike.
  - Are open to hackers who are students at the time of the hackathon or who
    have left school within the current school year.  They welcome non-students
    as volunteers, mentors, sponsors, and judges.
+ - Publish the rules and regulations for competing in their event.
 
 ## MLH Member Events are safe and welcoming spaces.
 
@@ -65,6 +67,7 @@ for hackers, organizers, and sponsors alike.
  - Have a first aid kit on site during the event.
  - If minors are attending, the child safeguarding requirements for the
    region/state have been met.
+ - Whenever possible, events, provide sleeping spaces for attendees and encourage attendees to take advantage of them.
 
 Creating an empowering environment where hackers of all skill levels can
 create amazing things is MLH’s main priority. The MLH Community Values
@@ -72,5 +75,5 @@ codify this belief in a way that describes not only the MLH Member Events,
 but also the types of events that MLH wants to work with because of their
 positive contributions to the student hacker movement.
 
-This document was last updated on:  
-Novemeber 16, 2015
+This document was last updated on:
+June 6, 2016

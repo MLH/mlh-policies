@@ -76,4 +76,4 @@ but also the types of events that MLH wants to work with because of their
 positive contributions to the student hacker movement.
 
 This document was last updated on:
-June 6, 2016
+June 8, 2016

@@ -1,4 +1,4 @@
-# Data Sharing Notice 
+# Data Sharing Notice
 
 *The following message should be placed at the end of your registration.*
 

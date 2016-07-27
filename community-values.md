@@ -1,7 +1,7 @@
 # Community Values
 
 Major League Hacking (MLH) believes that every student on the planet should
-have access to high quality events where they can learn, build, and share
+have access to high-quality events where they can learn, build, and share
 their creations. Through supporting 100’s of hackathons around the world and
 working closely with the MLH Community, we’ve come up with the following Core
 Values that MLH and MLH Member Events share.
@@ -54,7 +54,7 @@ for hackers, organizers, and sponsors alike.
  - Adopt, make available, and enforce the MLH Code of Conduct.
  - Organizers all sign and agree to the MLH Code of Conduct.
  - Have a clear and widely known reporting system for incidents.
- - Have a link to the Code of Conduct on their website and ask all registrant
+ - Have a link to the Code of Conduct on their website and ask all registrants
    to agree to the Code of Conduct during registration (e.g. a compulsory check
    box).
  - Make it clear that the Code of Conduct extends to all attendees, including
@@ -67,7 +67,7 @@ for hackers, organizers, and sponsors alike.
  - Have a first aid kit on site during the event.
  - If minors are attending, the child safeguarding requirements for the
    region/state have been met.
- - Whenever possible, events, provide sleeping spaces for attendees and encourage attendees to take advantage of them.
+ - Whenever possible, events provide sleeping spaces for attendees and encourage attendees to take advantage of them.
 
 Creating an empowering environment where hackers of all skill levels can
 create amazing things is MLH’s main priority. The MLH Community Values

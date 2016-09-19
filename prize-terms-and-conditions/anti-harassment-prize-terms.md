@@ -1,6 +1,6 @@
 MAJOR LEAGUE HACKING BEST ANTI-HARASSMENT HACK CONTEST (“Contest”) TERMS AND CONDITIONS Sponsored by Major League Hacking (“Sponsor”).
 
-These terms and conditions (the “Prize Terms”) are intended to be read in conjunction with the Major League Hacking Contest Terms and Conditions, available at [https://github.com/MLH/mlh-policies/blob/master/contest-terms.md](https://github.com/MLH/mlh-policies/blob/master/code-of-conduct.md) (“Contest Terms”). All terms not defined herein shall have the meaning given in the Contest Terms.
+These terms and conditions (the “Prize Terms”) are intended to be read in conjunction with the Major League Hacking Contest Terms and Conditions, available at [https://github.com/MLH/mlh-policies/blob/master/prize-terms-and-conditions/contest-terms.md](https://github.com/MLH/mlh-policies/blob/master/prize-terms-and-conditions/code-of-conduct.md) (“Contest Terms”). All terms not defined herein shall have the meaning given in the Contest Terms.
 
 The Contest Terms establish the Contest and all rules and regulations thereto.  At the end of the Contest Term, one or more Judge shall determine, at its sole discretion, the winning Application in the Best Anti-Harassment Hack Category, using those same criteria established in the Contest Terms. This winning Application will be awarded the Grand Prize, defined as follows:
 

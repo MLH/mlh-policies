@@ -15,7 +15,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 MLH representatives will be happy to help participants contact campus security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
 
-We expect participants to follow these rules at all hackathon venues, hackathon-related social events, and on hackathon supplied transportation.
+We expect participants to follow these rules at all hackathon venues, online interactions in relation to the event, hackathon-related social events, and on hackathon supplied transportation.
 
 ## Reporting Procedures
 

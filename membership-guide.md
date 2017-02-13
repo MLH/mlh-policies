@@ -24,7 +24,7 @@ Special category prizes. From time to time, MLH will offer special category priz
 
 ## Membership Requirements
 
-0. **Uphold MLH Community Values.** As hackers have very high expectations for MLH Member Events, hackathons are expected to uphold the MLH Community Values. To insure that MLH Hackathons are a safe space this includes abiding by the MLH Code of Conduct. At least one organizer on the team is expected to participate in a workshop to go over the MLH Code of Conduct and incident response.
+0. **Uphold MLH Community Values.** As hackers have very high expectations for MLH Member Events, hackathons are expected to uphold the [MLH Community Values](https://mlh.io/community-values). To insure that MLH Hackathons are a safe space this includes abiding by the MLH Code of Conduct. At least one organizer on the team is expected to participate in a workshop to go over the MLH Code of Conduct and incident response.
 0. **Attend a call with MLH 2 weeks before the event.** MLH Member Events use this call to coordinate any on-site support or shipments they are receiving from MLH and to make sure they’re fully prepare for the event.
 0. **Send registration data to MLH at least 72 hours before the event.** MLH uses this data to compile statistics, communicate important information to attendees, and to help MLH Member Events ensure attendees who violate the code of conduct or rules do not attend the event.
 0. **Compile and submit hack submission and check-in data to MLH at most 14 days after the event.** MLH uses this data for season rankings and will send attendees two emails: (1) a post event survey to collect their feedback about the event and MLH and (2) an opt-in for future info about hackathons and the league.

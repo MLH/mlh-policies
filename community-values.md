@@ -65,6 +65,7 @@ for hackers, organizers, and sponsors alike.
  - Have a first aid kit on site during the event.
  - If minors are attending, the child safeguarding requirements for the
    region/state have been met.
+ - If the event is occurring on campus, organizers will make a good faith effort to involve school administration and/or faculty.
  - Whenever possible, events provide sleeping spaces for attendees and encourage attendees to take advantage of them.
 
 Creating an empowering environment where hackers of all skill levels can

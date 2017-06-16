@@ -9,6 +9,7 @@ Contained within are:
 - [Incident Response Procedure](incident-response.md)
 - [Membership Guide](membership-guide.md)
 - [Privacy Policy](privacy-policy.md)
+- [School lists](schools.md)
 
 ## Contest Terms and Conditions
 

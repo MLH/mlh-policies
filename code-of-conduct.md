@@ -33,11 +33,11 @@ If you are uncomfortable reporting your situation to one or more of these people
 - Li Chen - +1 (301) 679-7171 , li@mlh.io
 - Nick Quinlan - +1 (510) 859-8578, nq@mlh.io
 - Swift - +1 (347) 220-8667, swift@mlh.io
-- Tim Fogarty - +44 20 3322 7018, tim@mlh.io
+- Chi Nguyen - +1 (586) 244-8877, chi@mlh.io
 
 Major League Hacking reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact MLH by e-mail at hi@mlh.io. 
 
 This guide was last updated on:
-June 6, 2016
+July 19, 2017
 
 

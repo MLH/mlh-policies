@@ -23,6 +23,7 @@ As an MLH Member Event all hackathons receive the following benefits.
 0. **GitHub New Member Grant.** All first time hackathons that become MLH Member Events are eligible for a $1000 sponsorship and one sponsored ticket to Hackcon, subject to approval from GitHub.
 0. **MyMLH.** MLH Member Events are able to utilize [MyMLH](https://my.mlh.io/), our single sign-on hackathon OAuth tool, to help streamline the process of getting hackers registered for their events. MLH Member Events are also able to receive support configuring MyMLH upon request.
 0. **Priority Access to MLH Localhost** MLH Member Events receive priority access to [MLH Localhost](https://localhost.mlh.io/). MLH Localhost is a series of expert workshops that an Organizer can learn to run on their own campus to engage their hacker club, build a community, and teach valuable skills to their fellow students.
+0. **Universal Coding Language** The universal language of coding is in English and as a result all of our benefits and resources including our onsite MLH rep are currently only available in English.  We will continue to find other ways to accomodate non-English speaking events.
 
 ## Membership Requirements
 

@@ -277,7 +277,7 @@ Gujarat University
 Guru Gobind Singh Indraprastha University
 Hampshire College
 Hampton University
-Hanze university of applied sciences
+Hanze University of Applied Sciences
 Harper College
 Harvard Medical School
 Harvard University
@@ -1090,4 +1090,4 @@ Zespół szkół nr 1 im. Stanisława Staszica w Bochni
 Zespół Szkół im. Jana Pawła II w Niepołomicach
 École Centrale Paris
 École Polytechnique de Montréal
-École de technologie supérieure
+École de Technologie Supérieure

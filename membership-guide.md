@@ -38,11 +38,11 @@ As an MLH Member Event all hackathons receive the following benefits.
 0. **Ensure that any MLH property is properly cared for and returned on time.** MLH Member Events recognize that any MLH property they borrow (hardware, signage, mini-events, etc) is used by other members during the year.  If any supplies are lost, damaged, or late, other members will be unable to utilize them.
 0. **Manage and run the MLH Hardware Lab** MLH Member Events recognize that managing the MLH Hardware Lab takes a lot of time. To ensure that Hackers have uninterrupted access to Hardware Lab, MLH Member Hackathons must provide a volunteer to run the lab during their event. MLH will train Volunteers to utilize the [MLH Hardware Lab Website](https://hardware.mlh.io/) to manage and track hardware during an event. Hardware labs are required to utilize a MLH table cloth and place MLH backdrops and signage around the hardware area. 
 0. **Allocate space for MLH Sponsors in the EU & Mexico.** Due to the nature of the EU and Mexico, MLH Member Events must offer MLH Season Sponsors space at their event if they request it.  Space includes a table at the event and an API demo during opening ceremony if they are being provided.  MLH Season Sponsors allow the league to exist and expand and MLH Member Events recognize that without season sponsors this would not be possible.
-0. **Allow MLH to Communicate with Attendees in English** As all MLH resources are currently only available in English and MLH representative are currently only guaranteed to speak in English MLH, is unable to support events in which attendees aren't able to understand English.
+0. **Attendees must understand English** Presently MLH resources are currently only available in English. Excluding Mexico, MLH representative are currently only guaranteed to speak in English. In Mexico we are currently able to provide representatives that are fluent in Spanish. To ensure that Hackers are able to take advantage of MLH resources and representatives at this time MLH is only able to support events where attendees are able to understand English. MLH understands that the world has many languages beyond English and will do our best to accommodate whenever possible.
 
 
 Major League Hacking reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact MLH by e-mail at hi@mlh.io.
 
 
 This guide was last updated on:
-June 16, 2017
+July 31, 2017

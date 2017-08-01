@@ -18,6 +18,7 @@ Adelphi University
 Advanced Math and Science Academy Charter School
 Alameda High School
 Albany Medical College
+Alfa College
 Allen High School
 Ambala College of Engineering and Applied Research
 American Heritage School
@@ -276,6 +277,7 @@ Gujarat University
 Guru Gobind Singh Indraprastha University
 Hampshire College
 Hampton University
+Hanze University of Applied Sciences
 Harper College
 Harvard Medical School
 Harvard University
@@ -702,6 +704,7 @@ Spotswood High School
 Spring Arbor University
 Sreenidhi Institute of Science & Technology
 Sri Sivasubramaniya Nadar College of Engineering
+Stadslyceum 
 St Brendan High School
 St Edwards University
 St Mary's CE High School – Cheshunt
@@ -820,6 +823,7 @@ The University of Florida
 The University of Gdańsk
 The University of Georgia
 The University of Glasgow
+The University of Groningen
 The University of Guelph
 The University of Houston
 The University of Houston – Clear Lake
@@ -1086,4 +1090,4 @@ Zespół szkół nr 1 im. Stanisława Staszica w Bochni
 Zespół Szkół im. Jana Pawła II w Niepołomicach
 École Centrale Paris
 École Polytechnique de Montréal
-École de technologie supérieure
+École de Technologie Supérieure

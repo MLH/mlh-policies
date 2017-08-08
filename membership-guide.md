@@ -23,7 +23,6 @@ As an MLH Member Event all hackathons receive the following benefits.
 0. **GitHub New Member Grant.** All first time hackathons that become MLH Member Events are eligible for a $1000 sponsorship and one sponsored ticket to Hackcon, subject to approval from GitHub.
 0. **MyMLH.** MLH Member Events are able to utilize [MyMLH](https://my.mlh.io/), our single sign-on hackathon OAuth tool, to help streamline the process of getting hackers registered for their events. MLH Member Events are also able to receive support configuring MyMLH upon request.
 0. **Priority Access to MLH Localhost** MLH Member Events receive priority access to [MLH Localhost](https://localhost.mlh.io/). MLH Localhost is a series of expert workshops that an Organizer can learn to run on their own campus to engage their hacker club, build a community, and teach valuable skills to their fellow students.
-0. **Universal Coding Language** The universal language of coding is in English and as a result all of our benefits and resources including our onsite MLH rep are currently only available in English.  We will continue to find other ways to accomodate non-English speaking events.
 
 ## Membership Requirements
 
@@ -39,10 +38,11 @@ As an MLH Member Event all hackathons receive the following benefits.
 0. **Ensure that any MLH property is properly cared for and returned on time.** MLH Member Events recognize that any MLH property they borrow (hardware, signage, mini-events, etc) is used by other members during the year.  If any supplies are lost, damaged, or late, other members will be unable to utilize them.
 0. **Manage and run the MLH Hardware Lab** MLH Member Events recognize that managing the MLH Hardware Lab takes a lot of time. To ensure that Hackers have uninterrupted access to Hardware Lab, MLH Member Hackathons must provide a volunteer to run the lab during their event. MLH will train Volunteers to utilize the [MLH Hardware Lab Website](https://hardware.mlh.io/) to manage and track hardware during an event. Hardware labs are required to utilize a MLH table cloth and place MLH backdrops and signage around the hardware area. 
 0. **Allocate space for MLH Sponsors in the EU & Mexico.** Due to the nature of the EU and Mexico, MLH Member Events must offer MLH Season Sponsors space at their event if they request it.  Space includes a table at the event and an API demo during opening ceremony if they are being provided.  MLH Season Sponsors allow the league to exist and expand and MLH Member Events recognize that without season sponsors this would not be possible.
+0. **Attendees must understand English** MLH resources are currently only available in English. We are however able to provide Spanish speaking representatives to Mexico events. To ensure hackers are able to take advantage of MLH resources and representatives at events, we can only provide full-support to events where attendees are able to understand English. We recognize the world has many languages beyond English and will do our best to accommodate more where possible.
 
 
 Major League Hacking reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact MLH by e-mail at hi@mlh.io.
 
 
 This guide was last updated on:
-June 16, 2017
+July 31, 2017

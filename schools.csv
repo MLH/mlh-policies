@@ -39,7 +39,7 @@ Avon High School
 "BMIIT, Uka Tarsadia University, Bardoli, Surat"
 Babaria Institute of Technology
 Babson College
-Baruch College
+"Baruch College, CUNY"
 Baton Rouge Community College
 Bayside High School
 Bayview Secondary School
@@ -77,7 +77,8 @@ Brigham Young University
 Brock University
 Brookdale Community College
 Brooklyn Technical High School
-Brooklyn College
+"Brooklyn College, CUNY"
+"Medgar Evers College, CUNY"
 Brookwood High School
 Brown University
 Bucknell University
@@ -125,7 +126,6 @@ Chinguacousy Secondary School
 Cincinnati State Technical and Community College
 Citrus College
 City University London
-City University of New York
 Claremont McKenna College
 Clark University
 Clarksburg High School
@@ -136,7 +136,7 @@ Coe College
 Colegio Simón Bolívar
 College of Charleston
 "College of Engineering, Pune"
-College of Staten Island
+"College of Staten Island, CUNY"
 College of Westchester
 Colleyville Heritage High School
 Collins Hill High School
@@ -441,7 +441,7 @@ M.V.Jayaraman College of Engineering
 "MBM Engineering College, Jodhpur"
 MacArthur High School
 Macalester College
-Macaulay Honors College
+"Macaulay Honors College, CUNY"
 Macomb Community College
 Madan Mohan Malaviya University of Technology
 Madison College
@@ -547,7 +547,7 @@ New Jersey City University
 New Jersey Institute of Technology
 New Providence High School
 New River Community College
-New York City College of Technology
+"New York City College of Technology, CUNY"
 New York Institute of Technology
 New York University
 New York University Abu Dhabi
@@ -781,7 +781,7 @@ Texas Tech University
 Thakur College of Engineering and Technology
 The British University In Egypt
 The Bronx High School of Science
-The City College of New York
+"The City College of New York, CUNY"
 The College Of William & Mary
 "The College at Brockport, SUNY"
 The College of New Jersey
@@ -1120,7 +1120,18 @@ Zespół Szkół im. Jana Pawła II w Niepołomicach
 The University of Chicago
 Appalachian State University
 Eidgenössische Technische Hochschule (ETH) Zürich
-Hunter College
+"Hunter College, CUNY"
+"School of Professional Studies, CUNY"
+"John Jay College of Criminal Justice, CUNY"
+"York College, CUNY"
+"Lehman College, CUNY"
+"Borough of Manhattan Community College, CUNY"
+"Kingsborough Community College, CUNY"
+"Bronx Community College, CUNY"
+"LaGuardia Community College, CUNY"
+"Guttman Community College, CUNY"
+"Queensborough Community College, CUNY"
+"Hostos Community College, CUNY"
 "Potsdam, SUNY"
 University of Southampton
 Florida Agricultural & Mechanical (A&M) University
@@ -1131,7 +1142,7 @@ TU/e Technische Universiteit Eindhoven University of Technology
 Berea College
 Delft University of Technology
 De Anza College
-Queens College, CUNY
+"Queens College, CUNY"
 Yeshiva University
 Instituto Tecnólogico de La Laguna (ITL)
 Bryn Mawr College

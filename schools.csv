@@ -39,7 +39,7 @@ Avon High School
 "BMIIT, Uka Tarsadia University, Bardoli, Surat"
 Babaria Institute of Technology
 Babson College
-Baruch College
+"Baruch College, CUNY"
 Baton Rouge Community College
 Bayside High School
 Bayview Secondary School
@@ -77,6 +77,8 @@ Brigham Young University
 Brock University
 Brookdale Community College
 Brooklyn Technical High School
+"Brooklyn College, CUNY"
+"Medgar Evers College, CUNY"
 Brookwood High School
 Brown University
 Bucknell University
@@ -85,7 +87,6 @@ COMSATS Institute of Information Technology
 Caldwell University
 California High School
 California Institute of Technology
-California Polytechnic State University
 "California Polytechnic State University, San Luis Obispo"
 "California State Polytechnic University, Pomona"
 "California State University, Fresno"
@@ -95,6 +96,21 @@ California Polytechnic State University
 "California State University, Northridge"
 "California State University, Sacramento"
 "California State University, San Bernardino"
+"California State University, Bakersfield"
+"California State University, San Francisco"
+"California State University, Channel Islands"
+"California State University, Maritime"
+"California State University, San Jose"
+"California State University, Chico"
+"California State University, Monterey Bay"
+"California State University, San Luis Obispo"
+"California State University, Dominguez Hills"
+"California State University, San Marcos"
+"California State University, East Bay"
+"California State University, Sonoma"
+"California State University, Stanislaus"
+"California State University, Humboldt"
+"California State University, San Diego"
 Camden County College
 Cameron Heights Collegiate Institute
 Canyon Crest Academy
@@ -125,7 +141,6 @@ Chinguacousy Secondary School
 Cincinnati State Technical and Community College
 Citrus College
 City University London
-City University of New York
 Claremont McKenna College
 Clark University
 Clarksburg High School
@@ -136,7 +151,7 @@ Coe College
 Colegio Simón Bolívar
 College of Charleston
 "College of Engineering, Pune"
-College of Staten Island
+"College of Staten Island, CUNY"
 College of Westchester
 Colleyville Heritage High School
 Collins Hill High School
@@ -337,7 +352,38 @@ Indraprastha Institute of Information Technology
 Institute of Engineering and Rural Technology Allahabad
 Instituto Politécnico Nacional
 Instituto Tecnologico Superior de San Martin Texmelucan
-Instituto Tecnológico y de Estudios Superiores de Monterrey
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Chihuahua
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Ciudad Juárez
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Cumbres
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Eugenio Garza Lagüera
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Eugenio Garza Sada
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Laguna
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Saltillo
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Santa Catarina
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Tampico
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Valle Alto
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Tampico
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Chiapas
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Cuernavaca
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Hidalgo
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Ciudad de Mexico
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Puebla
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Santa Fe
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Toluca
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Veracruz
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Aguascalientes
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Guadalajara
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Irapuato
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus León
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Morelia
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus León
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Obregón
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Querétaro
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus San Luis Potosí
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Sinaloa
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Sonora
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Campus Zacatecas
 Instytut Pamięci Narodowej
 International Institute Of Information Technology-Naya Raipur
 International Institute of Information Technology-Hyderabad
@@ -410,14 +456,12 @@ M.V.Jayaraman College of Engineering
 "MBM Engineering College, Jodhpur"
 MacArthur High School
 Macalester College
-Macaulay Honors College
+"Macaulay Honors College, CUNY"
 Macomb Community College
 Madan Mohan Malaviya University of Technology
 Madison College
 Maggie L. Walker Governor's School
 Maharaja Agrasen Institute of Technology
-Maharaja Sayajirao University of Baroda
-Maharaja Surajmal Institute Of Technology
 Maharaja Surajmal Institute of Technology
 Malvern Preparatory School
 Manalapan High School
@@ -518,7 +562,7 @@ New Jersey City University
 New Jersey Institute of Technology
 New Providence High School
 New River Community College
-New York City College of Technology
+"New York City College of Technology, CUNY"
 New York Institute of Technology
 New York University
 New York University Abu Dhabi
@@ -738,8 +782,6 @@ Techno India College of Technology
 Techno India University
 Tecnológico de Estudio Superiores de Ixtapaluca
 Tecnológico de Estudios Superiores de Ecatepec
-"Tecnológico de Monterrey, Campus Santa Fe"
-"Tecnológico de Monterrey, campus Ciudad de Mexico"
 Temple University
 Tenafly High School
 Texas A&M University
@@ -754,7 +796,7 @@ Texas Tech University
 Thakur College of Engineering and Technology
 The British University In Egypt
 The Bronx High School of Science
-The City College of New York
+"The City College of New York, CUNY"
 The College Of William & Mary
 "The College at Brockport, SUNY"
 The College of New Jersey
@@ -772,6 +814,7 @@ The Pennsylvania State University
 The Pennsylvania State University – Abington Campus
 The Pennsylvania State University – Harrisburg
 The Pennsylvania State University – York Campus
+The Pennsylvania State University – Berks
 The Roxbury Latin School
 The SRM University
 The Savannah College of Art and Design
@@ -799,6 +842,7 @@ The University of Calicut
 "The University of California, Riverside"
 "The University of California, San Diego"
 "The University of California, Santa Barbara"
+"The University of California, Merced"
 "The University of California, Santa Cruz"
 The University of Cambridge
 The University of Central Florida
@@ -862,6 +906,7 @@ The University of New Hampshire
 The University of New Haven
 The University of North Carolina at Chapel Hill
 The University of North Carolina at Charlotte
+The University of North Carolina at Greensboro
 The University of North Texas
 The University of Northampton
 The University of Notre Dame
@@ -879,6 +924,7 @@ The University of Pittsburgh
 The University of Portland
 The University of Portsmouth
 "The University of Puerto Rico, Mayagüez Campus"
+"The University of Puerto Rico, Río Piedras Campus"
 The University of Richmond
 The University of Rochester
 The University of Salford
@@ -911,6 +957,8 @@ The University of Texas of the Permian Basin
 The University of Texas – Pan American
 The University of Toledo
 The University of Toronto
+The University of Toronto Scarborough
+The University of Toronto Mississauga
 The University of Tulsa
 The University of Utah
 The University of Vermont
@@ -1088,3 +1136,59 @@ Zespół Szkół im. Jana Pawła II w Niepołomicach
 École Centrale Paris
 École Polytechnique de Montréal
 École de technologie supérieure
+The University of Chicago
+Appalachian State University
+Eidgenössische Technische Hochschule (ETH) Zürich
+"Hunter College, CUNY"
+"School of Professional Studies, CUNY"
+"John Jay College of Criminal Justice, CUNY"
+"York College, CUNY"
+"Lehman College, CUNY"
+"Borough of Manhattan Community College, CUNY"
+"Kingsborough Community College, CUNY"
+"Bronx Community College, CUNY"
+"LaGuardia Community College, CUNY"
+"Guttman Community College, CUNY"
+"Queensborough Community College, CUNY"
+"Hostos Community College, CUNY"
+"Potsdam, SUNY"
+University of Southampton
+Florida Agricultural & Mechanical (A&M) University
+Truman State University
+EPFL | École polytechnique fédérale de Lausanne
+Santa Barbara City College
+TU/e Technische Universiteit Eindhoven University of Technology
+Berea College
+Delft University of Technology
+De Anza College
+"Queens College, CUNY"
+Yeshiva University
+Instituto Tecnólogico de La Laguna (ITL)
+Bryn Mawr College
+Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO)
+Salem State University
+Hood College
+Brno University of Technology
+Tacoma Community College
+University of Pikeville
+Slovak University of Technology in Bratislava (STU)
+South Texas College
+Instituto Tecnológico Superior de los Ríos
+Cardiff Metropolitan University
+Loyola Marymount University
+LIM College
+University of North America
+Université de Mons
+Instituto Tecnológico Superior de El Mante
+Glenbrook South High School
+Eastern Washington University
+Canada (Cañada) College
+Barton College
+Bergen County Technical High School - Teterboro
+Trinity International University
+Davidson College
+The University of the South - Sewanee
+Norco College
+Universidad Interamericana de Puerto Rico
+Maine South High School
+American High School

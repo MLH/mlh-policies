@@ -1,14 +1,14 @@
 MAJOR LEAGUE HACKING CONTEST (“Contest”) TERMS AND CONDITIONS Sponsored by Major League Hacking (“Sponsor”).
 
-**Term:** The Events season shall commence on August 27, 2016, and shall end on June 30, 2017. (the “Term”).
+**Term:** The Events season shall commence on August 26, 2017, and shall end on July 31, 2018. (the “Term”).
 
-**Events:** "Major League Hacking" Fall 2016 – Spring 2017 Member Events, consisting of individual third-party organized Major League Hacking league recognized "member" Events occurring during the Term in Mexico, Canada, the UK, member states of the European Union, and the fifty (50) United States and the District of Columbia. (each, an "Event").  At each Event there will be four Categories (defined below) in which Applications (defined below) may be submitted.
+**Events:** "Major League Hacking" Fall 2017 – Spring 2018 Member Events, consisting of individual third-party organized Major League Hacking league recognized "member" Events occurring during the Term in Mexico, Canada, the UK, member states of the European Union, and the fifty (50) United States and the District of Columbia. (each, an "Event").  At each Event there will be three Categories (defined below) in which Applications (defined below) may be submitted.
 
 THE CONTEST IS VOID WHERE PROHIBITED BY LAW. BY PARTICIPATING IN ANY EVENTS, YOU AGREE TO THESE TERMS AND CONDITIONS.
 
 NO ENTRY FEE.
 
-**Eligibility:** Contest is open to individuals who are at least eighteen years old (or minors with parental permission) and registered as students for the full calendar year of 2016 at a university or high school in the United States, Canada, or Mexico and who are not faculty at those universities or bound by the intellectual property policies of those universities.
+**Eligibility:** Contest is open to individuals who are at least eighteen years old (or minors with parental permission) and registered as students for the full calendar year of 2017 at a university or high school in participating locations and who are not faculty at those universities or bound by the intellectual property policies of those universities.
 
 Participation in each Event constitutes Participant’s full and unconditional agreement to and acceptance of these Terms and Conditions (“Terms”). The term “you” refers to you, the “Participant”.
 
@@ -28,10 +28,9 @@ Individuals and Teams are limited to one (1) Application in each Event.  Additio
 
 **Event Categories (each a “Category” and, together, the “Categories”):**
 
-0. Smart Behaviors for Smart Devices (a “Theme” and, taken together with the following categories, “Themes”)
+0. Best IoT Hack using Qualcomm (a “Theme” and, taken together with the following categories, “Themes”)
 0. Best Use of Amazon Web Services
 0. Best Use of Domain.com Domain Name
-0. Best Anti-Harassment Hack (the “Overall Theme”)
 
 **Scoring of APPLICATIONS:**
 
@@ -52,10 +51,9 @@ The Application that earns the highest overall score at each Event will win. The
 
 The Participant, or team of Participants whose Application is awarded the highest score by the Judge in each Category will each receive the following (prizes may vary by location):
 
-0. Best Device Privacy Hack (a “Theme” and, taken together with the following categories, “Themes”): one (1) copy of the Watch Dogs 2 Collectors Edition Game.  Approximate value of the prize: one hundred and ten dollars ($110).
-0. Best Use of Amazon Web Services: one (1) portable one (1) terabyte hard drive.  Approximate value of the prize: fifty dollars ($50).
-0. Best Use of Domain.com Domain Name: a Domain.com “swag bag.” Approximate value of the prize: twenty dollars ($20).
-0. Best Anti-Harassment Hack (the “Overall Theme”): one (1) “swag bag.”  Approximate value of the prize: thirty dollars ($30). Additional Grand Prize where applicable, as described in the Best Anti-Harassment Hack Terms and Conditions, available at [https://github.com/MLH/mlh-policies/blob/master/prize-terms-and-conditions/anti-harassment-prize-terms.md](https://github.com/MLH/mlh-policies/blob/master/prize-terms-and-conditions/anti-harassment-prize-terms.md).
+0. Best IoT Hack using Qualcomm: one (1) Dragonboard 410c device with power source.  Approximate value of the prize: seventy five dollars ($75).
+0. Best Use of Amazon Web Services: one (1) $250 AWS promotional credits if Event is held in the United State or $30 AWS promotional credit in other regions.
+0. Best Use of Domain.com Domain Name: one (1) Raspberry Pi kit.  Approximate value of the prize: seventy five dollars ($75).
 
 The odds of winning depend on the total number of eligible Entries received. No cash or other substitution of prizes is permitted, except at the sole option of Sponsor for a prize of equal or greater value. Sponsor will not replace any lost or stolen prizes. Winners are solely responsible for any and all federal, state, provincial and local taxes, if any, that apply to prizes.
 

@@ -1,14 +1,14 @@
 # Membership Guidelines
 
-This document outlines the Major League Hacking (MLH) Membership Guidelines. MLH provides all MLH Member Events with the following benefits and resources to ease the lives of organizers and improve the hacker experience.
+This document outlines the Major League Hacking (MLH) Membership Guidelines. MLH provides all MLH Member Events with the following benefits and resources (upon availability) to ease the lives of organizers and improve the hacker experience.
 
 ## Membership Benefits
 
-As an MLH Member Event all hackathons receive the following benefits.
+As an MLH Member Event all hackathons receive the following benefits (upon availability).
 
 0. **Listed on Season Page.** Events will be listed on their region's official hackathon season page.
 0. **Onsite Support.** MLHers are extensions of MLH Member Event organizing teams. They’re able to help coordinate judging, mentor hackers, set up food, or even take out the trash. Whatever a hackathon needs to ensure that an event runs smoothly MLH will be available to provide assistance.
-0. **Office Hours.** Our team helps support over 250 student hackathons every year. We've helped deal with all sorts of problems and questions. With MLH Office Hours, you can tap into the MLH team's expert advice and mentorship when you need it in a 1-on-1 environment.
+0. **Office Hours.** Our team helps support over 250 student hackathons every year. We've helped deal with all sorts of problems and questions. You may request MLH Office Hours and tap into the MLH team's expert advice and mentorship when you need it in a 1-on-1 environment.
 0. **MLH emergency budget** All MLH Member Events encounter a 30-50% attrition rate in registrations. To combat this, MLH Member events typically overbook for the hackathon. The uncertainty of attendance can be scary, so we’ll help you. If you overshoot your attendance goal, we'll pay for the food costs, to celebrate and also make sure your event doesn't go over budget.
 0. **Access to the Software Lab.** Every hacker who participates in an MLH Member Event gets a bundle of free services called the MLH Software Lab. This includes things such as web hosting credit and free domain names.
 0. **Access to the Hardware Lab.** The MLH Hardware lab contains the latest and greatest hardware for hackers to utilize for free at all MLH Member Events. *The MLH Hardware Lab is dependent on availability.*
@@ -17,9 +17,9 @@ As an MLH Member Event all hackathons receive the following benefits.
 0. **Post-event surveys.** All MLH Member Events are included in post-event surveys. These surveys will be shared with all organizers in addition to postseason reporting to provide analytics into event metrics relative to similar events and the rest of the league.
 0. **Social media promotion.** All MLH Member Events will be provided promotion to the network of tens of thousands of hackers who participate in MLH hackathons through social media and/or the MLH monthly newsletter.
 0. **Regional specific promotion.** We know that hackers within a 6 hour driving radius are the most likely to attend your event. Our team will work with you to promote your hackathon to the attendees most likely to attend.
-0. **MLH photographer.** An MLH photographer will be on site at every MLH Member Event to capture and record the special moments that happen at every hackathon.
+0. **MLH photographer.** An MLH photographer will be on site at some MLH Member Events to capture and record the special moments that happen at every hackathon. *The MLH photographer is dependent on availability.*
 0. **MLH Coordinated Judging** We know that judging is one of the most stressful periods during a hackathon. Our team is optionally able to coordinate judging for you during your event. 
-0. **Mini-Events.** MLHers are able to work together with MLH Member Events to host mini events to provide a fun break during hacking. Mini-Events include Cup Stacking, !Light, Slideshare karaoke or Werewolf. Which Mini-Events is hosted is dependent on availability of supplies.
+0. **Mini-Events.** MLHers are able to work together with MLH Member Events to host mini events to provide a fun break during hacking. Mini-Events include Cup Stacking, !Light, Slideshare karaoke or Werewolf. *Which Mini-Events is hosted is dependent on availability of supplies.*
 0. **GitHub New Member Grant.** All first time hackathons that become MLH Member Events are eligible for a $1000 sponsorship and one sponsored ticket to Hackcon, subject to approval from GitHub.
 0. **MyMLH.** MLH Member Events are able to utilize [MyMLH](https://my.mlh.io/), our single sign-on hackathon OAuth tool, to help streamline the process of getting hackers registered for their events. MLH Member Events are also able to receive support configuring MyMLH upon request.
 0. **Priority Access to MLH Localhost** MLH Member Events receive priority access to [MLH Localhost](https://localhost.mlh.io/). MLH Localhost is a series of expert workshops that an Organizer can learn to run on their own campus to engage their hacker club, build a community, and teach valuable skills to their fellow students.
@@ -45,4 +45,4 @@ Major League Hacking reserves the right to revise, make exceptions to, or otherw
 
 
 This guide was last updated on:
-July 31, 2017
+September 23, 2017

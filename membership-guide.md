@@ -46,4 +46,4 @@ Major League Hacking reserves the right to revise, make exceptions to, or otherw
 
 
 This guide was last updated on:
-September 23, 2017
+September 26, 2017

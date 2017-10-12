@@ -31,6 +31,7 @@ Individuals and Teams are limited to one (1) Application in each Event.  Additio
 0. Best IoT Hack using Qualcomm (a “Theme” and, taken together with the following categories, “Themes”)
 0. Best Use of Amazon Web Services
 0. Best Use of Domain.com Domain Name
+0. Best Ethical Hack
 
 **Scoring of APPLICATIONS:**
 
@@ -54,6 +55,7 @@ The Participant, or team of Participants whose Application is awarded the highes
 0. Best IoT Hack using Qualcomm: one (1) Dragonboard 410c device with power source.  Approximate value of the prize: seventy five dollars ($75).
 0. Best Use of Amazon Web Services: one (1) $250 AWS promotional credits if Event is held in the United State or $30 AWS promotional credit in other regions.
 0. Best Use of Domain.com Domain Name: one (1) Raspberry Pi kit.  Approximate value of the prize: seventy five dollars ($75).
+0. Best Ethical Hack: Grand Prize where applicable, as described in the Best Ethical Hack Terms and Conditions, available at [https://github.com/MLH/mlh-policies/blob/master/prize-terms-and-conditions/ethical-hack.md](https://github.com/MLH/mlh-policies/blob/master/prize-terms-and-conditions/ethical-hack.md).
 
 The odds of winning depend on the total number of eligible Entries received. No cash or other substitution of prizes is permitted, except at the sole option of Sponsor for a prize of equal or greater value. Sponsor will not replace any lost or stolen prizes. Winners are solely responsible for any and all federal, state, provincial and local taxes, if any, that apply to prizes.
 

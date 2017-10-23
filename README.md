@@ -2,6 +2,7 @@
 This serves as a changelog to the official MLH Policies.
 
 Contained within are:
+- [Cheating Response](cheating-response.md)
 - [Code of Conduct](code-of-conduct.md)
 - [Community Values](community-values.md)
 - [Data Sharing](data-sharing.md)
@@ -16,3 +17,9 @@ Contained within are:
 This repository also contains the official contest terms and conditions for MLH prizes at events and throughout the season:
 - [Contest Terms](prize-terms-and-conditions/contest-terms.md)
 - [Anti-Harassment Prize Terms](prize-terms-and-conditions/anti-harassment-prize-terms.md)
+
+## Recommended Guidelines
+
+These policies are suggested for local organizers to use for their event if there is no policy of their own.  It is not a requirement to use these policies.
+
+- [Standard Hackathon Rules](standard-hackathon-rules.md)

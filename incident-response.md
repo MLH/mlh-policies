@@ -25,11 +25,14 @@ There are also some guidelines as to what not to do as an initial response:
 - Do not overtly invite them to withdraw the complaint or mention that withdrawal is OK. This suggests that you want them to do so, and is therefore coercive. "If you're OK with it [pursuing the complaint]" suggests that you are by default pursuing it and is not coercive.
 - Do not ask for their advice on how to deal with the complaint. This is a staff responsibility
 - Do not offer them input into penalties. This is the staff's responsibility
-- Once something is reported to a staff member, immediately contact the incident response team via one of the phone numbers on [the MLH Code of Conduct](code-of-conduct.md). The main objectives of this meeting are to find out the following:
+- Once something is reported to a staff member, immediately contact the incident response team via one of the reporting phone numbers. The main objectives of this meeting are to find out the following:
 - What happened?
 - Are we doing anything about it?
 - Who is doing those things?
 - When are they doing them?
+
+- North America General Reporting - +1 (409) 202-6060, incidents@mlh.io
+- Europe General Reporting - +44 80 0808 5675, incidents@mlh.io
 
 Once the incident response team has been contacted, they will work with the staff member to loop in the event organizer. 
 
@@ -54,4 +57,4 @@ Depending on the incident, the MLH Incident Response Team may decide to make one
 
 If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with. If there are residual hard feelings, suggest to them to write an email to MLH. It will be dealt with accordingly.
 
-Last Revised: 2017-09-22
+Last Revised: 2017-11-06

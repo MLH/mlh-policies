@@ -28,7 +28,7 @@ There are also some guidelines as to what not to do as an initial response:
 
 Once something is reported to a staff member, immediately contact the incident response team via one of the reporting phone numbers. The main objectives of this meeting are to find out the following:
 - What happened?
-- Who is did the actions?
+- Who did the actions?
 - When did it occur?
 - Are we doing anything about it?
 

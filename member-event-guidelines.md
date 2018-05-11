@@ -40,7 +40,7 @@ This document outlines the Major League Hacking (MLH) Membership Guidelines. MLH
      -   **United States:** 200+ attendees        
      -   **Other Countries:** 100+ attendees
 
-8.  Language. While hackers speak many languages, we are only able to
+8.  **Language.** While hackers speak many languages, we are only able to
     work with events that have an English-language website and make
     announcements during the event in English. If you live in a country
     where English is not the native language, we encourage you to make

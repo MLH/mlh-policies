@@ -1,14 +1,14 @@
 MAJOR LEAGUE HACKING CONTEST (“Contest”) TERMS AND CONDITIONS Sponsored by Major League Hacking (“Sponsor”).
 
-**Term:** The Events season shall commence on August 26, 2017, and shall end on July 31, 2018. (the “Term”).
+**Term:** The Events season shall commence on August 24, 2018, and shall end on July 31, 2019. (the “Term”).
 
-**Events:** "Major League Hacking" Fall 2017 – Spring 2018 Member Events, consisting of individual third-party organized Major League Hacking league recognized "member" Events occurring during the Term in Mexico, Canada, the UK, member states of the European Union, and the fifty (50) United States and the District of Columbia. (each, an "Event").  At each Event there will be three Categories (defined below) in which Applications (defined below) may be submitted.
+**Events:** "Major League Hacking" Fall 2018 – Spring 2019 Member Events, consisting of individual third-party organized Major League Hacking league recognized "member" Events occurring during the Term in Mexico, Canada, the UK, member states of the European Union, and the fifty (50) United States and the District of Columbia. (each, an "Event").  At each Event there will be three Categories (defined below) in which Applications (defined below) may be submitted.
 
 THE CONTEST IS VOID WHERE PROHIBITED BY LAW. BY PARTICIPATING IN ANY EVENTS, YOU AGREE TO THESE TERMS AND CONDITIONS.
 
 NO ENTRY FEE.
 
-**Eligibility:** Contest is open to individuals who are at least eighteen years old (or minors with parental permission) and registered as students for the full calendar year of 2017 at a university or high school in participating locations and who are not faculty at those universities or bound by the intellectual property policies of those universities.
+**Eligibility:** Contest is open to individuals who are at least eighteen years old (or minors with parental permission) and registered as students for the full calendar year of 2018 or 2019 at a university or high school in participating locations and who are not faculty at those universities or bound by the intellectual property policies of those universities.
 
 Participation in each Event constitutes Participant’s full and unconditional agreement to and acceptance of these Terms and Conditions (“Terms”). The term “you” refers to you, the “Participant”.
 
@@ -29,9 +29,15 @@ Individuals and Teams are limited to one (1) Application in each Event.  Additio
 **Event Categories (each a “Category” and, together, the “Categories”):**
 
 0. Best IoT Hack using Qualcomm (a “Theme” and, taken together with the following categories, “Themes”)
-0. Best Use of Amazon Web Services
+0. Best Use of Google Cloud Platform
 0. Best Use of Domain.com Domain Name
-0. Best Ethical Hack
+0. Best Use of Algolia
+0. Best Use of Cisco WebEx Teams API
+0. Best Use of HERE.com
+0. Best Use of Clarifai
+0. Best Use of Snap Kit
+0. Best Social Good Hack
+0. Best Use of Authorize.net
 
 **Scoring of APPLICATIONS:**
 
@@ -44,7 +50,7 @@ The Applications will be judged according to the following criteria:
 0. adherence to Theme (25%) and
 0. practical implementation (25%).
 
-The Application that earns the highest overall score at each Event will win. The decisions of the Judge will be final. In the event of a tie, Judge will determine the winner at Judge’s sole and final discretion. Each Participant or team must be available during the Event’s judging period to demonstrate the Participant’s or team’s Application. Judges may inspect Applications at any time during the judging period. The judging period may be extended by Sponsor for any length of time, in Sponsor’ discretion.  If a judge or Participant identifies to Sponsor a conflict of interest, that Judge will be recused from judging the Application with the conflict and an alternate Judge will be identified as a substitution for the recused Judge. Applications may be subject to a due diligence review at any time for eligibility and compliance with these Terms. 
+The Application that earns the highest overall score at each Event or series of weekly Events will win. The decisions of the Judge will be final. In the event of a tie, Judge will determine the winner at Judge’s sole and final discretion. Each Participant or team must be available during the Event’s judging period to demonstrate the Participant’s or team’s Application. Judges may inspect Applications at any time during the judging period. The judging period may be extended by Sponsor for any length of time, in Sponsor’ discretion.  If a judge or Participant identifies to Sponsor a conflict of interest, that Judge will be recused from judging the Application with the conflict and an alternate Judge will be identified as a substitution for the recused Judge. Applications may be subject to a due diligence review at any time for eligibility and compliance with these Terms. 
 
 **Ownership of Applications:** Participant represents and warrants that the Application is and will be Participant’s own original work and does not and will not infringe the intellectual property or proprietary rights  of  any  third  party,  including,  without  limitation,  any  third  party patents, copyrights or trademarks. Participant hereby agrees not to instigate, support, maintain or authorize any action, claim or lawsuit against the Sponsor, or any other person, on  the  grounds  that  any  use  of  a  Participant’s Application  infringes  any  of Participant’s rights as creator of the Application, including, without limitation, trademark rights, copyrights and moral rights or “droit moral.” Each Participant acknowledges and agree that   Sponsor   or   other   Participants   or   third   parties   may   have   developed   or commissioned works which are similar to the Application of Participant or Participant’s team, or may develop something similar in the future, and each Participant waives any claims that Participant may have resulting from any similarities to the Application of Participant or Participant’s team.
 
@@ -53,9 +59,15 @@ The Application that earns the highest overall score at each Event will win. The
 The Participant, or team of Participants whose Application is awarded the highest score by the Judge in each Category will each receive the following (prizes may vary by location):
 
 0. Best IoT Hack using Qualcomm: one (1) Dragonboard 410c device with power source.  Approximate value of the prize: seventy five dollars ($75).
-0. Best Use of Amazon Web Services: one (1) $250 AWS promotional credits if Event is held in the United State or $30 AWS promotional credit in other regions.
+0. Best Use of Google Cloud Platform: one (1) Google Home Mini device.
 0. Best Use of Domain.com Domain Name: one (1) Raspberry Pi kit.  Approximate value of the prize: seventy five dollars ($75).
-0. Best Ethical Hack: Grand Prize where applicable, as described in the Best Ethical Hack Terms and Conditions, available at [https://github.com/MLH/mlh-policies/blob/master/prize-terms-and-conditions/ethical-hack.md](https://github.com/MLH/mlh-policies/blob/master/prize-terms-and-conditions/ethical-hack.md).
+0. Best Use of Algolia: one (1) Casio CA-506C-5A Calculator Watch.
+0. Best Use of Cisco WebEx Teams API: one (1) power bank.
+0. Best Use of HERE.com: one (1) promotional item.
+0. Best Use of Clarifai: one (1) promotional item.
+0. Best Use of Snap Kit: one (1) pair of Spectacles by Snapchat.
+0. Best Social Good Hack: one (1) gift card worth $50 USD.
+0. Best Use of Authorize.net: one (1) LS20 Gaming Headset.
 
 The odds of winning depend on the total number of eligible Entries received. No cash or other substitution of prizes is permitted, except at the sole option of Sponsor for a prize of equal or greater value. Sponsor will not replace any lost or stolen prizes. Winners are solely responsible for any and all federal, state, provincial and local taxes, if any, that apply to prizes.
 

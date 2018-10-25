@@ -16,7 +16,6 @@ Contained within are:
 
 This repository also contains the official contest terms and conditions for MLH prizes at events and throughout the season:
 - [Contest Terms](prize-terms-and-conditions/contest-terms.md)
-- [Anti-Harassment Prize Terms](prize-terms-and-conditions/anti-harassment-prize-terms.md)
 
 ## Recommended Guidelines
 

@@ -1,12 +1,13 @@
 # MLH Cheating Response Procedure
 
-The following is a guide of actions to be taken in the case of an accusation that a team cheated or otherwise violated the rules of competition. Violations of the Code of Conduct is handled under the [Incident Response Procedure](https://github.com/MLH/policies/blob/master/incident-response.md).
+The following is a guide of actions to be taken in the case of an accusation that a team cheated or otherwise violated the rules of competition. Other violations related to the [Code of Conduct] (https://static.mlh.io/docs/mlh-code-of-conduct.pdf) is handled under the [Incident Response Procedure](https://github.com/MLH/policies/blob/master/incident-response.md).  
+
 Accusations of cheating may include but are not limited to:
 
-- A team using somebody else’s code
+- A team replicating somebody else’s code without providing proper credit
 - A team misrepresenting the work they did
-- A team having too many team members
-- A team using code that was written outside the event
+- A team having more team members than the hackathon allows
+- A team using code that was written outside the event without proper documentation
 
 To determine the validity of cheating instances Major League Hacking defers to the rules adopted by the individual event. If the event did not adopt a unique set of rules, the default [MLH Hackathon Rules](https://github.com/MLH/hackathon-rules/blob/master/Rules.md) will be used.
 
@@ -36,14 +37,14 @@ Once something is reported to a staff member, immediately contact the League Tea
 - Rob Kleiman - rob@mlh.io
 - Jamie Liao - jamie.liao@mlh.io
 
-You can contact them on slack (where you can also find their cell numbers). The main objectives of the meeting with the League Team are to find out the following:
+The main objectives of the meeting with the League Team are to find out the following:
 
 - What happened?
 - Are we doing anything about it?
 - Who is doing those things?
 - When are they doing them?
 
-Once League Team have been contacted they will work with the staff member to loop in the event organizer if they are not already involved.
+Once League Team have been contacted they will work with the MLH rep to loop in the event organizer if they are not already involved.
 The League Team will then investigate the allegation by reviewing public materials about the hack, including project repos, project submissions, and anything else available to them. 
 
 ## Response
@@ -71,3 +72,5 @@ Sanctions for cheating are covered by the [Disciplinary Action Policy](https://g
 Depending on the cheating allegation, the League Team may decide to make one or more public announcements. If necessary, this will be done with a short announcement. No one other than MLH or someone delegated authority from MLH should make any announcements.
 
 If some attendees were angered by the cheating, it is best to apologize to them that the cheating occurred to begin with. If there are residual hard feelings, suggest to them to write an email to MLH. It will be dealt with accordingly.
+
+This document was last updated on:	May 13, 2019

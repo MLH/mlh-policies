@@ -14,7 +14,7 @@ for hackers, organizers, and sponsors alike.
 ## MLH Member Events set a standard of excellence for attendees.
 
  - Have a confirmed date and location that attendees can depend on.
- - Host attendees for a minimum of 24 hours, overnight.
+ - Events must be at least 24 hours and the venue must be available for attendees overnight.
  - Have enough food on site to reasonably feed attendees during the event.
  - Events should provide healthy food options and have options available for hackers with dietary restrictions.
  - Ensure that participants own any intellectual property they produce at the

@@ -44,7 +44,7 @@ for hackers, organizers, and sponsors alike.
 
  - Organizers don’t compete in any event they are organizing. They extend the
    same rule to judges, sponsors, and other staff.
- - Are open to hackers who are students at the time of the hackathon or who have graduated within the last 12 months. Students can include high school students, universty undergraduate or postgraduate students, and people who are in vocational training such as apprenticeships. They welcome non-students as volunteers, mentors, sponsors, and judges.
+ - Are open to hackers who are students at the time of the hackathon or who have graduated within the last 12 months. Students can include high school students, university undergraduate or postgraduate students, and people who are in vocational training such as apprenticeships. They welcome non-students as volunteers, mentors, sponsors, and judges.
  
 
 ## MLH Member Events are safe and welcoming spaces.

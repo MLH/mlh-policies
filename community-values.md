@@ -14,16 +14,15 @@ for hackers, organizers, and sponsors alike.
 ## MLH Member Events set a standard of excellence for attendees.
 
  - Have a confirmed date and location that attendees can depend on.
- - Host attendees overnight.
- - Are predominantly run by students or school faculty.
- - Ensure that participants own any intellectual property they produce at the
-   event.
+ - Events must be at least 24 hours and the venue must be available for attendees overnight.
  - Have enough food on site to reasonably feed attendees during the event.
  - Events should provide healthy food options and have options available for hackers with dietary restrictions.
+ - Ensure that participants own any intellectual property they produce at the
+   event.
  - Clearly communicate any major changes to the event (Ex. venue, location,
    schedule, theme, etc.) as soon as they occur.
  - Check in all attendees as they arrive at the event and make sure they have
- - up-to-date name, email, mobile phone number, and school for each of them.
+ up-to-date name, email, mobile phone number, and school for each of them.
  - Have at least one lead organizer who has full ability to make decisions on site at any time during the event.
 
 ## MLH Member Events are open and accessible to all students.
@@ -39,13 +38,14 @@ for hackers, organizers, and sponsors alike.
  - Aren’t secret or invite-only events
  - Have a straightforward and publicly known general application process. 
  - Publish the criteria for admission to their event.
+ - Publish the rules and regulations for competing in their event.
 
 ## MLH Member Events are fair.
 
  - Organizers don’t compete in any event they are organizing. They extend the
    same rule to judges, sponsors, and other staff.
  - Are open to hackers who are students at the time of the hackathon or who have graduated within the last 12 months. Students can include high school students, universty undergraduate or postgraduate students, and people who are in vocational training such as apprenticeships. They welcome non-students as volunteers, mentors, sponsors, and judges.
- - Publish the rules and regulations for competing in their event.
+ 
 
 ## MLH Member Events are safe and welcoming spaces.
 
@@ -75,4 +75,4 @@ but also the types of events that MLH wants to work with because of their
 positive contributions to the student hacker movement.
 
 This document was last updated on:
-June 16, 2017
+May 1, 2019

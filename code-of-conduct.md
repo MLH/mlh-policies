@@ -19,7 +19,7 @@ We expect participants to follow these rules at all hackathon venues, online int
 
 ## Reporting Procedures
 
-If you feel uncomfortable or think there may be a potential violation of the code of conduct, please report it immediately using one of the following methods.  All reporters have the right to remain anonymous.
+If you feel uncomfortable or think there may be a potential violation of the code of conduct, please report it immediately to the MLH Representative that is on-site at the event.  All reporters have the right to remain anonymous.
 
 By sending information to the general reporting line, your report will go to any or all of the MLH representatives listed below.
 
@@ -27,16 +27,18 @@ By sending information to the general reporting line, your report will go to any
 - Europe General Reporting - +44 80 0808 5675, incidents@mlh.io
 
 ## Special Incidents
-If you are uncomfortable reporting your situation to one or more of these people or need to contact any of them directly in case of emergency, direct contact details are listed below.
+If you are uncomfortable reporting your situation to one or more of these people or need to contact any of them directly in case of emergency, direct contact details are listed below.  Incidents emailed to incidents@mlh.io may be addressed after the event.  
 
 - Chi Nguyen - +1 (586) 244-8877, chi@mlh.io
 - Jon Gottfried - +1 (212) 851-6746, jon@mlh.io
 - Nick Quinlan - +1 (510) 859-8578, nq@mlh.io
 - Swift - +1 (347) 220-8667, swift@mlh.io
+- Jamie Wittenberg +1 (786) 353-5053, jamie@mlh.io
+- Ryan Swift - +1 (347) 868-6698, ryan@mlh.io
 
 MLH reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact MLH by e-mail at hi@mlh.io. 
 
 This guide was last updated on:
-May 14, 2018
+May 1, 2019
 
 

@@ -162,6 +162,8 @@ benefits.
     products. Events may also receive assorted swag from MLH Season
     sponsors such as pens and t-shirts.
 
+    - **Asia-Pacific:** Select swag may not be available to Member Events in Asia-Pacific.
+
 8.  **Judging Coordination.** We know that judging is one of the most
     stressful periods during a hackathon. Our MLH representative on-site
     can assist you with running demos and judging during your event in a

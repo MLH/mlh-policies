@@ -93,6 +93,8 @@ benefits.
     subject to approval from GitHub. Information will be sent out 40 days
     prior to your hackathon.
 
+    - **Asia-Pacific:** First Time Member Event grants are currently not available to Member Events in Asia-Pacific.
+
 5.  **MLH Localhost Workshops.** Hackers want workshops. We’ve created a
     program called MLH Localhost to help you run high-quality workshops
     that get hackers excited either before the hackathon or teach your

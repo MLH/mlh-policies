@@ -1,14 +1,14 @@
 MAJOR LEAGUE HACKING CONTEST (“Contest”) TERMS AND CONDITIONS Sponsored by Major League Hacking (“Sponsor”).
 
-**Term:** The Events season shall commence on August 24, 2018, and shall end on July 31, 2019. (the “Term”).
+**Term:** The Events season shall commence on August 30, 2019, and shall end on June 30, 2019. (the “Term”).
 
-**Events:** "Major League Hacking" Fall 2018 – Spring 2019 Member Events, consisting of individual third-party organized Major League Hacking league recognized "member" Events occurring during the Term in Mexico, Canada, the UK, member states of the European Union, and the fifty (50) United States and the District of Columbia. (each, an "Event").  At each Event there will be three Categories (defined below) in which Applications (defined below) may be submitted.
+**Events:** "Major League Hacking" Fall 2019 – Spring 2020 Member Events, consisting of individual third-party organized Major League Hacking league recognized "Member" Events occurring during the Term in Mexico, Canada, the UK, member states of the European Union, and the fifty (50) United States and the District of Columbia. (each, an "Event").  At each Event there will be Categories (defined below) in which Applications (defined below) may be submitted.
 
 THE CONTEST IS VOID WHERE PROHIBITED BY LAW. BY PARTICIPATING IN ANY EVENTS, YOU AGREE TO THESE TERMS AND CONDITIONS.
 
 NO ENTRY FEE.
 
-**Eligibility:** Contest is open to individuals who are at least eighteen years old (or minors with parental permission) and registered as students for the full calendar year of 2018 or 2019 at a university or high school in participating locations and who are not faculty at those universities or bound by the intellectual property policies of those universities.
+**Eligibility:** Contest is open to individuals who are at least eighteen years old (or minors with parental permission) and registered as students for the full calendar year of 2019 or 2020 at a university or high school in participating locations and who are not faculty at those universities or bound by the intellectual property policies of those universities.
 
 Participation in each Event constitutes Participant’s full and unconditional agreement to and acceptance of these Terms and Conditions (“Terms”). The term “you” refers to you, the “Participant”.
 
@@ -16,7 +16,7 @@ Employees of Sponsor and their respective parent companies, affiliates, subsidia
 
 **HOW TO PARTICIPATE IN THE CONTEST:** To participate in the Contest, you must submit an application (the “Application”) at the Event in relation to the Theme. You will have to present to the judges that are present an original project/prototype of your Application during a time window defined at the event. Your Application must be a working application, as understood in common industry practice, in order to be eligible; prototypes are not acceptable. All work on your Application must be performed during the time window defined at the Event. You may not perform any work on your Application prior to the time window defined at the Event or your Application will be disqualified at the sole discretion of the Sponsor. Judges can consider only Applications coming from registered individuals/teams. All components of each Application must be submitted in accordance with these Official Rules.
 
-You may not participate with more than one (1) Application at each Event, whether you are an individual entrant or part of a team. An Eligible Participant (or team) must be the sole owner of the Application submitted. If you enter the Contest as a member of a team, you acknowledge and agree that, in order for a team to be eligible to participate, all of the members of the team must meet the eligibility criteria contained herein and agree to these Terms and Conditions. By entering, you warrant that you have obtained the appropriate agreement and/or approval by your team members, and any other party which might otherwise claim title to or any other rights in relation to the Application or your participation in the Contest. In addition, you understand and agree that if the team is selected to receive a prize, the team is responsible for ensuring that the prize will be appropriately distributed to each member of the team and each member of the team must agree upon the payment method for the final prize, and that Major League Hacking has no responsibility whatsoever for such distribution or any dispute resulting therefrom. The eligibility of an Entrant is tied to the eligibility of the team. If one member of a team does not comply with these Terms and Conditions or is disqualified, the team as a whole will be disqualified.
+You may participate with more than one (1) Application at each Event, whether you are an individual entrant or part of a team. An Eligible Participant (or team) must be the sole owner of the Application submitted. If you enter the Contest as a member of a team, you acknowledge and agree that, in order for a team to be eligible to participate, all of the members of the team must meet the eligibility criteria contained herein and agree to these Terms and Conditions. By entering, you warrant that you have obtained the appropriate agreement and/or approval by your team members, and any other party which might otherwise claim title to or any other rights in relation to the Application or your participation in the Contest. In addition, you understand and agree that if the team is selected to receive a prize, the team is responsible for ensuring that the prize will be appropriately distributed to each member of the team and each member of the team must agree upon the payment method for the final prize, and that Major League Hacking has no responsibility whatsoever for such distribution or any dispute resulting therefrom. The eligibility of an Entrant is tied to the eligibility of the team. If one member of a team does not comply with these Terms and Conditions or is disqualified, the team as a whole will be disqualified.
 
 The Application must be in keeping with Sponsor’ image, and may not be offensive, nor can it defame, or infringe upon the publicity or privacy rights of any person or entity, or otherwise infringe upon any person or entity’s intellectual property or proprietary rights, as determined by Sponsor and the judges at their sole discretion. Each entrant must either (i) be the sole and exclusive owner of all rights (including, without limitation, all intellectual property rights) in and to all content and elements incorporated into or used in the Application, except those elements available in the public domain or under an appropriate general public license; or (ii) have the express written permission to use such content and elements from the owner(s) of the rights to such content and elements. Any entrant whose Application includes content or elements not owned by the entrant must be able to provide written legal releases (in a form that is satisfactory to Sponsor and the judges at their sole discretion) that permit the entrant to use and exploit such content and elements in the manner used and exploited and that permit Sponsor’ right to use and exploit the content and materials in accordance with these Official Rules (“IP Releases”) before eligible to be declared a winner. 
 
@@ -24,20 +24,16 @@ MAJOR LEAGUE HACKING RESERVES THE RIGHT, AT ITS SOLE DISCRETION AND WITHOUT LIMI
 
 Applications that are mechanically reproduced, copied, illegible, incomplete or inaccurate are void. Applications that have been generated by a script, macro, bot or any other automated means will be deemed void. Incomplete Applications or Applications not complying with these Official Rules are subject to disqualification. Sponsor are not responsible for late, lost, incomplete, illegible, damaged, or misdirected Applications. Major League Hacking’s decisions are final on all matters relating to this Competition. Any redistribution(s) by an entrant of his/her/its Applications and/or description shall not include any reference to the Competition or, for those entrants that are selected as winners, include any references to the fact that the entrant was a winner without Major League Hacking’s permission. Sponsor reserve all rights, including the right to edit, publish, use, adapt, modify, or dispose of any Application, description, proper names, likenesses, and photographs for advertising and promotional purposes in all media (including, but not limited to, the internet) without additional compensation, except where prohibited by law. If an entrant changes his/her/its telephone number, email address, and/or street address after he/she/it enters the Competition, it is his/her/its sole responsibility to notify Major League Hacking, within 10 days of such change, by email at hi@mlh.io to be received by the end of the Term. 
 
-Individuals and Teams are limited to one (1) Application in each Event.  Additional Applications will not be considered.  Individuals and Teams may submit additional Applications at subsequent Events throughout the Term. 
+Individuals and Teams are limited to one (1) Application for each Category in each Event.  Additional Applications will not be considered.  Individuals and Teams may submit additional Applications at subsequent Events throughout the Term. 
 
-**Event Categories (each a “Category” and, together, the “Categories”):**
+**Event Categories (each a “Category” and, together, the “Categories”) and are subject to change:**
 
 0. Best IoT Hack using Qualcomm (a “Theme” and, taken together with the following categories, “Themes”)
 0. Best Use of Google Cloud Platform
 0. Best Use of Domain.com Domain Name
-0. Best Use of Algolia
-0. Best Use of Cisco WebEx Teams API
-0. Best Use of HERE.com
-0. Best Use of Clarifai
 0. Best Use of Snap Kit
-0. Best Social Good Hack
-0. Best Use of Authorize.net
+0. Best Use of Blockstack
+0. Best Use of Transposit
 
 **Scoring of APPLICATIONS:**
 
@@ -50,7 +46,7 @@ The Applications will be judged according to the following criteria:
 0. adherence to Theme (25%) and
 0. practical implementation (25%).
 
-The Application that earns the highest overall score at each Event or series of weekly Events will win. The decisions of the Judge will be final. In the event of a tie, Judge will determine the winner at Judge’s sole and final discretion. Each Participant or team must be available during the Event’s judging period to demonstrate the Participant’s or team’s Application. Judges may inspect Applications at any time during the judging period. The judging period may be extended by Sponsor for any length of time, in Sponsor’ discretion.  If a judge or Participant identifies to Sponsor a conflict of interest, that Judge will be recused from judging the Application with the conflict and an alternate Judge will be identified as a substitution for the recused Judge. Applications may be subject to a due diligence review at any time for eligibility and compliance with these Terms. 
+The Application that earns the highest overall score at each Event or series of weekly Events will win. The decisions of the Judge will be final.  Applications must abide by the hackathon rules set forth by Major League Hacking by the [Hackathon Rules] (https://github.com/MLH/mlh-policies/blob/master/standard-hackathon-rules.md). In the event of a tie, Judge will determine the winner at Judge’s sole and final discretion. Each Participant or team must be available during the Event’s judging period to demonstrate the Participant’s or team’s Application. Judges may inspect Applications at any time during the judging period. The judging period may be extended by Sponsor for any length of time, in Sponsor’ discretion.  If a judge or Participant identifies to Sponsor a conflict of interest, that Judge will be recused from judging the Application with the conflict and an alternate Judge will be identified as a substitution for the recused Judge. Applications may be subject to a due diligence review at any time for eligibility and compliance with these Terms. 
 
 **Ownership of Applications:** Participant represents and warrants that the Application is and will be Participant’s own original work and does not and will not infringe the intellectual property or proprietary rights  of  any  third  party,  including,  without  limitation,  any  third  party patents, copyrights or trademarks. Participant hereby agrees not to instigate, support, maintain or authorize any action, claim or lawsuit against the Sponsor, or any other person, on  the  grounds  that  any  use  of  a  Participant’s Application  infringes  any  of Participant’s rights as creator of the Application, including, without limitation, trademark rights, copyrights and moral rights or “droit moral.” Each Participant acknowledges and agree that   Sponsor   or   other   Participants   or   third   parties   may   have   developed   or commissioned works which are similar to the Application of Participant or Participant’s team, or may develop something similar in the future, and each Participant waives any claims that Participant may have resulting from any similarities to the Application of Participant or Participant’s team.
 
@@ -61,13 +57,9 @@ The Participant, or team of Participants whose Application is awarded the highes
 0. Best IoT Hack using Qualcomm: one (1) Dragonboard 410c device with power source.  Approximate value of the prize: seventy five dollars ($75).
 0. Best Use of Google Cloud Platform: one (1) Google Home Mini device.
 0. Best Use of Domain.com Domain Name: one (1) Raspberry Pi kit.  Approximate value of the prize: seventy five dollars ($75).
-0. Best Use of Algolia: one (1) Casio CA-506C-5A Calculator Watch.
-0. Best Use of Cisco WebEx Teams API: one (1) power bank.
-0. Best Use of HERE.com: one (1) promotional item.
-0. Best Use of Clarifai: one (1) promotional item.
-0. Best Use of Snap Kit: one (1) pair of Spectacles by Snapchat.
-0. Best Social Good Hack: one (1) gift card worth $50 USD.
-0. Best Use of Authorize.net: one (1) LS20 Gaming Headset.
+0. Best Use of Snap Kit: one (1) pair of Spectacles or one (1) Casio watch by Snapchat.
+0. Best Use of Blockstack: one (1) Apple BeatsX Earphones.
+0. Best Use of Transposit: one (1) $50 Amazon Gift Card.
 
 The odds of winning depend on the total number of eligible Entries received. No cash or other substitution of prizes is permitted, except at the sole option of Sponsor for a prize of equal or greater value. Sponsor will not replace any lost or stolen prizes. Winners are solely responsible for any and all federal, state, provincial and local taxes, if any, that apply to prizes.
 

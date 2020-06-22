@@ -34,6 +34,7 @@ Once something is reported to a staff member, immediately contact the incident r
 
 - North America General Reporting - +1 (409) 202-6060, incidents@mlh.io
 - Europe General Reporting - +44 80 0808 5675, incidents@mlh.io
+- APAC General Reporting - +91 80004 02492, incidents@mlh.io
 
 Once the incident response team has been contacted, they will work with the staff member to loop in the event organizer if they are not already involved. 
 
@@ -58,4 +59,4 @@ Depending on the incident, the MLH Incident Response Team may decide to make one
 
 If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with. If there are residual hard feelings, suggest to them to write an email to MLH. It will be dealt with accordingly.
 
-Last Revised: 2017-11-21
+Last Revised: 2020-06-22

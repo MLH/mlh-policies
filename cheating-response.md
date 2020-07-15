@@ -32,9 +32,9 @@ There are also some guidelines as to what not to do as an initial response:
 
 Once something is reported to a staff member, immediately contact the League Team at league@mlh.io. The league team currently consists of:
 
-- Chi Nguyen - chi@mlh.io
-- Rob Kleiman - rob@mlh.io
 - Jamie Liao - jamie.liao@mlh.io
+- Mary Siebert - mary@mlh.io
+- Yashovardhan Agrawal - yash@mlh.io
 
 You can contact them on slack (where you can also find their cell numbers). The main objectives of the meeting with the League Team are to find out the following:
 

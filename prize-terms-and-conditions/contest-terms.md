@@ -1,14 +1,14 @@
 MAJOR LEAGUE HACKING CONTEST (“Contest”) TERMS AND CONDITIONS Sponsored by Major League Hacking (“Sponsor”).
 
-**Term:** The Events season shall commence on August 30, 2019, and shall end on June 30, 2020. (the “Term”).
+**Term:** The Events season shall commence on July 1, 2020, and shall end on June 30, 2021. (the “Term”).
 
-**Events:** "Major League Hacking" Fall 2019 – Spring 2020 Member Events, consisting of individual third-party organized Major League Hacking league recognized "Member" Events occurring during the Term in Mexico, Canada, India, Nepal, Singapore, Australia, the UK, member states of the European Union, and the fifty (50) United States and the District of Columbia. (each, an "Event"). At each Event there will be Categories (defined below) in which Applications (defined below) may be submitted.
+**Events:** "Major League Hacking" Fall 2020 – Spring 2021 Member Events, consisting of individual third-party organized Major League Hacking league recognized "Member" Events occurring during the Term in Mexico, Canada, India, Nepal, Singapore, Australia, the UK, member states of the European Union, and the fifty (50) United States and the District of Columbia. (each, an "Event"). At each Event there will be Categories (defined below) in which Applications (defined below) may be submitted.
 
 THE CONTEST IS VOID WHERE PROHIBITED BY LAW. BY PARTICIPATING IN ANY EVENTS, YOU AGREE TO THESE TERMS AND CONDITIONS.
 
 NO ENTRY FEE.
 
-**Eligibility:** Contest is open to individuals who are at least eighteen years old (or minors with parental permission) and registered as students for the full calendar year of 2019 or 2020 at a university or high school in participating locations and who are not faculty at those universities or bound by the intellectual property policies of those universities.
+**Eligibility:** Contest is open to individuals who are at least eighteen years old (or minors with parental permission) and registered as students for the full calendar year of 2020 or 2021 at a university or high school in participating locations and who are not faculty at those universities or bound by the intellectual property policies of those universities.
 
 Participation in each Event constitutes Participant’s full and unconditional agreement to and acceptance of these Terms and Conditions (“Terms”). The term “you” refers to you, the “Participant”.
 
@@ -76,15 +76,21 @@ Current Event Categories & Prizes
 
 0. The current Categories are:
 0. Best use of Google Cloud
-0. Best Domain Name from Domain.com
-0. Best UiPath Automation Hack
-0. Best use of MongoDB Atlas
-0. Most Creative Radar.io Hack
+0. Best Domain Registered with Domain.com
+0. Best Hardware Hack Sponsored by Digi-Key
+0. Best use of DataStax Astra
+0. Most Creative Radar Hack
+0. Best Use of CockroachDB
+0. Best Beginner Hackers
+0. Best Domain Name from GoDaddy Registry
 
 The Participant, or team of Participants whose Application is awarded the highest score by the Judge in each Category will each receive the following (prizes may vary by location):
 
-0. Best use of Google Cloud: one (1) Google Nest Mini. Approximate value of the prize: fifty dollars ($50). 
-0. Best Domain Name from Domain.com: one (1) Domain.com Branded Backpack. Approximate value of the prize: twenty five dollars ($25).
-0. Best UiPath Automation Hack: one (1) UiPath Branded Backpack. Approximate value of the prize: twenty five dollars ($25).
-0. Best use of MongoDB Atlas: one (1) AirCharge Plus. Approximate value of the prize: fifty dollars ($50).
-0. Most Creative Radar.io Hack: one (1) Tile Sticker Smart Tracker. Approximate value of the prize: fifteen dollars ($15).
+0. Best use of Google Cloud: (1) Google Tote Bag Package or 1 hour Mentoring Session. Approximate value of the prize: seventy-five dollars USD ($75 USD)
+0. Best Domain Registered with Domain.com: (1) PowerSquare Qi Wireless Phone Charger & Domain.com Backpack. Approximate value of the prize: twenty-five dollars USD ($25 USD)
+0. Best Hardware Hack Sponsored by Digi-Key: (1) Grove Beginner Kits. Approximate value of the prize: twenty-five dollars USD ($25 USD)
+0. Best use of DataStax Astra: (1) Blue Snowball Mic. Approximate value of the prize: fifty dollars USD ($50 USD)
+0. Most Creative Radar Hack: (1) Tile Sticker Smart Tracker & a chance be featured by Radar. Approximate value of the prize: fifty dollars USD ($50 USD)
+0. Best Use of CockroachDB: (1) 3D printing pen. Approximate value of the prize: fifty dollars USD ($50 USD)
+0. Best Beginner Hackers: (1) Arduino Starter Kit. Approximate value of the prize: fifty dollars USD ($50 USD)
+0. Best Domain Name from GoDaddy Registry: (1) Hack from Home Kit: Wireless Earbuds, Blue Light Glasses, Selfie Ring Light, Pouch for easy transport. Approximate value of the prize: fifty-one dollars USD ($51 USD)

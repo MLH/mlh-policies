@@ -228,22 +228,22 @@ organizers must meet the following requirements:
     opt-in.
 
     a. **Contact / Demographic Info.** Your registration form MUST ask for:
-    first name, last name, email, school, and phone number. Optionally, we
-    encourage you to also ask for: age, gender, race/ethnicity, major, current
+    first name, last name, age, email, school, and phone number. Optionally, we
+    encourage you to also ask for: gender, race/ethnicity, major, current
     level of study, and expected graduation year.
 
     b. **MLH Code of Conduct, Data Sharing, and Terms & Conditions Checkbox.** Add a checkbox with the following
     language to your registration form: "I have read and agree to
     the [MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
-    I authorize you to share my application/registration information for event
-    administration, ranking, MLH administration, pre- and post-event
-    informational e-mails, and occasional messages about hackathons in-line
+    “I authorize you to share my application/registration information with Major League Hacking for
+    event administration, ranking, and MLH administration in-line
     with the [MLH Privacy Policy](https://mlh.io/privacy). I further agree to
     the terms of both the [MLH Contest Terms and Conditions](https://github.com/MLH/mlh-policies/tree/master/prize-terms-and-conditions) and the [MLH Privacy Policy](https://mlh.io/privacy).”
-
-    We have grouped these terms into a single checkbox for ease of setup and
-    improved user experience. If your local laws require you to separate these
-    terms (Ex. GDPR), you can find those [checkbox requirements here](https://docs.google.com/document/d/1K7HSIEO8tA7vbD0dtwvesMOhDAea8nDKJlu3f3kS8pE/edit?usp=sharing).
+    “I authorize MLH to send me pre- and post-event informational emails,
+    which contain free credit and opportunities from their partners."
+    
+    If your local laws require you to adjust these
+    terms in any way (Ex. GDPR), you can find those [checkbox requirements here](https://docs.google.com/document/d/1K7HSIEO8tA7vbD0dtwvesMOhDAea8nDKJlu3f3kS8pE/edit?usp=sharing).
 
 3.  **MLH Website Branding.** On your hackathon’s website, you must display
     the MLH Season Trust Badge in the header and the MLH logo under your

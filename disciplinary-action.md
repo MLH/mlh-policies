@@ -11,7 +11,7 @@ Participants may attempt to appeal Temporary Suspensions and Permanent Bans by s
 
 ## Notification Procedure
 
-Participants who are issued a Temporary Suspension or Permanent Ban will be notified in writing via email.  The email will include the following information:
+Participants who are issued a Temporary Suspension or Permanent Ban will be notified in writing via email. The email will include the following information:
 
 - The exact cause for the Temporary Suspension or Permanent Ban.
 - The length of the Suspension.  Bans are permanent.
@@ -25,9 +25,4 @@ If an individual attempts to register for a Sanctioned MLH Event which would tak
 
 In the interest of privacy, MLH will not disclose the reason for the Temporary Suspension or Permanent Ban to the local event organizers unless it is at the individual's request to do so.
 
-Major League Hacking reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact MLH by e-mail at hi@mlh.io.
-
-
-This policy was last updated on:
-May 13, 2015
-
+Major League Hacking reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact MLH by e-mail at incidents@mlh.io.

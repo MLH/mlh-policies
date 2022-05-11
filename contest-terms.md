@@ -1,14 +1,14 @@
 MAJOR LEAGUE HACKING CONTEST (“Contest”) TERMS AND CONDITIONS Sponsored by Major League Hacking (“Sponsor”).
 
-**Term:** The Events season shall commence on July 1, 2020, and shall end on June 30, 2021. (the “Term”).
+**Term:** The Events season shall commence on July 1, 2022, and shall end on June 30, 2023. (the “Term”).
 
-**Events:** "Major League Hacking" Fall 2020 – Spring 2021 Member Events, consisting of individual third-party organized Major League Hacking league recognized "Member" Events occurring during the Term in Mexico, Canada, India, Nepal, Singapore, Australia, the UK, member states of the European Union, and the fifty (50) United States and the District of Columbia. (each, an "Event"). At each Event there will be Categories (defined below) in which Applications (defined below) may be submitted.
+**Events:** "Major League Hacking" Fall 2022 – Spring 2023 Member Events, consisting of individual first or third party organized Major League Hacking league recognized "Member" Events occurring during the Term in Mexico, Canada, India, Nepal, Singapore, Australia, the UK, member states of the European Union, and the fifty (50) United States and the District of Columbia. (each, an "Event"). At each Event there will be Categories (defined below) in which Applications (defined below) may be submitted.
 
 THE CONTEST IS VOID WHERE PROHIBITED BY LAW. BY PARTICIPATING IN ANY EVENTS, YOU AGREE TO THESE TERMS AND CONDITIONS.
 
 NO ENTRY FEE.
 
-**Eligibility:** Contest is open to individuals who are at least eighteen years old (or minors with parental permission) and registered as students for the full calendar year of 2020 or 2021 at a university or high school in participating locations and who are not faculty at those universities or bound by the intellectual property policies of those universities.
+**Eligibility:** Contest is open to individuals who are at least eighteen years old (or minors with parental permission) and meet all other eligiblity requirements for that Event as listed. 
 
 Participation in each Event constitutes Participant’s full and unconditional agreement to and acceptance of these Terms and Conditions (“Terms”). The term “you” refers to you, the “Participant”.
 
@@ -39,7 +39,7 @@ The Applications will be judged according to the following criteria:
 0. adherence to Theme (25%) and
 0. practical implementation (25%).
 
-The Application that earns the highest overall score at each Event or series of weekly Events will win. The decisions of the Judge will be final. Applications must abide by the hackathon rules set forth by Major League Hacking by the [Hackathon Rules] (https://github.com/MLH/mlh-policies/blob/master/standard-hackathon-rules.md). In the event of a tie, Judge will determine the winner at Judge’s sole and final discretion. Each Participant or team must be available during the Event’s judging period to demonstrate the Participant’s or team’s Application. Judges may inspect Applications at any time during the judging period. The judging period may be extended by Sponsor for any length of time, in Sponsor’ discretion. If a judge or Participant identifies to Sponsor a conflict of interest, that Judge will be recused from judging the Application with the conflict and an alternate Judge will be identified as a substitution for the recused Judge. Applications may be subject to a due diligence review at any time for eligibility and compliance with these Terms.
+The Application that earns the highest overall score at each Event or series of weekly Events will win. The decisions of the Judge will be final. Applications must abide by the hackathon rules set forth by the Event and Major League Hacking in the [Hackathon Rules] (https://github.com/MLH/mlh-policies/blob/master/standard-hackathon-rules.md). In the event of a tie, Judge will determine the winner at Judge’s sole and final discretion. Each Participant or team must be available during the Event’s judging period to demonstrate the Participant’s or team’s Application. Judges may inspect Applications at any time during the judging period. The judging period may be extended by Sponsor for any length of time, in Sponsor’ discretion. If a judge or Participant identifies to Sponsor a conflict of interest, that Judge will be recused from judging the Application with the conflict and an alternate Judge will be identified as a substitution for the recused Judge. Applications may be subject to a due diligence review at any time for eligibility and compliance with these Terms.
 
 **Ownership of Applications:** Participant represents and warrants that the Application is and will be Participant’s own original work and does not and will not infringe the intellectual property or proprietary rights of any third party, including, without limitation, any third party patents, copyrights or trademarks. Participant hereby agrees not to instigate, support, maintain or authorize any action, claim or lawsuit against the Sponsor, or any other person, on the grounds that any use of a Participant’s Application infringes any of Participant’s rights as creator of the Application, including, without limitation, trademark rights, copyrights and moral rights or “droit moral.” Each Participant acknowledges and agree that Sponsor or other Participants or third parties may have developed or commissioned works which are similar to the Application of Participant or Participant’s team, or may develop something similar in the future, and each Participant waives any claims that Participant may have resulting from any similarities to the Application of Participant or Participant’s team.
 
@@ -75,22 +75,41 @@ Sponsor reserves the right, in their sole discretion, to cancel, modify or suspe
 Current Event Categories & Prizes
 
 0. The current Categories are:
-0. Best use of Google Cloud
-0. Best Domain Registered with Domain.com
+0. Best Domain Name from Domain.com
+0. Best Use of Google Cloud
 0. Best Hardware Hack Sponsored by Digi-Key
-0. Best use of DataStax Astra
-0. Most Creative Radar Hack
-0. Best Use of CockroachDB
-0. Best Beginner Hackers
+0. Best Use of Linode Cloud
+0. Best use of CockroachDB
 0. Best Domain Name from GoDaddy Registry
+0. Most Creative Use of Twilio
+0. Best Web Monetization Project
+0. Best Use of Auth0
+0. Dream Big and Create More Cheers with AB InBev
+0. Best Use of MATLAB
+0. Best Blockchain Project Using Hedera
+0. Best Use of DeSo
+0. Best CI/CD Application Using CircleCI
+0. Most Creative Use of GitHub
+0. Best Hack for Social Good by BlackRock
 
 The Participant, or team of Participants whose Application is awarded the highest score by the Judge in each Category will each receive the following (prizes may vary by location):
 
-0. Best use of Google Cloud: (1) Google Tote Bag Package or 1 hour Mentoring Session. Approximate value of the prize: seventy-five dollars USD ($75 USD)
-0. Best Domain Registered with Domain.com: (1) PowerSquare Qi Wireless Phone Charger & Domain.com Backpack. Approximate value of the prize: twenty-five dollars USD ($25 USD)
-0. Best Hardware Hack Sponsored by Digi-Key: (1) Grove Beginner Kits. Approximate value of the prize: twenty-five dollars USD ($25 USD)
-0. Best use of DataStax Astra: (1) Blue Snowball Mic. Approximate value of the prize: fifty dollars USD ($50 USD)
-0. Most Creative Radar Hack: (1) Tile Sticker Smart Tracker & a chance be featured by Radar. Approximate value of the prize: fifty dollars USD ($50 USD)
-0. Best Use of CockroachDB: (1) 3D printing pen. Approximate value of the prize: fifty dollars USD ($50 USD)
-0. Best Beginner Hackers: (1) Arduino Starter Kit. Approximate value of the prize: fifty dollars USD ($50 USD)
-0. Best Domain Name from GoDaddy Registry: (1) Hack from Home Kit: Wireless Earbuds, Blue Light Glasses, Selfie Ring Light, Pouch for easy transport. Approximate value of the prize: fifty-one dollars USD ($51 USD)
+0. Best Domain Name from Domain.com: (1) PowerSquare Qi Wireless Phone Charger.
+0. Best Use of Google Cloud: (1) Google Cloud Swag Bag or Backpack.
+0. Best Hardware Hack Sponsored by Digi-Key: (1) Grove Beginner Kit.
+0. Best Use of Linode Cloud: (1) Raspberry Pi 4 Starter Kit.
+0. Best use of CockroachDB: (1) 3D Printing Pen.
+0. Best Domain Name from GoDaddy Registry: (1) Hack from Home Kit.
+0. Most Creative Use of Twilio: (1) Twilio Swag Box, (1) GameGo Console.
+0. Best Web Monetization Project: (1) Portable Charger, (1) Coil Pin, and (1) $60 Coil Credit.
+0. Best Use of Auth0: (1) Auth0 Branded Tumbler, (1) Rubik's Cube.
+0. Dream Big and Create More Cheers with AB InBev: (1) Anker Wireless Charger Bundle.
+0. Best Use of MATLAB: (1) MathWorks Swag Bag. 
+0. Best Blockchain Project Using Hedera: (1) Glorious Modular Compact Mechanical Keyboard. 
+0. Best Use of DeSo: (1) $100 worth of $DESO coin, (1) DeSo Tumbler, and (1)  Yubikey Secuity Key.
+0. Best CI/CD Application Using CircleCI: (1) CircleCI Swag Pack.
+0. Most Creative Use of GitHub: (1) GitHub Octocat Statue, Plushy & Sticker Bundle.
+0. Best Hack for Social Good by BlackRock: (1) KeepCup and Blackrock Swag Bag.
+
+This document was last updated on: 
+May 11th 2022

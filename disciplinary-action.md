@@ -3,9 +3,11 @@ To ensure that Major League Hacking (MLH) sanctioned events are a safe and welco
 
 In the event of a violation of sanctioning guidelines, Code of Conduct, or other official Major League Hacking regulation or policy, actions will be taken to rectify the issue. These actions will typically include, in order of severity, the following:
 
-- Written or Verbal Warning outlining the violation and how the participant can take action to resolve the issue.
-- Temporary Suspension from the current or future MLH season(s).
-- Permanent Ban from all MLH activities.
+- Warning the harasser to cease their behavior and that any further reports will result in further sanctions
+- Requiring that the harasser avoid any interaction with, and physical proximity to, their victim for the remainder of the event
+- Immediately ending any event volunteer responsibilities and privileges the harasser holds
+- Requiring that the harasser immediately leave the event and not return
+- Banning the harasser from future events (either indefinitely or for a certain time period)
 
 Participants may attempt to appeal Temporary Suspensions and Permanent Bans by submitting a written request over email to incidents@mlh.io with “[Appeal]” in the subject line and attaching relevant evidence.  
 

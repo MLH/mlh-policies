@@ -1,4 +1,4 @@
-##TechTogether Gender Inclusivity Policy
+## TechTogether Gender Inclusivity Policy
 
 TechTogether events aim to address the gender inequities in the hackathon community and serve people of marginalized gender identities, this includes transgender women, cisgender women, transgender men, non-binary individuals, and all gender identities which have been systematically oppressed by those in power throughout history. TechTogether hackathons are only open to people with these identities.
 

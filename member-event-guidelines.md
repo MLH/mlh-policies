@@ -33,7 +33,7 @@ _Major League Hacking (MLH)_
 # 
 
 
-# **M**ember Event** Overview**
+# **M**ember Event **Overview**
 
 _This section contains an overview of what MLH Member Events are and common questions about them._
 
@@ -45,7 +45,7 @@ An **MLH Member Event** is a hackathon that Major League Hacking has verified as
 Throughout the Member Event’s planning process, they are supported by a **Hackathon Community Manager** (HCM) from MLH to help answer any questions, talk through challenges, and brainstorm new ideas. 
 
 
-## **Do**es MLH support In-Person or Digital Member** Events?**
+## **Does MLH support In-Person or Digital Member Events?**
 
 MLH supports both digital and in-person events to accommodate your local COVID-19 restrictions. You can always find our latest COVID-19 guidance at [mlh.io/covid](http://mlh.io/covid). Below are the types of events that we’re currently partnering with: 
 
@@ -60,27 +60,15 @@ MLH supports both digital and in-person events to accommodate your local COVID-1
 This season MLH is recommending that our Member Event hackathons choose between being a fully digital or fully in-person hackathon. We are still accepting applications for hybrid events, but we have seen over the past year that hybrid events are worse for both organizers and hackers. Organizers struggle to coordinate two events simultaneously (_a well run digital hackathon is more than just a Discord!_). Digital hackers end up feeling left out at hybrid events and have a less impactful experience. If you have questions about running a hybrid event, please speak with your HCM or email [league@mlh.io](mailto:league@mlh.io).
 
 
-## **How** do we become a** Member Event?**
+## **How do we become a Member Event?**
 
-While there are many steps to becoming an MLH Member Event and it does not happen overnight, our team has an interest in you successfully becoming a Member Event. We want to do _anything_ we can to help you complete your application successfully. In 
+While there are many steps to becoming an MLH Member Event and it does not happen overnight, our team has an interest in you successfully becoming a Member Event. We want to do _anything_ we can to help you complete your application successfully. In Appendix 3, you can find a visual reference for each step in this process.
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Appendix 3"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Appendix 3](#heading=h.b5woq1dxsgsp), you can find a visual reference for each step in this process.
-
-You’ll start with a simple initial application (that you can probably fill out right now at [http://hackp.ac/member-event-application](http://hackp.ac/member-event-application)).
+You’ll start with a simple initial application (that you can probably fill out right now at http://hackp.ac/member-event-application.
 
 After your **Initial Application** is completed, you’ll have access to our full Member Event Application. The application is broken down into sections on major topics (like sponsorship and marketing) that you’ll complete before MLH reviews your **Member Event Application** in full. When you’re ready, you’ll ‘submit’ your application to our team for review.
 
-From there, our team will review your responses to make sure we understand your event and we’re able to support it logistically (
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "see our Minimum Requirements"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[see our Minimum Requirements](#heading=h.f53ugzkzhmrw)). For those events that do move forward, we’ll request additional documents from your team (
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "more detail in Appendix 1"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[more detail in Appendix 1](#heading=h.eabtfz4zdzbi)), so we can complete a **Document Review**.
+From there, our team will review your responses to make sure we understand your event and we’re able to support it logistically - see our Minimum Requirements Section for more information. For those events that do move forward, we’ll request additional documents from your team (Please see Appendix 1 for more details), so we can complete a **Document Review**.
 
 After your documents are reviewed and confirmed, you’ll have a **Member Event Interview** with one of our Hackathon Community Managers. You and your team earn MLH Member Event status by completing all of these steps and hitting the quality marks we look for in events. After your interview, our team will let you know the results of your application. 
 
@@ -97,7 +85,7 @@ We encourage events to start their applications as soon as possible because we�
 
 # Benefits
 
-_By partnering with MLH, you get access to all the following benefits and any additional benefits we roll out throughout the year. _
+By partnering with MLH, you get access to all the following benefits and any additional benefits we roll out throughout the year. 
 
 
 ## Before Your Hackathon

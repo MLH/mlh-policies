@@ -179,22 +179,22 @@ ______________________
 
 **Event Date.** Your hackathon must take place during the current or upcoming academic year, from August 1st, 2022 to July 1st, 2023. MLH is unable to support hackathons the weekend of Hackcon (typically the last weekend of August). 
 
-**Free to Attend. ** Member Events do not have entry fees, which makes them open and accessible to all participants, regardless of their financial situations.
+**Free to Attend.** Member Events do not have entry fees, which makes them open and accessible to all participants, regardless of their financial situations.
 
-**Primarily Students. ** At least 80% of your hackathon’s attendees must be students at the time of the hackathon or have left school within the current academic year. Student attendees can be enrolled at any level of study at a traditional (middle school, high school, university, etc.), nontraditional (coding bootcamp, home school, online, etc.) institution, or graduated in the past year. 
+**Primarily Students.** At least 80% of your hackathon’s attendees must be students at the time of the hackathon or have left school within the current academic year. Student attendees can be enrolled at any level of study at a traditional (middle school, high school, university, etc.), nontraditional (coding bootcamp, home school, online, etc.) institution, or graduated in the past year. 
 
 **Hackathon Locations.** We are only able to currently support Member Events and their organizers that are based in the following regions:
 
 
 
-* **North America: ** United States, Canada, and Mexico.
+* **North America:** United States, Canada, and Mexico.
 * **Europe** : United Kingdom, the European Union, and select other European countries.
 * **Asia-Pacific** : India, Sri Lanka, Nepal, and select countries in Southeast Asia, East Asia, and Australasia.
 * **Digital Events** : We can work with digital events in any of the above countries or regions. Countries outside of the above service area will require approval. This shouldn’t stop you from applying, but if you want to be sure email us at league@mlh.io.  
 
-**Duration. ** Member Events are typically 24 to 48 hours long and take place over a weekend (usually Friday to Sunday). Judging and prizes are typically awarded at the end of your hackathon on Sunday. If you’re planning on awarding prizes post-event, speak with your HCM. 
+**Duration.** Member Events are typically 24 to 48 hours long and take place over a weekend (usually Friday to Sunday). Judging and prizes are typically awarded at the end of your hackathon on Sunday. If you’re planning on awarding prizes post-event, speak with your HCM. 
 
-**Language. ** We are only able to work with events that have an English-language website and make announcements during the event in English. If you live in a country where English is not the native language, we encourage you to make announcements and provide information in both languages.
+**Language.** We are only able to work with events that have an English-language website and make announcements during the event in English. If you live in a country where English is not the native language, we encourage you to make announcements and provide information in both languages.
 
 
 ## Agreements
@@ -217,9 +217,9 @@ The document can be found in full in Appendix 4.
 
 The document can be found in full in Appendix 5.
 * **Brand License.** We will include your event on the official season schedule ([https://mlh.io/seasons/2022/events](https://mlh.io/seasons/2022/events)) and promote it to our community, but we need your permission to do so. By signing this agreement, you grant MLH an indefinite license to use your event name, branding, and materials to market your event and the season of Member Events. Additionally, we grant Member Events a non-exclusive license to use the MLH name and brand in conjunction with the event. MLH reserves the right to terminate the organizer's license at any time at our absolute discretion.
-* ** Content Agreement. ** We love posting photos and videos of Member Events on our website and social media, but we can’t do that without your permission. By signing this agreement, you grant MLH permission to record and publish photos and video of the event and the right to produce commercial video content (this does not include TV news or sponsor/event recaps). You will also post a clear notice of photo/recording for participants either on your site or in your venue. 
-* ** Property Care Agreement. ** Member Events recognize that any MLH property they borrow (hardware, signage, mini-event supplies, etc.) will be used by other Member Events during the year. If any supplies are lost, damaged, or late, other events will be unable to utilize them. You agree to see that, to the best of your ability, all MLH property is cared for and returned on time by your hackers, organizers, sponsors, and volunteers.
-* ** MLH Season Trust Badge. ** On your hackathon’s website, you must display the MLH Season Trust Badge in the header and the MLH logo under your partners section.** **Hackers and sponsors see the presence of these logos and know that you have achieved the level of quality guaranteed by being a Member Event.  You can find these assets on our official Brand Guidelines ([https://mlh.io/brand-guidelines](https://mlh.io/brand-guidelines)).
+* **Content Agreement.** We love posting photos and videos of Member Events on our website and social media, but we can’t do that without your permission. By signing this agreement, you grant MLH permission to record and publish photos and video of the event and the right to produce commercial video content (this does not include TV news or sponsor/event recaps). You will also post a clear notice of photo/recording for participants either on your site or in your venue. 
+* **Property Care Agreement.** Member Events recognize that any MLH property they borrow (hardware, signage, mini-event supplies, etc.) will be used by other Member Events during the year. If any supplies are lost, damaged, or late, other events will be unable to utilize them. You agree to see that, to the best of your ability, all MLH property is cared for and returned on time by your hackers, organizers, sponsors, and volunteers.
+* **MLH Season Trust Badge.** On your hackathon’s website, you must display the MLH Season Trust Badge in the header and the MLH logo under your partners section.** **Hackers and sponsors see the presence of these logos and know that you have achieved the level of quality guaranteed by being a Member Event.  You can find these assets on our official Brand Guidelines ([https://mlh.io/brand-guidelines](https://mlh.io/brand-guidelines)).
 
 
 ## Hacker Registration Requirements
@@ -230,28 +230,28 @@ ______________________
 
 **_Initials_**
 
-**Attendee Registration Platform. ** An event’s registration portal is one of the first points of contact for a lot of hackers. Consistency is key for the hacker experience of new and returning hackers. Because of this, we require all MLH Member Events to have a consistent registration platform with the following features:
+**Attendee Registration Platform.** An event’s registration portal is one of the first points of contact for a lot of hackers. Consistency is key for the hacker experience of new and returning hackers. Because of this, we require all MLH Member Events to have a consistent registration platform with the following features:
 
 
 
-* **Hacker Communication. ** As hackers register for your event, it’s important to communicate any updates or changes to the event via email. The chosen registration platform must allow the event organizers to contact all hackers that are registered through their platform or via export to other platforms. 
-* **Control Hacker Data. ** All hackers should expect their data to be protected and only accessed by those given permission. The platform must enable organizers to request and receive this permission on behalf of themselves and/or partners. 
-* **Add Customizable Opt-In Questions. **We require all hackers who attend a Member Event to agree to the MLH Code of Conduct and Event Logistics Information. The platform must allow organizers to add in questions that enable organizers to collect opt-in information. For more information on the policies, see Registration Form below.
+* **Hacker Communication.** As hackers register for your event, it’s important to communicate any updates or changes to the event via email. The chosen registration platform must allow the event organizers to contact all hackers that are registered through their platform or via export to other platforms. 
+* **Control Hacker Data.** All hackers should expect their data to be protected and only accessed by those given permission. The platform must enable organizers to request and receive this permission on behalf of themselves and/or partners. 
+* **Add Customizable Opt-In Questions.** We require all hackers who attend a Member Event to agree to the MLH Code of Conduct and Event Logistics Information. The platform must allow organizers to add in questions that enable organizers to collect opt-in information. For more information on the policies, see Registration Form below.
 
-**Registration Form. ** We require Member Events to update their registration form to include a set of basic fields and checkboxes. This ensures that we know who is attending MLH Member Events and that attendees know what they are agreeing to. Check out our sample form at [https://majorleaguehacking.typeform.com/example-mlh-reg](https://majorleaguehacking.typeform.com/example-mlh-reg) for what our expectations are. _We do not collect, utilize, or share any personal information without an attendee opt-in._
+**Registration Form.** We require Member Events to update their registration form to include a set of basic fields and checkboxes. This ensures that we know who is attending MLH Member Events and that attendees know what they are agreeing to. Check out our sample form at [https://majorleaguehacking.typeform.com/example-mlh-reg](https://majorleaguehacking.typeform.com/example-mlh-reg) for what our expectations are. _We do not collect, utilize, or share any personal information without an attendee opt-in._
 
 
 
 * **MLH Checkboxes**. In order to administer many of our benefits, we need your hackers to agree to two checkboxes. 
     * Add required agreements or acknowledgments for each of the following into your registration form: 
-        1. [REQUIRED] _MLH Code of Conduct:** **_"I have read and agree to the [MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)."([https://static.mlh.io/docs/mlh-code-of-conduct.pdf](https://static.mlh.io/docs/mlh-code-of-conduct.pdf))
-        2. [REQUIRED] _Event Logistics Information:** **_“I authorize you to share my application/registration information with Major League Hacking for event administration, ranking, and MLH administration in-line with the [MLH Privacy Policy](https://mlh.io/privacy) ([https://mlh.io/privacy](https://mlh.io/privacy)). I further agree to the terms of both the [MLH Contest Terms and Conditions](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md) ([https://github.com/MLH/mlh-policies/blob/main/contest-terms.md](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md))and the [MLH Privacy Policy](https://mlh.io/privacy) ([https://mlh.io/privacy](https://mlh.io/privacy)).”
+        1. [REQUIRED] _MLH Code of Conduct:_"I have read and agree to the [MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)."([https://static.mlh.io/docs/mlh-code-of-conduct.pdf](https://static.mlh.io/docs/mlh-code-of-conduct.pdf))
+        2. [REQUIRED] _Event Logistics Information:_“I authorize you to share my application/registration information with Major League Hacking for event administration, ranking, and MLH administration in-line with the [MLH Privacy Policy](https://mlh.io/privacy) ([https://mlh.io/privacy](https://mlh.io/privacy)). I further agree to the terms of both the [MLH Contest Terms and Conditions](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md) ([https://github.com/MLH/mlh-policies/blob/main/contest-terms.md](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md))and the [MLH Privacy Policy](https://mlh.io/privacy) ([https://mlh.io/privacy](https://mlh.io/privacy)).”
     * Add an optional checkbox for the following to your registration form:
-        3. [OPTIONAL]_ Communication from MLH:** **_“I authorize MLH to send me an email where I can further opt into the MLH Hacker, Events, or Organizer Newsletters and other communications from MLH." 
+        3. [OPTIONAL]_ Communication from MLH:_“I authorize MLH to send me an email where I can further opt into the MLH Hacker, Events, or Organizer Newsletters and other communications from MLH." 
 
-** Required Questions and Demographic Questions. ** We require organizers to gather a basic set of information (first name, last name, age_,_ email, school name, phone number, country, and current level of study). We encourage organizers to ask about additional demographic information in a standardized format. For a full list of questions, please see Appendix 2 Registration Forms.
+**Required Questions and Demographic Questions.** We require organizers to gather a basic set of information (first name, last name, age_,_ email, school name, phone number, country, and current level of study). We encourage organizers to ask about additional demographic information in a standardized format. For a full list of questions, please see Appendix 2 Registration Forms.
 
-** Registration Data. ** You will submit all registration data to your Member Event Application regularly leading up to your event. We use this data to:
+**Registration Data.** You will submit all registration data to your Member Event Application regularly leading up to your event. We use this data to:
 
 
 
@@ -319,28 +319,20 @@ _Major League Hacking reserves the right to revise, make exceptions to, or other
 
 
 #  Required Documents Overview
-
-
+We couldn’t be more excited to hear that you’re interested in organizing a hackathon as part of <strong>MLH’s Official Hackathon Season</strong>. Hackathon organizers should prepare the following supporting documents as part of their application. These are key documents to help you get on the right track to put on a great event. 
+**Here’s what you’ll need:**
 <table>
   <tr>
-   <td colspan="2" >We couldn’t be more excited to hear that you’re interested in organizing a hackathon as part of <strong>MLH’s Official Hackathon Season</strong>. Hackathon organizers should prepare the following supporting documents as part of their application. These are key documents to help you get on the right track to put on a great event. 
-   </td>
+   
   </tr>
   <tr>
-   <td colspan="2" ><strong>Here’s what you’ll need:</strong>
+   <td colspan="2" ><strong></strong>
 <p>
 <strong>Website </strong> -<strong> </strong>Your hackers will need to know about your event and have a place where they can find important details. Your live website will need a clear and easy to see date and event title, location, open registration or pre-registration, about/FAQ, contact info, and social media. 
    </td>
   </tr>
   <tr>
-   <td>
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
+   
    <td><strong>Venue Confirmation</strong> <em>(Physical events) </em>- Documentation that shows the reservation/facilities booking for the event along with the start and end times, dates (including overnight acknowledgment), and the venue location.
 <ul>
 
@@ -352,26 +344,12 @@ _Major League Hacking reserves the right to revise, make exceptions to, or other
    </td>
   </tr>
   <tr>
-   <td>
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
+   
    <td><strong>Digital Contingency Plan</strong> <em>(Physical events) </em>- Documentation that shows a plan for transitioning your event to a digital hackathon if needed due to COVID-19. 
    </td>
   </tr>
   <tr>
-   <td>
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
+   
    <td><strong>Itemized Event Budget</strong> - Your budget should take into account the estimated vs. actual cost of all meals per attendee, swag, venue fees, or other costs your team anticipates incurring. Please reference our guide at <a href="https://guide.mlh.io/Organizer-Timeline/4-Months-Before/Sponsorship/Draft-Your-Budget.html">https://guide.mlh.io/Organizer-Timeline/4-Months-Before/Sponsorship/Draft-Your-Budget.html</a> and budget template at <a href="https://drive.google.com/open?id=1ADKWatCbC3AhBKlyWOtVSqMcD6O6Y3FcwMTZwynPwDA">https://drive.google.com/open?id=1ADKWatCbC3AhBKlyWOtVSqMcD6O6Y3FcwMTZwynPwDA</a> for more information on budgeting. 
 <ul>
 
@@ -383,14 +361,7 @@ _Major League Hacking reserves the right to revise, make exceptions to, or other
    </td>
   </tr>
   <tr>
-   <td>
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
+   
    <td><strong>Sponsorship packet/prospectus </strong>- A document designed for your potential sponsors to learn about your event and evaluate whether to support you. Keep in mind that the prices of your tiers should be established relative to your event cost.  
 <ul>
 
@@ -400,14 +371,7 @@ _Major League Hacking reserves the right to revise, make exceptions to, or other
    </td>
   </tr>
   <tr>
-   <td>
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image6.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
+   
    <td><strong>Potential Sponsors List -</strong> We’ve discovered that sponsorship funding is all about increasing your initial pool of sponsor outreach. In order for us to help advise on sponsorship best practices, we’re requiring all events to submit a list of all companies your team either has reached out to already, or plans to contact regarding sponsorship. 
 <ul>
 
@@ -427,9 +391,9 @@ _Major League Hacking reserves the right to revise, make exceptions to, or other
 
 # Registration Forms
 
-**Sample Registration Form - [https://majorleaguehacking.typeform.com/example-mlh-reg](https://majorleaguehacking.typeform.com/example-mlh-reg) . **
+**Sample Registration Form - [https://majorleaguehacking.typeform.com/example-mlh-reg](https://majorleaguehacking.typeform.com/example-mlh-reg).**
 
-**Required Contact Info. **Your registration form <span style="text-decoration:underline;">MUST</span> ask for: _first name, last name, email, phone number, age*, country of residence*, school*, and current level of study*. For asterisked items, please see the table below;_
+**Required Contact Info.** Your registration form <span style="text-decoration:underline;">MUST</span> ask for: _first name, last name, email, phone number, age*, country of residence*, school*, and current level of study*. For asterisked items, please see the table below;_
 
 
 <table>
@@ -529,7 +493,7 @@ We require that your form include our normalized list of schools from <a href="h
 </table>
 
 
-**Optional Demographic Info. **We also encourage you to also ask for additional demographic data to help see who your hackers are. This data can help you tell a story to your university, partners, or hackers about the impact your event has. Using the standardized demographic questions that MLH and Hackathon Equity Coalition use will allow you to compare your data to MLH’s Season Census that we conduct each year. 
+**Optional Demographic Info.** We also encourage you to also ask for additional demographic data to help see who your hackers are. This data can help you tell a story to your university, partners, or hackers about the impact your event has. Using the standardized demographic questions that MLH and Hackathon Equity Coalition use will allow you to compare your data to MLH’s Season Census that we conduct each year. 
 
 
 <table>
@@ -740,11 +704,8 @@ Standardizing your responses using these options allows you to compare your hack
 Major League Hacking (MLH) believes that every student on the planet should have access to high-quality events where they can learn, build, and share their creations. Through supporting 100’s of hackathons around the world and working closely with the MLH Community, we’ve come up with the following Core Values that MLH and MLH Member Events share.
 
 MLH Member Events serve as examples of excellence to other hackathons and communities around the world. By following these Core Values, they set an example of excellence and help create the highest quality experience possible for hackers, organizers, and sponsors alike. \
-** \
-MLH Member Events set a standard of excellence for attendees.** \
 
-
-
+**MLH Member Events set a standard of excellence for attendees.** 
 
 * Have a confirmed date and location that attendees can depend on.
 * Events must be at least 24 hours and the venue must be available for attendees overnight, if the hackathon is physical.

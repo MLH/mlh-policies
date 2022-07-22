@@ -92,31 +92,28 @@ By partnering with MLH, you get access to all the following benefits and any add
 
 **Dedicated Support & Mentorship.** Our team of Hackathon Community Managers (HCMs) support hundreds of Member Events every year. We've helped organizers like you handle all sorts of problems and questions. As a Member Event, you’ll be paired with an HCM who can answer any questions or talk through ideas/challenges via emails and calls. 
 
-**Organizer Office Hours**. We understand that putting on a hackathon is a lot of work and there is so much to learn. That’s why we created a once per week, hour-long session for organizers to learn about some of the toughest aspects of hackathon organizing from MLHers and fellow organizers. We cover topics like fundraising, marketing, and leadership. Check out our full calendar of Organizer Office Hours ([https://mlh.io/seasons/office-hours/events](https://mlh.io/seasons/office-hours/events)) sessions.
+**Organizer Office Hours.** We understand that putting on a hackathon is a lot of work and there is so much to learn. That’s why we created a once per week, hour-long session for organizers to learn about some of the toughest aspects of hackathon organizing from MLHers and fellow organizers. We cover topics like fundraising, marketing, and leadership. Check out our full calendar of Organizer Office Hours ([https://mlh.io/seasons/office-hours/events](https://mlh.io/seasons/office-hours/events)) sessions.
 
-**Hackathon Organizer Guide. **All organizers have full access to MLH’s Hackathon Organizer Guide at [guide.mlh.io](guide.mlh.io). The guide is packed with information for you and your team to leverage as you plan your in-person or digital events.  
+**Hackathon Organizer Guide.** All organizers have full access to MLH’s Hackathon Organizer Guide at [guide.mlh.io](guide.mlh.io). The guide is packed with information for you and your team to leverage as you plan your in-person or digital events.  
 
-**Hackcon Talks. **Each year we host a conference for hackathon organizers where our community shares their knowledge and experiences with one another. We have a library of past talks from organizers that you and your team can use to learn best practices. 
+**Hackcon Talks.** Each year we host a conference for hackathon organizers where our community shares their knowledge and experiences with one another. We have a library of past talks from organizers that you and your team can use to learn best practices. 
 
 **Templates and Tutorials**. We’ve created a library of templates and tutorials for all organizers to use while planning and hosting their event. While you don’t need to use our templates, we’ve seen organizers consistently struggle with topics like budgeting and judging, so we’ve created simple templates to help you and your team. 
 
 **Season Schedule Listing & Event Marketing Promotion.** We’ll list your event on the official MLH season schedule at [http://mlh.io/events](http://mlh.io/events). Hundreds of thousands of hackers and sponsors visit this page every single year and use it to discover the events they want to participate in. We’ll also promote your event to thousands of hackers and sponsors via social media and the [MLH Community Discord](https://discord.gg/8hda6vgu) server as requested.
 
-**Preferred Vendors & Discounts. **Organizing a great hackathon can be expensive. To help you save time and money, we have vetted and partnered with amazing vendors that are offering exclusive discounts and priority access to Member Events. Whether it's stickers or swag, we've got you covered!
+**Preferred Vendors & Discounts.** Organizing a great hackathon can be expensive. To help you save time and money, we have vetted and partnered with amazing vendors that are offering exclusive discounts and priority access to Member Events. Whether it's stickers or swag, we've got you covered!
 
 
-    **StandOut Stickers**. ([https://www.standoutstickers.com/](https://www.standoutstickers.com/)) We wanted to ensure our organizers continued to have access to high-quality stickers this season. Our friends at StandOut Stickers have your back. 
+   **StandOut Stickers**. ([https://www.standoutstickers.com/](https://www.standoutstickers.com/)) We wanted to ensure our organizers continued to have access to high-quality stickers this season. Our friends at StandOut Stickers have your back. 
+   * **Continental US.** 10% discount plus free shipping on your order.
+   * **UK, EU, APAC, Alaska, and Hawaii.** 15% off the entire order. Shipping costs will vary. 
+   * **Want an even better deal?** You’ll receive $100 in credit just for displaying the StandOut Stickers logo ([https://drive.google.com/file/d/193NuUywhu-6skR6IkDwSV6jJRmVCup4i/view?usp=sharing](https://drive.google.com/file/d/193NuUywhu-6skR6IkDwSV6jJRmVCup4i/view?usp=sharing)) on your website linked with [hackp.ac/mlh-standoutstickers-hackathons](https://hackp.ac/mlh-standoutstickers-hackathons).
+
+   **Brand Makers** ([https://www.brandmakers.com/](https://www.brandmakers.com/)). If you’re looking to produce anything from tee-shirts to mugs, Brand Makers can help. They are MLH’s preferred vendor for all of our own physical swag. MLH works with Brand Makers for our Season Tees, MLH Hackcon Jackets, and more).
 
 
-
-        * **Continental US.**10% discount plus free shipping on your order.
-        * **UK, EU, APAC, Alaska, and Hawaii.** 15% off the entire order. Shipping costs will vary. 
-        * **Want an even better deal? **You’ll receive $100 in credit just for displaying the StandOut Stickers logo ([https://drive.google.com/file/d/193NuUywhu-6skR6IkDwSV6jJRmVCup4i/view?usp=sharing](https://drive.google.com/file/d/193NuUywhu-6skR6IkDwSV6jJRmVCup4i/view?usp=sharing)) on your website linked with [hackp.ac/mlh-standoutstickers-hackathons](https://hackp.ac/mlh-standoutstickers-hackathons).
-
-    **Brand Makers** ([https://www.brandmakers.com/](https://www.brandmakers.com/)). If you’re looking to produce anything from tee-shirts to mugs, Brand Makers can help. They are MLH’s preferred vendor for all of our own physical swag. MLH works with Brand Makers for our Season Tees, MLH Hackcon Jackets, and more).
-
-
-**GitHub Education Grant **([https://news.mlh.io/mlh-github-education-grants-supporting-diverse-hacker-communities-03-30-2022](https://news.mlh.io/mlh-github-education-grants-supporting-diverse-hacker-communities-03-30-2022)). Through December 2022, GitHub Education is offering grants up to $1,000 USD (or the currency equivalent in your country or region) to select hackathons. All Member Events are encouraged to apply as part of their application process. GitHub Education is primarily awarding these grants to events that focus on diversity, equity, and inclusion. If you are awarded a GitHub Education Grant for your hackathon, you will need to complete and submit a post-event report. 
+**GitHub Education Grant** ([https://news.mlh.io/mlh-github-education-grants-supporting-diverse-hacker-communities-03-30-2022](https://news.mlh.io/mlh-github-education-grants-supporting-diverse-hacker-communities-03-30-2022)). Through December 2022, GitHub Education is offering grants up to $1,000 USD (or the currency equivalent in your country or region) to select hackathons. All Member Events are encouraged to apply as part of their application process. GitHub Education is primarily awarding these grants to events that focus on diversity, equity, and inclusion. If you are awarded a GitHub Education Grant for your hackathon, you will need to complete and submit a post-event report. 
 
 **Pre-Event Call with Staff**. Every Member Event gets a dedicated MLHer to work with on the weekend of their event. You’ll get an invitation for a 30-45 minute chat with them a couple of weeks before your event. They will discuss any remaining logistics, judging, mini-events, and answer any questions you may have. 
 
@@ -127,9 +124,9 @@ By partnering with MLH, you get access to all the following benefits and any add
 
 **In-Person Support.** Representatives travel to events and therefore it will only be possible for MLH to provide a physical representative if you’re running an in-person hackathon and travel is deemed safe by both the representative and relevant health authorities. If travel is not possible, our staff will support your organizing team remotely. 
 
-**Incidents Management. **MLH Member Events are safe and welcoming spaces. In order to do this, we require that all attendees, sponsors, and organizers adhere to the MLH Code of Conduct ([http://mlh.io/code-of-conduct](http://mlh.io/code-of-conduct)). If a situation arises where someone violates the Code of Conduct, your MLHer will work with our full-time Incidents Team to address the situation with you and anyone involved. Our team has extensive training and experience to handle these situations so you don’t have to.
+**Incidents Management.** MLH Member Events are safe and welcoming spaces. In order to do this, we require that all attendees, sponsors, and organizers adhere to the MLH Code of Conduct ([http://mlh.io/code-of-conduct](http://mlh.io/code-of-conduct)). If a situation arises where someone violates the Code of Conduct, your MLHer will work with our full-time Incidents Team to address the situation with you and anyone involved. Our team has extensive training and experience to handle these situations so you don’t have to.
 
-**Software For Hackers. **As an MLH Member Event, we offer software to every hacker at your event.** **Every hacker who registers for a Member Event gets access to discounts and freebies from our partners through the MLH Software Lab. This includes services like web hosting credit for free domain names and more. 
+**Software For Hackers.** As an MLH Member Event, we offer software to every hacker at your event. Every hacker who registers for a Member Event gets access to discounts and freebies from our partners through the MLH Software Lab. This includes services like web hosting credit for free domain names and more. 
 
 **Software For Organizers:** Every organizing team will have access to premium Zoom (https://zoom.us/) and Streamyard (https://streamyard.com/) accounts for free during the week leading up to and the weekend of the hackathon, upon request. For digital events, in particular, we know how impactful having the premium version of these tools can be. 
 
@@ -159,9 +156,9 @@ By partnering with MLH, you get access to all the following benefits and any add
 
 **Post Event Survey.** Anyone who participates in your Member Event will receive a post-event survey about their experience. We’ll share this data with you as requested, to show you how you compare to other Member Events and identify areas of improvement for your next event.
 
-**Scoring. ** Hackers who participate in Member Events are earning points for their university, college, or school in the MLH Season rankings. At the end of every Season, hackers can see how their schools performed against other schools and be in the running to win the MLH Season trophy to take back to their hacker club.
+**Scoring.** Hackers who participate in Member Events are earning points for their university, college, or school in the MLH Season rankings. At the end of every Season, hackers can see how their schools performed against other schools and be in the running to win the MLH Season trophy to take back to their hacker club.
 
-**Continued Support. ** Just because your event is over, doesn’t mean your HCM isn’t available to help out with wrapping things up. You still have access to our team and we are happy to help with whatever you need to successfully wrap up your event. 
+**Continued Support.** Just because your event is over, doesn’t mean your HCM isn’t available to help out with wrapping things up. You still have access to our team and we are happy to help with whatever you need to successfully wrap up your event. 
 
 
 # 

@@ -692,7 +692,7 @@ Standardizing your responses using these options allows you to compare your hack
 
 
 # Application Process Overview
-
+![Application Process Overview](https://static.mlh.io/docs/images/guidelines-process.png)
 
 
 

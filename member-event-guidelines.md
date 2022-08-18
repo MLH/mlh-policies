@@ -171,12 +171,6 @@ _MLH was built by passionate community members. To ensure that Member Events are
 
 ## Minimum Requirements
 
-_My event meets the Minimum Requirements detailed below._
-
-______________________
-
-**_Initials_**
-
 **Event Date.** Your hackathon must take place during the current or upcoming academic year, from August 1st, 2022 to July 1st, 2023. MLH is unable to support hackathons the weekend of Hackcon (typically the last weekend of August). 
 
 **Free to Attend.** Member Events do not have entry fees, which makes them open and accessible to all participants, regardless of their financial situations.
@@ -199,14 +193,6 @@ ______________________
 
 ## Agreements
 
-_I have read and understand each of the Agreements detailed below._
-
-______________________
-
-**_Initials_**
-
-
-
 * **Member Event Guidelines** ([https://static.mlh.io/docs/mlh-member-event-guidelines.pdf](https://static.mlh.io/docs/mlh-member-event-guidelines.pdf))- This document outlines the things that we need you to do before, during, and after your hackathon and the things we’re doing for you as well.
 * **Community Values** - This document presents a set of principles shared by every Member Event that serve as examples of excellence to your attendees and sponsors, as well as other hackathons and communities. All Member Events are expected to uphold these Community Values. 
 
@@ -224,14 +210,7 @@ The document can be found in full in Appendix 5.
 
 ## Hacker Registration Requirements
 
-_I have read and understand the Hacker Registration Requirements detailed below. _
-
-______________________
-
-**_Initials_**
-
 **Attendee Registration Platform.** An event’s registration portal is one of the first points of contact for a lot of hackers. Consistency is key for the hacker experience of new and returning hackers. Because of this, we require all MLH Member Events to have a consistent registration platform with the following features:
-
 
 
 * **Hacker Communication.** As hackers register for your event, it’s important to communicate any updates or changes to the event via email. The chosen registration platform must allow the event organizers to contact all hackers that are registered through their platform or via export to other platforms. 

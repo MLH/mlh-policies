@@ -130,10 +130,12 @@ By partnering with MLH, you get access to all the following benefits and any add
 
 **Software For Organizers:** Every organizing team will have access to premium Zoom (https://zoom.us/) and Streamyard (https://streamyard.com/) accounts for free during the week leading up to and the weekend of the hackathon, upon request. For digital events, in particular, we know how impactful having the premium version of these tools can be. 
 
-**Mini-Events (https://guide.mlh.io/organizer-resources/host-exciting-mini-events/mlh-mini-events)**. Your MLH representative will run at least one mini-event during your hackathon (remember to reserve 1 hour before 9 PM local time) to provide a fun break from hacking. Some of our partners work with us to run custom mini-events at hackathons. When we have a partner mini-event, we’ll run that mini-event at your hackathon. If we run a partner mini-event, you’ll be able to have your MLH representative run an additional mini-event from our normal selection: 
+**Mini-Events (https://guide.mlh.io/organizer-resources/host-exciting-mini-events/mlh-mini-events)**. Your MLH representative will run at least one mini-event during your hackathon (remember to reserve 1 hour before 9 PM local time) to provide a fun break from hacking. Some of our partners work with us to run custom mini-events at hackathons. When we have a partner mini-event, we’ll run that mini-event at your hackathon. If we run a partner mini-event, you’ll be able to have your MLH representative run an additional mini-event from our non-partnered selection: 
 
+**Current Partner Mini-Events
+* Snyk Cybersecurity Challenge: In this partner mini-event, we'll guide your hackers through solving a capture the flag. 
 
-
+**Current Mini-Events
 * !Light: Participants remake a chosen website using their best (or worst) HTML and CSS skills in a limited amount of time.
 * Werewolf: Mystery game where participants all play a part of either Werewolf, See, Doctor, Witch, or Villager. Non-tech game that anyone can play. 
 * Bob Ross Painting: Paint like Bob Ross but in an ancient version of Windows Paint while watching Bob Ross on Twitch. It’s funny AND impressive! 

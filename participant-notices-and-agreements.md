@@ -8,7 +8,7 @@ MLH Code of Conduct: "I have read and agree to the [MLH Code of Conduct](https:/
 
 *This notice should be a required acknowledgement on your event registration.*
 
-Event Logistics Information: “I authorize you to share my application/registration information with Major League Hacking for event administration, ranking, and MLH administration in-line with the MLH Privacy Policy. I further agree to the terms of both the [MLH Contest Terms and Conditions](https://github.com/MLH/mlh-policies/tree/master/prize-terms-and-conditions) and the [MLH Privacy Policy](https://mlh.io/privacy).”
+Event Logistics Information: “I authorize you to share my application/registration information with Major League Hacking for event administration, ranking, and MLH administration in-line with the MLH Privacy Policy. I further agree to the terms of both the [MLH Contest Terms and Conditions](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md) and the [MLH Privacy Policy](https://mlh.io/privacy).”
 
 
 # MLH Newsletters and Communication

@@ -1,5 +1,4 @@
-# Code of Conduct
-**TL;DR.** Be respectful. Harassment and abuse are never tolerated. If you are in a situation that makes you uncomfortable at an MLH Member Event, if the event itself is creating an unsafe or inappropriate environment, or if interacting with a MLH representative or event organizer makes you uncomfortable, please report it using the procedures included in this document.
+**TL;DR. Be respectful. Harassment and abuse are never tolerated. If you are in a situation that makes you uncomfortable at an MLH Member Event, if the event itself is creating an unsafe or inappropriate environment, or if interacting with a MLH representative or event organizer makes you uncomfortable, please report it using the procedures included in this document.**
 
 Major League Hacking (MLH) stands for inclusivity. We believe that every single person has the right to hack in a safe and welcoming environment.
 
@@ -24,20 +23,20 @@ If you feel uncomfortable or think there may be a potential violation of the cod
 By sending information to the general reporting line, your report will go to any or all of the MLH representatives listed below.
 
 - North America General Reporting - +1 409 202 6060, incidents@mlh.io
+- Canada General Reporting - +1 343 453 4532, incidents@mlh.io
 - Europe General Reporting - +44 800 808 5675, incidents@mlh.io
-- Asia-Pacific General Reporting - +91 80004 02492, incidents@mlh.io
+- Asia-Pacific General Reporting - +91 000 80004 02492, incidents@mlh.io
+- India General Reporting - 000 80004 02492, incidents@mlh.io
 
 ## Special Incidents
+
 If you are uncomfortable reporting your situation to one or more of these people or need to contact any of them directly in case of emergency, direct contact details are listed below.
 
-- Jamie Liao - +1 (929) 263-2137, jamie.liao@mlh.io
 - Mary Siebert - +1 (516) 362-1835, mary@mlh.io
-- Ryan Swift - +1 (347) 868-6698, ryan@mlh.io
 - Nick Quinlan - +1 (510) 859-8578, nq@mlh.io
-- Jon Gottfried - +1 (212) 851-6746, jon@mlh.io
 - Swift - +1 (347) 220-8667, swift@mlh.io
 
-MLH reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact MLH by e-mail at hi@mlh.io.
+MLH reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact MLH by e-mail at incidents@mlh.io.
 
-This guide was last updated on: 
-June 01, 2021
+This document was last updated on: 
+November 3rd 2022

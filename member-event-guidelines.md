@@ -177,7 +177,7 @@ _MLH was built by passionate community members. To ensure that Member Events are
 
 **Free to Attend.** Member Events do not have entry fees, which makes them open and accessible to all participants, regardless of their financial situations.
 
-**Primarily Students.** At least 80% of your hackathon’s attendees must be students at the time of the hackathon or have left school within the current academic year. Student attendees can be enrolled at any level of study at a traditional (middle school, high school, university, etc.), nontraditional (coding bootcamp, home school, online, etc.) institution, or graduated in the past year. 
+**Primarily Students.** At least 80% of your hackathon’s attendees must be students at the time of the hackathon or have left school within the current academic year. Student attendees can be enrolled at any level of study at a traditional (high school, university, etc.), nontraditional (coding bootcamp, home school, online, etc.) institution, or graduated in the past year. 
 
 **Hackathon Locations.** We are only able to currently support Member Events and their organizers that are based in the following regions:
 

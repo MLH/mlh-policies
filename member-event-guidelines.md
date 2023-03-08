@@ -1,10 +1,10 @@
 # **Member Event Agreement**
 
-## 2023 Hackathon Season
+## 2024 Hackathon Season
 
 **Last updated on:**
 
-_June 9th, 2022_
+_March 8, 2023_
 
 
 # **A message from our CEO:**
@@ -52,7 +52,7 @@ MLH supports both digital and in-person events to accommodate your local COVID-1
 
 
 1. **Fully Digital Hackathons** - All aspects of the hackathon are online/digital. No one attends any component in-person. 
-2. **Fully In-PersonHackathons** - All aspects of the hackathon are at a physical venue. Hackers from other schools may or may not be permitted to attend the hackathon in person. 
+2. **Fully In-Person Hackathons** - All aspects of the hackathon are at a physical venue. Hackers from other schools may or may not be permitted to attend the hackathon in person. 
 
 
 ## What about Hybrid Member Events?
@@ -100,7 +100,7 @@ By partnering with MLH, you get access to all the following benefits and any add
 
 **Templates and Tutorials**. We’ve created a library of templates and tutorials for all organizers to use while planning and hosting their event. While you don’t need to use our templates, we’ve seen organizers consistently struggle with topics like budgeting and judging, so we’ve created simple templates to help you and your team. 
 
-**Season Schedule Listing & Event Marketing Promotion.** We’ll list your event on the official MLH season schedule at [http://mlh.io/events](http://mlh.io/events). Hundreds of thousands of hackers and sponsors visit this page every single year and use it to discover the events they want to participate in. We’ll also promote your event to thousands of hackers and sponsors via social media and the [MLH Community Discord](https://discord.gg/8hda6vgu) server as requested.
+**Season Schedule Listing & Event Marketing Promotion.** We’ll list your event on the official MLH season schedule at [http://mlh.io/events](http://mlh.io/events). Hundreds of thousands of hackers and sponsors visit this page every single year and use it to discover the events they want to participate in. We’ll also promote your event to thousands of hackers and sponsors as requested.
 
 **Preferred Vendors & Discounts.** Organizing a great hackathon can be expensive. To help you save time and money, we have vetted and partnered with amazing vendors that are offering exclusive discounts and priority access to Member Events. Whether it's stickers or swag, we've got you covered!
 
@@ -113,7 +113,7 @@ By partnering with MLH, you get access to all the following benefits and any add
    **Brand Makers** ([https://www.brandmakers.com/](https://www.brandmakers.com/)). If you’re looking to produce anything from tee-shirts to mugs, Brand Makers can help. They are MLH’s preferred vendor for all of our own physical swag. MLH works with Brand Makers for our Season Tees, MLH Hackcon Jackets, and more).
 
 
-**GitHub Education Grant** ([https://news.mlh.io/mlh-github-education-grants-supporting-diverse-hacker-communities-03-30-2022](https://news.mlh.io/mlh-github-education-grants-supporting-diverse-hacker-communities-03-30-2022)). Through December 2022, GitHub Education is offering grants up to $1,000 USD (or the currency equivalent in your country or region) to select hackathons. All Member Events are encouraged to apply as part of their application process. GitHub Education is primarily awarding these grants to events that focus on diversity, equity, and inclusion. If you are awarded a GitHub Education Grant for your hackathon, you will need to complete and submit a post-event report. 
+**GitHub Education Grant** ([https://news.mlh.io/mlh-github-education-grants-supporting-diverse-hacker-communities-03-30-2022](https://news.mlh.io/mlh-github-education-grants-supporting-diverse-hacker-communities-03-30-2022)). The GitHub Education is offering grants up to $1,000 USD (or the currency equivalent in your country or region) to select hackathons. All Member Events are encouraged to apply as part of their application process. GitHub Education is primarily awarding these grants to events that focus on diversity, equity, and inclusion. If you are awarded a GitHub Education Grant for your hackathon, you will need to complete and submit a post-event report. 
 
 **Pre-Event Call with Staff**. Every Member Event gets a dedicated MLHer to work with on the weekend of their event. You’ll get an invitation for a 30-45 minute chat with them a couple of weeks before your event. They will discuss any remaining logistics, judging, mini-events, and answer any questions you may have. 
 
@@ -221,14 +221,15 @@ The document can be found in full in Appendix 5.
 
 **Registration Form.** We require Member Events to update their registration form to include a set of basic fields and checkboxes. This ensures that we know who is attending MLH Member Events and that attendees know what they are agreeing to. Check out our sample form at [https://majorleaguehacking.typeform.com/example-mlh-reg](https://majorleaguehacking.typeform.com/example-mlh-reg) for what our expectations are. _We do not collect, utilize, or share any personal information without an attendee opt-in._
 
-
+Please add the following disclaimer and 3 checkboxes if you plan to work with us. You can remove the disclaimer once you have moved into our official Membership Stage(Talk with your HCM if you have questions). 
+"We are currently in the process of partnering with MLH. The following 3 checkboxes are for this partnership. If we do not end up partnering with MLH, your information will not be shared"
 
 * **MLH Checkboxes**. In order to administer many of our benefits, we need your hackers to agree to two checkboxes. 
     * Add required agreements or acknowledgments for each of the following into your registration form: 
         1. [REQUIRED] _MLH Code of Conduct:_"I have read and agree to the [MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)."([https://static.mlh.io/docs/mlh-code-of-conduct.pdf](https://static.mlh.io/docs/mlh-code-of-conduct.pdf))
         2. [REQUIRED] _Event Logistics Information:_“I authorize you to share my application/registration information with Major League Hacking for event administration, ranking, and MLH administration in-line with the [MLH Privacy Policy](https://mlh.io/privacy) ([https://mlh.io/privacy](https://mlh.io/privacy)). I further agree to the terms of both the [MLH Contest Terms and Conditions](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md) ([https://github.com/MLH/mlh-policies/blob/main/contest-terms.md](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md))and the [MLH Privacy Policy](https://mlh.io/privacy) ([https://mlh.io/privacy](https://mlh.io/privacy)).”
     * Add an optional checkbox for the following to your registration form:
-        3. [OPTIONAL]_ Communication from MLH:_“I authorize MLH to send me an email where I can further opt into the MLH Hacker, Events, or Organizer Newsletters and other communications from MLH." 
+        3. [OPTIONAL]_ Communication from MLH:_“I authorize MLH to send me occasional emails about relevant events, career opportunities, and community announcements." 
 
 **Required Questions and Demographic Questions.** We require organizers to gather a basic set of information (first name, last name, age_,_ email, school name, phone number, country, and current level of study). We encourage organizers to ask about additional demographic information in a standardized format. For a full list of questions, please see Appendix 2 Registration Forms.
 

@@ -4,7 +4,7 @@
 
 **Last updated on:**
 
-_March 8, 2023_
+_March 31, 2023_
 
 
 # **A message from our CEO:**
@@ -15,7 +15,7 @@ We couldn’t be more excited to hear that you’re interested in organizing a h
 
 Each year, our team has the privilege of partnering with passionate event organizers and community leaders (like yourself!) to put on world-class hackathons. **Together, we have empowered hundreds of thousands of hackers by creating opportunities for them to learn, build, and share their amazing creations.** Today, you’re taking the first step toward joining us in changing the lives of countless hackers!
 
-As an MLH Member Event hackathon, you and your team will have access to MLH’s full suite of support and resources. We’ll make planning your hackathon a breeze by providing mentorship with best practices, advising your team, and helping you create unforgettable experiences for hackers. We’ll even be right there alongside you in-person or digitally during the weekend to make sure everything goes according to plan and that your hackathon is a huge success.
+As an MLH Member Event hackathon, you and your team will have access to MLH’s full suite of support and resources. We’ll make planning your hackathon a breeze by providing mentorship with best practices, advising your team, and helping you create unforgettable experiences for hackers. We’ll even be right there alongside you in-person during the weekend to make sure everything goes according to plan and that your hackathon is a huge success.
 
 This document contains everything you need to know to partner with MLH: a step-by-step overview of the application process including what your team needs to do at each step of the process, prerequisites to qualify, the benefits MLH provides to you, and your team, and what we expect from you. 
 
@@ -44,21 +44,8 @@ An **MLH Member Event** is a hackathon that Major League Hacking has verified as
 
 Throughout the Member Event’s planning process, they are supported by a **Hackathon Community Manager** (HCM) from MLH to help answer any questions, talk through challenges, and brainstorm new ideas. 
 
-
-## **Does MLH support In-Person or Digital Member Events?**
-
-MLH supports both digital and in-person events to accommodate your local COVID-19 restrictions. You can always find our latest COVID-19 guidance at [mlh.io/covid](http://mlh.io/covid). Below are the types of events that we’re currently partnering with: 
-
-
-
-1. **Fully Digital Hackathons** - All aspects of the hackathon are online/digital. No one attends any component in-person. 
-2. **Fully In-Person Hackathons** - All aspects of the hackathon are at a physical venue. Hackers from other schools may or may not be permitted to attend the hackathon in person. 
-
-
-## What about Hybrid Member Events?
-
-This season MLH is recommending that our Member Event hackathons choose between being a fully digital or fully in-person hackathon. We are still accepting applications for hybrid events, but we have seen over the past year that hybrid events are worse for both organizers and hackers. Organizers struggle to coordinate two events simultaneously (_a well run digital hackathon is more than just a Discord!_). Digital hackers end up feeling left out at hybrid events and have a less impactful experience. If you have questions about running a hybrid event, please speak with your HCM or email [league@mlh.io](mailto:league@mlh.io).
-
+## **Does MLH support fully digital or hybrid Member Event hackathons?**
+No. We have limited resources available and are focusing on events that have the most impact. You can still reach out for general hackathon advice and use our public resources such as our MLH Organizer Guide at guide.mlh.io, but we will not be able to Member your event. 
 
 ## **How do we become a Member Event?**
 
@@ -68,7 +55,7 @@ You’ll start with a simple initial application (that you can probably fill out
 
 After your **Initial Application** is completed, you’ll have access to our full Member Event Application. The application is broken down into sections on major topics (like sponsorship and marketing) that you’ll complete before MLH reviews your **Member Event Application** in full. When you’re ready, you’ll ‘submit’ your application to our team for review.
 
-From there, our team will review your responses to make sure we understand your event and we’re able to support it logistically - see our Minimum Requirements Section for more information. For those events that do move forward, we’ll request additional documents from your team (Please see Appendix 1 for more details), so we can complete a **Document Review**.
+From there, our team will review your responses to make sure we understand your event and we’re able to support it logistically - see our Minimum Requirements Section for more information. For those events that do move forward, we’ll request a initial meeting and additional documents from your team (Please see Appendix 1 for more details), so we can complete a **Document Review**.
 
 After your documents are reviewed and confirmed, you’ll have a **Member Event Interview** with one of our Hackathon Community Managers. You and your team earn MLH Member Event status by completing all of these steps and hitting the quality marks we look for in events. After your interview, our team will let you know the results of your application. 
 
@@ -90,11 +77,11 @@ By partnering with MLH, you get access to all the following benefits and any add
 
 ## Before Your Hackathon
 
-**Dedicated Support & Mentorship.** Our team of Hackathon Community Managers (HCMs) support hundreds of Member Events every year. We've helped organizers like you handle all sorts of problems and questions. As a Member Event, you’ll be paired with an HCM who can answer any questions or talk through ideas/challenges via emails and calls. 
+**Dedicated Support & Mentorship.** Our team of Hackathon Community Managers (HCMs) support hundreds of Member Events every year. We've helped organizers like you handle all sorts of problems and questions. As a Member Event, you’ll be paired with an HCM who can answer any questions or talk through ideas/challenges via emails and calls. This includes help with figuring out how you want to run the judging at your event, organizing your run of show, and any other topics you wish to discuss. 
 
 **Organizer Office Hours.** We understand that putting on a hackathon is a lot of work and there is so much to learn. That’s why we created a once per week, hour-long session for organizers to learn about some of the toughest aspects of hackathon organizing from MLHers and fellow organizers. We cover topics like fundraising, marketing, and leadership. Check out our full calendar of Organizer Office Hours ([https://mlh.io/seasons/office-hours/events](https://mlh.io/seasons/office-hours/events)) sessions.
 
-**Hackathon Organizer Guide.** All organizers have full access to MLH’s Hackathon Organizer Guide at [guide.mlh.io](guide.mlh.io). The guide is packed with information for you and your team to leverage as you plan your in-person or digital events.  
+**Hackathon Organizer Guide.** All organizers have full access to MLH’s Hackathon Organizer Guide at [guide.mlh.io](guide.mlh.io). The guide is packed with information for you and your team to leverage as you plan your event.  
 
 **Hackcon Talks.** Each year we host a conference for hackathon organizers where our community shares their knowledge and experiences with one another. We have a library of past talks from organizers that you and your team can use to learn best practices. 
 
@@ -108,46 +95,39 @@ By partnering with MLH, you get access to all the following benefits and any add
    **StandOut Stickers**. ([https://www.standoutstickers.com/](https://www.standoutstickers.com/)) We wanted to ensure our organizers continued to have access to high-quality stickers this season. Our friends at StandOut Stickers have your back. 
    * **Continental US.** 10% discount plus free shipping on your order.
    * **UK, EU, APAC, Alaska, and Hawaii.** 15% off the entire order. Shipping costs will vary. 
-   * **Want an even better deal?** You’ll receive $100 in credit just for displaying the StandOut Stickers logo ([https://drive.google.com/file/d/193NuUywhu-6skR6IkDwSV6jJRmVCup4i/view?usp=sharing](https://drive.google.com/file/d/193NuUywhu-6skR6IkDwSV6jJRmVCup4i/view?usp=sharing)) on your website linked with [hackp.ac/mlh-standoutstickers-hackathons](https://hackp.ac/mlh-standoutstickers-hackathons).
+   * **Want an even better deal?** You’ll receive $125 in credit just for displaying the StandOut Stickers logo ([https://drive.google.com/file/d/193NuUywhu-6skR6IkDwSV6jJRmVCup4i/view?usp=sharing](https://drive.google.com/file/d/193NuUywhu-6skR6IkDwSV6jJRmVCup4i/view?usp=sharing)) on your website linked with [hackp.ac/mlh-standoutstickers-hackathons](https://hackp.ac/mlh-standoutstickers-hackathons).
 
    **Brand Makers** ([https://www.brandmakers.com/](https://www.brandmakers.com/)). If you’re looking to produce anything from tee-shirts to mugs, Brand Makers can help. They are MLH’s preferred vendor for all of our own physical swag. MLH works with Brand Makers for our Season Tees, MLH Hackcon Jackets, and more).
 
 
-**GitHub Education Grant** ([https://news.mlh.io/mlh-github-education-grants-supporting-diverse-hacker-communities-03-30-2022](https://news.mlh.io/mlh-github-education-grants-supporting-diverse-hacker-communities-03-30-2022)). The GitHub Education is offering grants up to $1,000 USD (or the currency equivalent in your country or region) to select hackathons. All Member Events are encouraged to apply as part of their application process. GitHub Education is primarily awarding these grants to events that focus on diversity, equity, and inclusion. If you are awarded a GitHub Education Grant for your hackathon, you will need to complete and submit a post-event report. 
+**GitHub Education Grant** ([https://news.mlh.io/mlh-github-education-grants-supporting-diverse-hacker-communities-03-30-2022](https://news.mlh.io/mlh-github-education-grants-supporting-diverse-hacker-communities-03-30-2022)). GitHub Education is offering grants up to $1,000 USD (or the currency equivalent in your country or region) to select hackathons. All Member Events are encouraged to apply as part of their application process. GitHub Education is primarily awarding these grants to events that focus on diversity, equity, and inclusion. If you are awarded a GitHub Education Grant for your hackathon, you will need to complete and submit a post-event report. 
 
-**Pre-Event Call with Staff**. Every Member Event gets a dedicated MLHer to work with on the weekend of their event. You’ll get an invitation for a 30-45 minute chat with them a couple of weeks before your event. They will discuss any remaining logistics, judging, mini-events, and answer any questions you may have. 
+**Pre-Event Call with Staff**. Every Member Event gets a dedicated MLHer to work with on the weekend of their event. You’ll get an invitation for a 30 minute chat with them a couple of weeks before your event. They will discuss any remaining logistics such as mini-event timing, confirming start and end times, and exchanging contact information so you can easily reach each other over the weekend.  
 
 
 ## During your hackathon:
 
-**Day-of Support.** A representative from MLH will join you and your team to support you during the hackathon as an extension of your organizing team. They’re able to help you with anything you need like making sure the event runs on time, mentoring hackers, coordinating judging alongside the event’s organizers, or even practicing the opening ceremony with you. They also have extensive experience resolving conflicts with hackers, sponsors, or even organizing teams. 
-
-**In-Person Support.** Representatives travel to events and therefore it will only be possible for MLH to provide a physical representative if you’re running an in-person hackathon and travel is deemed safe by both the representative and relevant health authorities. If travel is not possible, our staff will support your organizing team remotely. 
+**Day-of Support.** A representative from MLH will join you and your team to support you during the hackathon in-person as an extension of your organizing team. They’re able to help you with anything you need like making sure the event runs on time, mentoring hackers, coordinating judging alongside the event’s organizers, or even practicing the opening ceremony with you. They also have extensive experience resolving conflicts with hackers, sponsors, or even organizing teams. 
 
 **Incidents Management.** MLH Member Events are safe and welcoming spaces. In order to do this, we require that all attendees, sponsors, and organizers adhere to the MLH Code of Conduct ([http://mlh.io/code-of-conduct](http://mlh.io/code-of-conduct)). If a situation arises where someone violates the Code of Conduct, your MLHer will work with our full-time Incidents Team to address the situation with you and anyone involved. Our team has extensive training and experience to handle these situations so you don’t have to.
 
 **Software For Hackers.** As an MLH Member Event, we offer software to every hacker at your event. Every hacker who registers for a Member Event gets access to discounts and freebies from our partners through the MLH Software Lab. This includes services like web hosting credit for free domain names and more. 
 
-**Software For Organizers:** Every organizing team will have access to premium Zoom (https://zoom.us/) and Streamyard (https://streamyard.com/) accounts for free during the week leading up to and the weekend of the hackathon, upon request. For digital events, in particular, we know how impactful having the premium version of these tools can be. 
+**Mini-Events (https://guide.mlh.io/organizer-resources/host-exciting-mini-events/mlh-mini-events)**. Your MLH representative will run at least one mini-event during your hackathon (remember to reserve 1 hour before 9 PM local time) to provide a fun break from hacking. Some of our partners work with us to run custom mini-events at hackathons. When we have a partner mini-event, we’ll run that mini-event at your hackathon. If we run a partner mini-event, you can also choose to have your MLH representative run an additional mini-event from our non-partnered selection: 
 
-**Mini-Events (https://guide.mlh.io/organizer-resources/host-exciting-mini-events/mlh-mini-events)**. Your MLH representative will run at least one mini-event during your hackathon (remember to reserve 1 hour before 9 PM local time) to provide a fun break from hacking. Some of our partners work with us to run custom mini-events at hackathons. When we have a partner mini-event, we’ll run that mini-event at your hackathon. If we run a partner mini-event, you’ll be able to have your MLH representative run an additional mini-event from our non-partnered selection: 
-
-**Current Partner Mini-Events
-* Snyk Cybersecurity Challenge: In this partner mini-event, we'll guide your hackers through solving a capture the flag. 
-
-**Current Mini-Events
+**Current Mini-Events**
 * !Light: Participants remake a chosen website using their best (or worst) HTML and CSS skills in a limited amount of time.
 * Werewolf: Mystery game where participants all play a part of either Werewolf, See, Doctor, Witch, or Villager. Non-tech game that anyone can play. 
 * Bob Ross Painting: Paint like Bob Ross but in an ancient version of Windows Paint while watching Bob Ross on Twitch. It’s funny AND impressive! 
 * SlideShow Karaoke: Improv but with a slide deck chosen at random or created by someone with a sense of humor. Participants don’t know what they are presenting until it’s time to present. 
 
-**Season and Sponsor Swag.** Your event will receive assorted swag including season stickers, event-specific “I Demoed” stickers, MLH stickers, and select MLH sponsor swag. Events may also receive assorted swag from MLH season sponsors such as pens and t-shirts. Swag availability may vary depending on supply. For digital hackathons, we ship letters to your hackers post-event that include stickers and a thank you card. 
+**Season and Sponsor Swag.** Your event will receive assorted swag including season stickers, event-specific “I Demoed” stickers, MLH stickers, and select MLH sponsor swag. Events may also receive assorted swag from MLH season sponsors such as pens and t-shirts. Swag availability may vary depending on supply. 
 
 **Judging Support.** We know that judging is one of the most stressful periods during a hackathon. We offer judging templates, resources, and tutorials for all Member Events to utilize. In addition, our MLH representative can assist you with running demos and judging during your event in a fair, standardized way. _You are still expected to recruit and coordinate the arrival of judges prior to the event._
 
-**Project Cheating Resolution**. Particularly at digital events, we’ve seen an increase in the number of fake projects. Regardless of if your event is in-person or digital, if there are projects suspected of cheating submitted to your hackathon, the MLH team will follow our Cheating Response Procedure  (https://github.com/MLH/mlh-policies/blob/master/cheating-response.md) to investigate the projects. Our team is able to conduct in-depth cheating investigations and track cheating across events. 
+**Project Cheating Resolution**. We’ve seen an increase in the number of fake projects. If there are projects suspected of cheating submitted to your hackathon, the MLH team will follow our Cheating Response Procedure  (https://github.com/MLH/mlh-policies/blob/master/cheating-response.md) to investigate the projects. Our team is able to conduct in-depth cheating investigations and track cheating across events. 
 
-**Prizes.** All Member Events are provided with special prizes to hand out to hackers. For your event’s overall winners, we provide MLH Winner Pins, MLH Season Tees, and a Fast Track MLH Fellowship (https://fellowship.mlh.io/) Interview, should your winners choose to apply. We also provide select MLH partner category prizes ([http://hack.mlh.io/prizes](http://hack.mlh.io/prizes)). _MLH will confirm the final prize list with your event during your pre-event call before your hackathon._ Your team will need to add our prize list to your submission platform, but we partner with Devpost to make this easier. As a result, by becoming a Member Event, your hackathon page may automatically include MLH branding, prizes, and/or allow us direct access.
+**Prizes.** All Member Events are provided with special prizes to hand out to hackers. For your event’s overall winners, we provide MLH Winner Pins. We also provide select MLH partner category prizes ([http://hack.mlh.io/prizes](http://hack.mlh.io/prizes)). _MLH will confirm the final prize list with your event during your pre-event call before your hackathon._ Your team will need to add our prize list to your submission platform, but we partner with Devpost to make this easier. As a result, by becoming a Member Event, your hackathon page may automatically include MLH branding, prizes, and/or allow us direct access.
 
 **MLH Emergency Budget.** We understand that things may happen that you didn't plan for that create unexpected costs. To help plan for these instances, your event has the benefit of tapping into the MLH Emergency Budget. This is an up to $1000 fund that can be used for anything your event may need. To qualify for use of these funds, you will need to have exhausted your own emergency budget and considered other changes to your budget to account for this cost. You’ll also need to work with your MLHer on-site to verify the need.
 
@@ -186,11 +166,11 @@ _MLH was built by passionate community members. To ensure that Member Events are
 * **North America:** United States, Canada, and Mexico.
 * **Europe** : United Kingdom, the European Union, and select other European countries.
 * **Asia-Pacific** : India, Sri Lanka, Nepal, and select countries in Southeast Asia, East Asia, and Australasia.
-* **Digital Events** : We can work with digital events in any of the above countries or regions. Countries outside of the above service area will require approval. This shouldn’t stop you from applying, but if you want to be sure email us at league@mlh.io.  
+Countries outside of the above service area will require approval. This shouldn’t stop you from applying, but if you want to be sure email us at league@mlh.io.  
 
 **Duration.** Member Events are typically 24 to 48 hours long and take place over a weekend (usually Friday to Sunday). Judging and prizes are typically awarded at the end of your hackathon on Sunday. If you’re planning on awarding prizes post-event, speak with your HCM. 
 
-**Language.** We are only able to work with events that have an English-language website and make announcements during the event in English. If you live in a country where English is not the native language, we encourage you to make announcements and provide information in both languages.
+**Language.** We are only able to work with events that have an English-language website and make announcements during the event in English. If you live in a country where English is not the native language, we encourage you to make announcements and provide information in both languages. You will have to have a team member who is fluent in both English and the other language/s your event is making announcements in to talk with the HCM you will have before the event and the representative we send to your event in the case of any incidents that may occur. 
 
 
 ## Agreements
@@ -233,12 +213,9 @@ Please add the following disclaimer and 3 checkboxes if you plan to work with us
 
 **Required Questions and Demographic Questions.** We require organizers to gather a basic set of information (first name, last name, age_,_ email, school name, phone number, country, and current level of study). We encourage organizers to ask about additional demographic information in a standardized format. For a full list of questions, please see Appendix 2 Registration Forms.
 
-**Registration Data.** You will submit all registration data to your Member Event Application regularly leading up to your event. We use this data to:
-
-
-
+**Registration Data.** You will submit all registration data to your Member Event Application regularly leading up to your event. We will need the current list the **Monday before your event** so we can prepare it for the following. We use this data to:
 * Ensure that no repeat violators of the Code of Conduct are attending the event. _If there are Code of Conduct issues with any attendees, we will contact you._
-* Send attendees a pre-event email with info about the resources MLH is bringing to the event for them to use 
+* Send attendees a pre-event email with info about the resources MLH is bringing to the event for them to use. We prefer a full list of registered hackers so that they can still opt-in to our newsletter to find other events, even if they cannot attend yours due to event cap size. 
 
 
 ## Before Your Hackathon
@@ -248,8 +225,6 @@ Please add the following disclaimer and 3 checkboxes if you plan to work with us
 **Event Details.** In order to send our staff and resources to your hackathon, we need you to submit the following information before your hackathon (using our application form): start and end times, venue address and information, package shipping address, point of contact information, and more. You will automatically submit this information by completing your Member Event Application in full!
 
 **Check-Ins With Your HCM.** Your Hackathon Community Manager should be an extension of your organizing team. A resource for both you and your teammates to leverage in tricky situations. We expect you to stay in touch with your HCM about your event’s progress and meet up with them periodically as needed to discuss the event. They want to help you stay on track with your goals and see where they can be helpful.
-
-**Digital Backup Plans.** As the status of hosting large-scale physical events may change frequently with COVID-19, we require all events to have plans for hosting a digital event in parallel. We want all event organizers to have plans to host a successful hackathon regardless of external influences. 
 
 **COVID-19 Regulations.** With any large gatherings on a campus, like a hackathon, we want all attendees, organizers, and sponsors to remain safe. Organizers must comply with the current version of MLH’s COVID-19 policy ([http://mlh.io/covid](http://mlh.io/covid)). You must demonstrate clear plans for how you will observe these during the application process. You must have a documented COVID-19 policy on your website before registrations open. 
 
@@ -266,7 +241,7 @@ Please add the following disclaimer and 3 checkboxes if you plan to work with us
 
 **Closing Ceremony.** Reserve 5 minutes during your closing ceremony for your MLH representative to make a few remarks on behalf of MLH and award prizes to the teams that won any MLH category prizes. As the overall winners of the event are announced, your MLH representative will help you distribute Winner Pins to each of the teams and take photos of each winning team.
 
-**Hacker Check-Ins.** Your event must have a process for checking in hackers day of your event regardless of if you’re hosting an in-person or digital hackathon. Collecting check-in information from all hackers will allow organizers to more accurately predict mini-event and workshop attendance, project submissions, and utilize this information for the following iteration of your hackathon.
+**Hacker Check-Ins.** Your event must have a process for checking in hackers day of your event. Collecting check-in information from all hackers will allow organizers to more accurately predict mini-event and workshop attendance, project submissions, and utilize this information for the following iteration of your hackathon.
 
 **Check-In Swag.** Allow your MLH representative to distribute MLH swag and promotional items at the attendee check-in area. Distributing these at check-in creates a great first impression and ensures that everyone gets some.
 
@@ -274,18 +249,18 @@ Please add the following disclaimer and 3 checkboxes if you plan to work with us
 
 **Signage.** Display MLH Season and informational signage in key areas during the event. Much like displaying the Trust Badge on your website, having MLH signage on-site during the event signals your commitment to hosting a high-quality event and makes your attendees feel like they are part of a larger movement. _Everything our staff needs will be shipped prior to your event._
 
-**Chat Service.** We require digital events to provide a way for hackers to communicate with each other, sponsors, organizers, and MLH. We recommend Discord or Slack. Even if your event is in-person, chat services are still a great way to stay connected over a large venue, but MLH does not require them for in-person hackathons. 
+**Chat Service.** This provides a way for hackers to communicate with each other, sponsors, organizers, and MLH. We recommend Discord or Slack. Chat services are a great way to stay connected over a large venue, but MLH does not require them for in-person hackathons. 
 
 **Project Submission Platform.** Your hackers will need to submit their final projects somewhere to be judged and for data collection for prizes. MLH brings prizes to all of our Member Events on behalf of the sponsors that support us. The project submission platform used during any hackathon must be able to add custom prizes and allow hackers to opt-in to submitting any prize category. 
 
 
 ## After Your Hackathon
 
-**Registration, Check-In, & Project Submission Data.** Submit all event data to your Member Event Application on the last day of your hackathon. We use this data to calculate season rankings and to send attendees a post-event survey to collect their feedback. Specifically, you need to include:
+**Check-In, & Project Submission Data.** Submit all event data to your Member Event Application on the last day of your hackathon. We use this data to calculate season rankings and to send attendees a post-event survey to collect their feedback. Specifically, you need to include:
 
 
 
-* **Registration and Check-In Data.** Each hacker’s first name, last name, age, email, school*, phone number, country, and current level of study. 
+* **Check-In Data.** Each hacker’s first name, last name, age, email, school*, phone number, country, and current level of study. 
     * _*For schools, we require that your form include our normalized list of schools. You can export [this list](https://github.com/MLH/mlh-policies/blob/master/schools.csv) at [https://github.com/MLH/mlh-policies/blob/master/schools.csv](https://github.com/MLH/mlh-policies/blob/master/schools.csv) or copy and paste it into your school selection field. We recommend that you use a drop-down list._
 * **Project Submission Data.** Each project’s title, the team members (names, emails, school name), the URL to discover their project page, a project description, any prizes that the project applied for and/or won, any technologies the project was built with, or any other metadata you’re able to provide. 
 
@@ -320,15 +295,11 @@ We couldn’t be more excited to hear that you’re interested in organizing a h
 
 <li>Here’s a template you can use! <a href="https://docs.google.com/document/d/1RlUGBpO3h9lC4hJ4zRv-wfzUIuDyxCqzVDHinmHvb-g/edit?usp=sharing">https://docs.google.com/document/d/1RlUGBpO3h9lC4hJ4zRv-wfzUIuDyxCqzVDHinmHvb-g/edit?usp=sharing</a> 
 
-<li>Be prepared to submit written regulations and authorizations for each of the following: (1) your region’s stance on large gatherings, (2) the university’s stance for each in-person component, and (3) local and/or venue stance.
-</li>
 </ul>
    </td>
   </tr>
   <tr>
    
-   <td><strong>Digital Contingency Plan</strong> <em>(Physical events) </em>- Documentation that shows a plan for transitioning your event to a digital hackathon if needed due to COVID-19. 
-   </td>
   </tr>
   <tr>
    
@@ -793,3 +764,4 @@ MLH reserves the right to revise, make exceptions to, or otherwise amend these p
 This document was last updated on: 
 
 May 10th, 2022
+

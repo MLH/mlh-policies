@@ -40,7 +40,7 @@ jobs:
 
           while true; do
             # Fetch a page of data from the API
-            RESPONSE=$(curl -s -H "Authorization: Bearer $API_TOKEN" "$API_URL?page=$PAGE&limit=$LIMIT")
+            RESPONSE=$(curl -s -H "Authorization: Bearer $API_TOKEN" "$API_URL?page=$PAGE&limit=$LIMIT&verified[eq]=true")
 
             # Parse response and check if it's empty
             PAGE_DATA=$(echo "$RESPONSE" | jq '.')

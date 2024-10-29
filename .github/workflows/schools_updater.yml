@@ -6,7 +6,7 @@ on:
   workflow_dispatch:    # Allows for manual runs as well
   push:
     branches:
-      - main
+      - aa_schools_csv_updater
 
 jobs:
   update_csv:
@@ -69,8 +69,9 @@ jobs:
           # Commit and push changes
           git add schools.csv
           git commit -m "Update CSV file from API data [skip ci]"
+
       - name: Push changes
-         uses: ad-m/github-push-action@master
-         with:
-           github_token: ${{ secrets.GITHUB_TOKEN }}
-           branch: ${{ github.ref }}
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

@@ -55,23 +55,26 @@ jobs:
             PAGE=$((PAGE + 1))
           done
 
-      - name: Convert JSON to CSV
+      - name: Filter JSON to only include school names
         run: |
-          # Convert JSON to CSV and save as school.csv
-          in2csv data.json > schools.csv
+          # Extract only the "name" field from each entry and overwrite data.json
+          jq '[.[] | {name}]' data.json > filtered_data.json
 
-      - name: Commit CSV file
+      - name: Convert JSON to CSV (only school names)
         run: |
+          # Convert filtered JSON to CSV and save as school.csv
+          in2csv filtered_data.json > school.csv
+
+      - name: Commit and push CSV file
+        run: |
+          # Move the CSV to the desired directory
+          mv school.csv path/to/your/school.csv
+
           # Configure git
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
           # Commit and push changes
-          git add schools.csv
-          git commit -m "Update CSV file from API data [skip ci]"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          git add path/to/your/school.csv
+          git commit -m "Update school CSV file from API data [skip ci]"
+          git push

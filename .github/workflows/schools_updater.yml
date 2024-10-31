@@ -42,9 +42,16 @@ jobs:
             # Fetch a page of data from the API
             RESPONSE=$(curl -s -H "Authorization: Bearer $API_TOKEN" "$API_URL?page=$PAGE&limit=$LIMIT")
 
+            # Check if the response is valid JSON and an array
+            if ! echo "$RESPONSE" | jq 'if type == "array" then . else error("Expected an array but got another type") end' > /dev/null 2>&1; then
+              echo "Error: Expected an array but received a different data structure from the API."
+              exit 1
+            fi
+
             # Parse response and check if it's empty
             PAGE_DATA=$(echo "$RESPONSE" | jq '.')
             if [ "$(echo "$PAGE_DATA" | jq 'length')" -eq 0 ]; then
+              echo "No more data to fetch. Exiting pagination loop."
               break
             fi
 

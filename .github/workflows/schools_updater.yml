@@ -40,7 +40,12 @@ jobs:
 
           while true; do
             # Fetch a page of data from the API
-            RESPONSE=$(curl -s -H "Authorization: Bearer $API_TOKEN" "$API_URL?page=$PAGE&limit=$LIMIT")
+            RESPONSE=$(curl -s -X GET \
+                            -H "Authorization: Bearer $API_TOKEN" \
+                            --data-urlencode "page=$PAGE" \
+                            --data-urlencode "limit=$LIMIT" \
+                            --data-urlencode "verified[eq]=true" \
+                            "$API_URL")
 
             # Check if the response is valid JSON and an array
             if ! echo "$RESPONSE" | jq 'if type == "array" then . else error("Expected an array but got another type") end' > /dev/null 2>&1; then

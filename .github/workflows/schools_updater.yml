@@ -76,12 +76,12 @@ jobs:
           jq -r '.[].name' data.json >> schools.csv
 
       - name: Commit and push CSV file
-        run: |
-          # Configure git
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Commit and push changes
-          git add schools.csv
-          git commit -m "Update schools CSV file from API data [skip ci]"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update schools CSV file from API data [skip ci]
+          file_pattern: schools.csv
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
+          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+          skip_fetch: true
+          skip_checkout: true

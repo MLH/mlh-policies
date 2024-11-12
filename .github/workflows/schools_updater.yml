@@ -75,14 +75,11 @@ jobs:
 
       - name: Commit and push CSV file
         run: |
-          # Move the CSV to the desired directory
-          mv schools.csv path/to/your/schools.csv
-
           # Configure git
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
           # Commit and push changes
-          git add path/to/your/school.csv
-          git commit -m "Update school CSV file from API data [skip ci]"
+          git add schools.csv
+          git commit -m "Update schools CSV file from API data [skip ci]"
           git push

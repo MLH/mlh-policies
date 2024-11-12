@@ -1,0 +1,87 @@
+name: Fetch Paginated JSON and Update CSV
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs once a day at midnight (UTC)
+  workflow_dispatch:    # Allows for manual runs as well
+  push:
+    branches:
+      - main
+
+jobs:
+  update_csv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install jq and csvkit
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+          pip install csvkit
+
+      - name: Fetch paginated JSON data from API
+        env:
+          API_URL: ${{ secrets.API_URL }}
+          API_TOKEN: ${{ secrets.API_TOKEN }}
+        run: |
+          # Initialize page and limit parameters
+          PAGE=1
+          LIMIT=250
+          AGGREGATE_FILE=data.json
+          echo "[]" > $AGGREGATE_FILE  # Initialize an empty JSON array
+
+          while true; do
+            # Fetch a page of data from the API
+            RESPONSE=$(curl -s -X GET \
+                            -H "Authorization: Bearer $API_TOKEN" \
+                            --data-urlencode "page=$PAGE" \
+                            --data-urlencode "limit=$LIMIT" \
+                            --data-urlencode "verified[eq]=true" \
+                            "$API_URL")
+
+            # Check if the response is valid JSON and an array
+            if ! echo "$RESPONSE" | jq 'if type == "array" then . else error("Expected an array but got another type") end' > /dev/null 2>&1; then
+              echo "Error: Expected an array but received a different data structure from the API."
+              exit 1
+            fi
+
+            # Parse response and check if it's empty
+            PAGE_DATA=$(echo "$RESPONSE" | jq '.')
+            if [ "$(echo "$PAGE_DATA" | jq 'length')" -eq 0 ]; then
+              echo "No more data to fetch. Exiting pagination loop."
+              break
+            fi
+
+            # Append the page data to the aggregate JSON array
+            jq -s '.[0] + .[1]' $AGGREGATE_FILE <(echo "$PAGE_DATA") > tmp.json && mv tmp.json $AGGREGATE_FILE
+
+            # Increment page number for the next request
+            PAGE=$((PAGE + 1))
+          done
+
+      - name: Filter JSON to only include school names and save as school.csv
+        run: |
+          # Add first line to CSV file
+          echo "\"Below is a list of all schools that we've manually verified. If you see one that hasn't been included, please add it via my.mlh.io and we'll verify it soon.\"" > schools.csv
+          
+          # Extract only the "name" field from each entry and overwrite data.json
+          jq -r '.[].name' data.json >> schools.csv
+
+      - name: Commit and push CSV file
+        run: |
+          # Configure git
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Commit and push changes
+          git add schools.csv
+          git commit -m "Update schools CSV file from API data [skip ci]"
+          git push

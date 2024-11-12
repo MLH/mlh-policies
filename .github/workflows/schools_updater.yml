@@ -75,7 +75,7 @@ jobs:
       - name: Commit and push CSV file
         run: |
           # Move the CSV to the desired directory
-          mv school.csv path/to/your/schools.csv
+          mv schools.csv path/to/your/schools.csv
 
           # Configure git
           git config --local user.name "github-actions[bot]"

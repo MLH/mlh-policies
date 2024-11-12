@@ -7,7 +7,6 @@ on:
   push:
     branches:
       - main
-      - aa_schools_csv_updater
 
 jobs:
   update_csv:

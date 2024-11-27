@@ -71,9 +71,8 @@ jobs:
         run: |
           # Add first line to CSV file
           echo "\"Below is a list of all schools that we've manually verified. If you see one that hasn't been included, please add it via my.mlh.io and we'll verify it soon.\"" > schools.csv
-          
-          # Extract only the "name" field from each entry and overwrite data.json
-          jq -r '.[].name' data.json >> schools.csv
+          # Wrap each "name" in an array to use @csv for correct CSV formatting
+          jq -r '.[].name | [.] | @csv' data.json >> schools.csv
 
       - name: Commit and push CSV file using deploy key
         env:
@@ -84,9 +83,6 @@ jobs:
           echo "$DEPLOY_KEY" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
-
-          # Move the CSV to the desired directory
-          mv school.csv path/to/your/school.csv
 
           # Configure git
           git config --global user.name "github-actions[bot]"

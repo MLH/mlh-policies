@@ -71,6 +71,7 @@ jobs:
         run: |
           # Add first line to CSV file
           echo "\"Below is a list of all schools that we've manually verified. If you see one that hasn't been included, please add it via my.mlh.io and we'll verify it soon.\"" > schools.csv
+
           # Wrap each "name" in an array to use @csv for correct CSV formatting
           jq -r '.[].name | [.] | @csv' data.json >> schools.csv
 

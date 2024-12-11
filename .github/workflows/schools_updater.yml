@@ -92,4 +92,4 @@ jobs:
           # Commit and push changes
           git add path/to/your/school.csv
           git commit -m "Update school CSV file from API data [skip ci]" || echo "No changes to commit"
-          git push git@github.com:your-username/your-repo.git HEAD:main
+          git push git@github.com:mlh/mlh-policies.git HEAD:main

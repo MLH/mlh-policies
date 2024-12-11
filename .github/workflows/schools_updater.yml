@@ -75,13 +75,21 @@ jobs:
           # Wrap each "name" in an array to use @csv for correct CSV formatting
           jq -r '.[].name | [.] | @csv' data.json >> schools.csv
 
-      - name: Commit and push CSV file
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: Update schools CSV file from API data [skip ci]
-          file_pattern: schools.csv
-          commit_user_name: github-actions[bot]
-          commit_user_email: github-actions[bot]@users.noreply.github.com
-          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
-          skip_fetch: true
-          skip_checkout: true
+      - name: Commit and push CSV file using deploy key
+        env:
+          DEPLOY_KEY: ${{ secrets.UPDATE_SCHOOLS_DEPLOY_KEY }}
+        run: |
+          # Set up SSH
+          mkdir -p ~/.ssh
+          echo "$DEPLOY_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+
+          # Configure git
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Commit and push changes
+          git add schools.csv
+          git commit -m "Update school CSV file from API data [skip ci]" || echo "No changes to commit"
+          git push git@github.com:mlh/mlh-policies.git HEAD:main

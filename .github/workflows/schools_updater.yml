@@ -70,8 +70,9 @@ jobs:
       - name: Filter JSON to only include school names and save as school.csv
         run: |
           # Add first line to CSV file
-          echo "\"Below is a list of all schools that we've manually verified. If you see one that hasn't been included, please add it via my.mlh.io and we'll verify it soon.\"" > schools.csv
-          
+          CURRENT_TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
+          echo "\"Below is a list of all schools that we've manually verified. If you see one that hasn't been included, please add it via my.mlh.io and we'll verify it soon. List last updated at: $CURRENT_TIMESTAMP.\"" > schools.csv
+
           # Extract only the "name" field from each entry and overwrite data.json
           jq -r '.[].name' data.json >> schools.csv
 

@@ -12,14 +12,15 @@ Remember that hackathons are like marathons. Some people go to compete, but most
 1. All participants agree to uphold the [MLH Code of Conduct](https://mlh.io/code-of-conduct) to keep hackathons safe, welcoming spaces for *everyone*.
 2. MLH Hackathons are primarily for students, but may also include professionals. MLH chooses to define students broadly. Anyone who attends a traditional school, college, or university and those in bootcamps and similar programs are students. Organizers, volunteers, judges, sponsors, or in any other privileged position at the event should not participate as a hacker. 
 3. All team members should be actively participating in the event. 
-4. Teams should of course gain advice and support from organizers, volunteers, sponsors, and each other.
+4. Teams should of course gain advice and support from organizers, volunteers, sponsors, and each other. Individuals outside the team should not directly make material contributions to the project. 
 5. All work on a project should be during the period of the hackathon.
 6. Teams can use an idea they had before the event.
 7. Teams can work on ideas that have already been done. Hacks do not have to be “innovative”. If somebody wants to work on a common idea, they should be allowed to do so and should be judged on the quality of their hack. These days it’s hard to find something that’s fully original and teams might not know an idea has been done before anyway.
 8. Teams can work on an idea that they have worked on before (as long as they do not re-use code or other project materials).
-9. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
+9. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed. Teams must document any external code in their submission and explictly mention them during judging to distinguish their contributions. 
 10. Teams must stop hacking once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
 11. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf), or other unsporting behaviour.
+12. Your code must be available publicly (ideally in a git repository).
 
 ## Digital Event Submission Rules
 

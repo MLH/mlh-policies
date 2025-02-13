@@ -69,15 +69,18 @@ jobs:
 
       - name: Filter JSON to only include school names and save as school.csv
         run: |
+          CSV_FILE=schools.csv
+          if [ -f "$CSV_FILE" ]; then
+            rm "$CSV_FILE"
+            echo "Removed existing $CSV_FILE"
+          fi
+
           # Add first line to CSV file
           CURRENT_TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
-          echo "\"Below is a list of all schools that we've manually verified. If you see one that hasn't been included, please add it via my.mlh.io and we'll verify it soon. List last updated at: $CURRENT_TIMESTAMP.\"" > schools.csv
-
-          # Extract only the "name" field from each entry and overwrite data.json
-          jq -r '.[].name' data.json >> schools.csv
+          echo "\"Below is a list of all schools that we've manually verified. If you see one that hasn't been included, please add it via my.mlh.io and we'll verify it soon. List last updated at: $CURRENT_TIMESTAMP.\"" > $CSV_FILE
 
           # Wrap each "name" in an array to use @csv for correct CSV formatting
-          jq -r '.[].name | [.] | @csv' data.json >> schools.csv
+          jq -r '.[].name | [.] | @csv' data.json >> $CSV_FILE
 
       - name: Commit and push CSV file using deploy key
         env:

@@ -15,7 +15,7 @@ Event Logistics Information: “I authorize you to share my application/registra
 
 *This notice should be an optional checkbox on your event registration.*
 
-Communication from MLH: “I authorize MLH to send me an email where I can further opt into the MLH Hacker, Events, or Organizer Newsletters and other communications from MLH." 
+Communication from MLH: “I authorize MLH to send me occasional emails about relevant events, career opportunities, and community announcements." 
 
 This document was last updated on: 
-May 11th 2022
+May 8th 2025

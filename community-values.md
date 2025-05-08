@@ -2,7 +2,7 @@
 
 Major League Hacking (MLH) believes that every student on the planet should
 have access to high-quality events where they can learn, build, and share
-their creations. Through supporting 100’s of hackathons around the world and
+their creations. Through supporting hundreds of hackathons around the world and
 working closely with the MLH Community, we’ve come up with the following Core
 Values that MLH and MLH Member Events share.
 
@@ -14,65 +14,51 @@ for hackers, organizers, and sponsors alike.
 ## MLH Member Events set a standard of excellence for attendees.
 
  - Have a confirmed date and location that attendees can depend on.
- - Events must be at least 24 hours and the venue must be available for attendees overnight.
+ - Events must be at least 24 hours, and the venue (or an alternative) must be available for attendees overnight.
  - Have enough food on site to reasonably feed attendees during the event.
  - Events should provide healthy food options and have options available for hackers with dietary restrictions.
- - Ensure that participants own any intellectual property they produce at the
-   event.
- - Clearly communicate any major changes to the event (Ex. venue, location,
+ - Ensure that participants own any intellectual property they produce at the event.
+ - Clearly communicate any major changes to the event (e.g., venue, location,
    schedule, theme, etc.) as soon as they occur.
  - Check in all attendees as they arrive at the event and make sure they have
- up-to-date name, email, mobile phone number, and school for each of them.
- - Have at least one lead organizer who has full ability to make decisions on site at any time during the event.
+ up-to-date names, emails, phone numbers, and schools for each of them.
+ - Have at least one lead organizer who has the full ability to make decisions on site at any time during the event.
 
 ## MLH Member Events are open and accessible to all students.
 
  - Do not have entry fees.
  - Advertise well enough in advance for hackers in the area to learn about the
    event.
- - Do not discriminate on the basis of race, religion, national origin, color,
-   sex, gender identity, sexual orientation, social class, economic status,
-   veteran status, disability, or age.
- - Make a good-will effort to advertise and make the application for admission
-   publicly available.
- - Aren’t secret or invite-only events
+ - Do not discriminate on the basis of race, religion, national origin, color, sex, gender identity, sexual orientation, social class, economic status, veteran status, disability, or age.
+ - Make a goodwill effort to advertise and make the application for admission publicly available.
+ - Are not secret or invite-only events.
  - Have a straightforward and publicly known general application process. 
  - Publish the criteria for admission to their event.
  - Publish the rules and regulations for competing in their event.
 
 ## MLH Member Events are fair.
 
- - Organizers don’t compete in any event they are organizing. They extend the
-   same rule to judges, sponsors, and other staff.
- - Are open to hackers who are students at the time of the hackathon or who have graduated within the last 12 months. Students can include high school students, university undergraduate or postgraduate students, and people who are in vocational training such as apprenticeships. They welcome non-students as volunteers, mentors, sponsors, and judges.
+ - Organizers don’t compete in any event they are organizing. They extend the same rule to judges, sponsors, and other staff.
+ - Are open to hackers who are students at the time of the hackathon or who have graduated within the last 12 months. Students can include high school students, university undergraduates, or postgraduate students, and people who are in vocational training, such as apprenticeships. They welcome non-students as volunteers, mentors, sponsors, and judges.
  
 
 ## MLH Member Events are safe and welcoming spaces.
 
  - Adopt, make available, and enforce the MLH Code of Conduct.
- - Organizers all sign and agree to the MLH Code of Conduct.
+ - Organizers all agree to the MLH Code of Conduct.
  - Have a clear and widely known reporting system for incidents.
- - Have a link to the Code of Conduct on their website and ask all registrants
-   to agree to the Code of Conduct during registration (e.g. a compulsory check
+ - Have a link to the Code of Conduct on their website, and ask all registrants to agree to the Code of Conduct during registration (e.g., a compulsory check
    box).
- - Make it clear that the Code of Conduct extends to all attendees, including
-   hackers, volunteers, organizers, sponsors, judges, mentors, and MLH staff. 
- - Make sure that bad actors and attendees who violate the code of conduct or
-   rules will not attend the event.
- - Respect and enforce the drug and alcohol laws and customs of the local
-   country and only allow moderate alcohol consumption in locales where
-   drinking is allowed.
+ - Make it clear that the Code of Conduct extends to all attendees, including hackers, volunteers, organizers, sponsors, judges, mentors, and MLH staff. 
+ - Make sure that bad actors and attendees who violate the MLH Code of Conduct or rules will not attend the event.
+ - Respect and enforce the drug and alcohol laws and customs of the local country, and only allow moderate alcohol consumption in locales where drinking is allowed.
  - Have a first aid kit on site during the event.
- - If minors are attending, the child safeguarding requirements for the
-   region/state have been met.
+ - If minors are attending, the child safeguarding requirements for the region/state have been met.
  - If the event is occurring on campus, organizers will make a good faith effort to involve school administration and/or faculty.
  - Whenever possible, events provide sleeping spaces for attendees and encourage attendees to take advantage of them.
 
-Creating an empowering environment where hackers of all skill levels can
-create amazing things is MLH’s main priority. The MLH Community Values
-codify this belief in a way that describes not only the MLH Member Events,
-but also the types of events that MLH wants to work with because of their
-positive contributions to the student hacker movement.
+Creating an empowering environment where hackers of all skill levels can create amazing things is MLH’s main priority. The MLH Community Values codify this belief in a way that describes not only the MLH Member Events, but also the types of events that MLH wants to work with because of their positive contributions to the student hacker movement.
 
 This document was last updated on:
-May 1, 2019
+May 8, 2025
+

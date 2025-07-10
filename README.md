@@ -15,3 +15,6 @@ Contained within are:
 -   [Privacy Policy](privacy-policy.md)
 -   [School lists](schools.csv)
 -   [Standard Hackathon Rules](standard-hackathon-rules.md)
+-   [Hackcon Liability Waiver](hackcon-liability-waiver.md)
+-   [DevRelCon Liability Waiver](devrelcon-liability-waiver.md)
+-   [TechTogether Gender Inclusivity Policy](techtogether-gender-inclusivity-policy.md)

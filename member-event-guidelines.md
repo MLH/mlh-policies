@@ -282,7 +282,7 @@ We’ve outlined these questions in detail in our MLH Organizer Guide at https:/
 
 **Overnight Accommodations.** We require Member Events to leave their venues open overnight or provide alternate overnight accommodations for any off-campus attendees. Many hackers may travel long distances to attend hackathons and will need a place to rest. If your venue has restrictions on this talk with your Hackathon Community Manager, and we will see about custom exceptions to make sure hackers have what they need while still being able to partner with you. 
 
-**Meals.**We require your event to provide meals for the duration of the event. See the FAQ at the beginning of this document for specific meals required based on your schedule. 
+**Meals.** We require your event to provide meals for the duration of the event. See the FAQ at the beginning of this document for specific meals required based on your schedule. 
 
 
 ## **During Your Hackathon**

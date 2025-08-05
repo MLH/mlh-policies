@@ -47,6 +47,8 @@ jobs:
                             --data-urlencode "verified[eq]=true" \
                             "$API_URL")
 
+            echo "$RESPONSE"
+    
             # Check if the response is valid JSON and an array
             if ! echo "$RESPONSE" | jq 'if type == "array" then . else error("Expected an array but got another type") end' > /dev/null 2>&1; then
               echo "Error: Expected an array but received a different data structure from the API."

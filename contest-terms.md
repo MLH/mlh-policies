@@ -1,8 +1,8 @@
 MAJOR LEAGUE HACKING CONTEST (“Contest”) TERMS AND CONDITIONS Sponsored by Major League Hacking (“Sponsor”).
 
-**Term:** The Events season shall commence on July 1, 2024, and shall end on June 30, 2025. (the “Term”).
+**Term:** The Events season shall commence on July 1, 2025, and shall end on June 30, 2026. (the “Term”).
 
-**Events:** "Major League Hacking" Fall 2024 – Spring 2025 Member Events, consisting of individual first or third-party organized Major League Hacking league recognized "Member" Events occurring during the Term in Mexico, Canada, India, Nepal, Singapore, Australia, the UK, member states of the European Union, and the fifty (50) United States and the District of Columbia (each, an "Event"). At each Event, there will be Categories (defined below) in which Applications (defined below) may be submitted.
+**Events:** "Major League Hacking" Fall 2025 – Spring 2026 Member Events, consisting of individual first or third-party organized Major League Hacking league recognized "Member" Events occurring during the Term in Mexico, Canada, India, Nepal, Singapore, Australia, the UK, member states of the European Union, and the fifty (50) United States and the District of Columbia (each, an "Event"). At each Event, there will be Categories (defined below) in which Applications (defined below) may be submitted.
 
 THE CONTEST IS VOID WHERE PROHIBITED BY LAW. BY PARTICIPATING IN ANY EVENTS, YOU AGREE TO THESE TERMS AND CONDITIONS.
 
@@ -62,4 +62,4 @@ Sponsor reserves the right, in their sole discretion, to cancel, modify or suspe
 **Winner’s List:** For a list of winners, send an email message to hi@mlh.io with Winner’s List as the email subject and Event name specified in the body of the e-mail.
 
 This document was last updated on: 
-August 30th, 2024
+August 14th, 2025

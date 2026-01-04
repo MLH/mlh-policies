@@ -37,7 +37,7 @@ For fully digital hackathons that MLH hosts, hackathon submissions are subject t
 2. Your video must remain public post event to be eligible for prizes. If your video is not public, new winners may be selected.
 3. Your demo video must state the name of the hackathon at the beginning of the video. Ex. "Hey I'm Sam and this is my demo for CorgiHacks."
 4. You must have completed all registration steps for the hackathon.
-5. You are allowed to submit your project to other hackathons (taking place over the same period) as long as the other hackathon also allows this.
+5. You are not allowed to submit your project to other hackathons.
 6. You can not submit a project that includes prior work.
 
 ## Demos

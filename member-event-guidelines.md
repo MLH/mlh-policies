@@ -119,9 +119,9 @@ In our experience, having a global MLH partner that conflicts with a local hacka
 
 ## **Does MLH support digital or hybrid hackathons?**
 
-We have a few very limited slots to support the highest quality digtal and hybrid hackathons. We typically limit ourselves to at most one digital hackathon a weekend. 
+We have very limited slots to support the highest quality digital and hybrid hackathons. We typically limit ourselves to at most one digital hackathon a weekend. 
 
-We encourage events considering a digital or hybrid format to just host a in-person hackathon instead (if possible). Ultimately, we have limited resources and are focusing on hackathons that we believe have the most impact on hackers (in-person hackathons). In our Hacker Census each year, we’ve consistently seen that hackers prefer in-person events. Hackers notably struggle to engage with hybrid events on the same level as a fully in-person or fully digital hackathons.
+We strongly encourage events considering a digital or hybrid format to host an in-person hackathon instead. Ultimately, we have limited resources and are focusing on hackathons that we believe have the most impact on hackers (in-person hackathons). In our Hacker Census each year, we’ve consistently seen that hackers prefer in-person events. Hackers notably struggle to engage with hybrid or digital events on the same level as fully in-person or fully digital hackathons.
 
 We still ask digital and hybrid events to complete the [MLH Member Event Application](https://mlh.link/member-event-application). This helps us gauge organizer interest in these events. Additionally, when evaluating applications, we look for events that have consistently applied to work with us, so putting in an application (even for a digital or hybrid event) helps us prioritize your hackathon in the future.
 

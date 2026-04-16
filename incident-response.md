@@ -9,7 +9,8 @@ If you cannot contact your on-site MLHer, immediately contact MLH’s Incident R
 
 - North America General Reporting - +1 409 202 6060, incidents@mlh.io
 - Canada General Reporting - +1 343 453 4532, incidents@mlh.io
-- Europe General Reporting - +44 800 808 5675, incidents@mlh.io
+- UK General Reporting - +44 800 808 5675, incidents@mlh.io
+- Europe General Reporting - +44 333 038 5995, incidents@mlh.io
 - Asia-Pacific General Reporting - +91 000 80004 02492, incidents@mlh.io
 - India General Reporting - 000 80004 02492, incidents@mlh.io
 
@@ -58,5 +59,5 @@ If attendees express distress or anger about an incident and its handling:
 - Reassure them that such matters are taken seriously and that appropriate steps are being taken or have been taken, respecting the privacy of those involved.
 - If they wish to provide further feedback or discuss their concerns in more detail, offer them clear channels to do so by speaking further with the on-site MLHer when appropriate, or encouraging them to provide written feedback directly to MLH via incidents@mlh.io so their concerns can be addressed.
 
-Last Revised: 2025-07-08
+Last Revised: 2026-04-16
 

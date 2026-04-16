@@ -26,7 +26,8 @@ By sending information to the general reporting line, your report will go to our
 
 - North America General Reporting - +1 409 202 6060, incidents@mlh.io
 - Canada General Reporting - +1 343 453 4532, incidents@mlh.io
-- Europe General Reporting - +44 800 808 5675, incidents@mlh.io
+- UK General Reporting - +44 800 808 5675, incidents@mlh.io
+- Europe General Reporting - +44 333 038 5995, incidents@mlh.io
 - Asia-Pacific General Reporting - +91 000 80004 02492, incidents@mlh.io
 - India General Reporting - 000 80004 02492, incidents@mlh.io
 
@@ -40,4 +41,4 @@ If you are uncomfortable reporting your situation to one or more of these people
 MLH reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact MLH by e-mail at incidents@mlh.io.
 
 This document was last updated on: 
-February 14th 2025
+April 16th 2026

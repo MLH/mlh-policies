@@ -59,5 +59,5 @@ If attendees express distress or anger about an incident and its handling:
 - Reassure them that such matters are taken seriously and that appropriate steps are being taken or have been taken, respecting the privacy of those involved.
 - If they wish to provide further feedback or discuss their concerns in more detail, offer them clear channels to do so by speaking further with the on-site MLHer when appropriate, or encouraging them to provide written feedback directly to MLH via incidents@mlh.io so their concerns can be addressed.
 
-Last Revised: 2025-07-08
+Last Revised: 2026-04-16
 

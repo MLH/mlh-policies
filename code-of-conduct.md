@@ -41,4 +41,4 @@ If you are uncomfortable reporting your situation to one or more of these people
 MLH reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact MLH by e-mail at incidents@mlh.io.
 
 This document was last updated on: 
-February 14th 2025
+April 16th 2026

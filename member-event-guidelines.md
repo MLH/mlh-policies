@@ -2,15 +2,15 @@
 
 ## 2026 Hackathon Season
 
-July 1st, 2025 - June 30th, 2026
+July 1st, 2026 - June 30th, 2027
 
-**Last updated on:** _May 21, 2025_
+**Last updated on:** _May 22, 2026_
 
 ## **A message from our CEO:**
 
 Hey, there –
 
-We’re excited to hear that you’re interested in organizing a hackathon, and even more excited to hear you’re interested in being a part of the 2026 Hackathon Season with MLH.
+We’re excited to hear that you’re interested in organizing a hackathon, and even more excited to hear you’re interested in being a part of the 2027 Hackathon Season with MLH.
 
 For more than ten years, our team has had the privilege of giving back to the hacker community by partnering with passionate hackathon organizers and community leaders (just like you!) to put on world-class events. Today, 1 in every 3 computer science student graduates has attended an MLH Member Event hackathon, and, as a result, the hacker community has grown to be more than 1,000,000 members. The work you are doing to host a hackathon presents students with opportunities to learn, build, and share amazing creations. Today, you’re taking the first step toward changing the lives of countless hackers!
 
@@ -53,50 +53,50 @@ We encourage events to start their applications as soon as possible because we h
     <td><strong>Roster Finalized</strong></td>
   </tr>
   <tr>
-    <td>August 2025</td>
-    <td>April 2025 <i>or sooner</i></td>
-    <td>Start of July 2025</td>
+    <td>August 2026</td>
+    <td>April 2026 <i>or sooner</i></td>
+    <td>Start of July 2026</td>
   </tr>
  <tr>
-    <td>September 2025</td>
- <td>May 2025 <i>or sooner</i></td>
- <td>Start of August 2025</td>
+    <td>September 2026</td>
+ <td>May 2026 <i>or sooner</i></td>
+ <td>Start of August 2026</td>
  <tr>
-    <td>October 2025</td>
- <td>June 2025 <i>or sooner</i></td>
- <td>Start of September 2025</td>
+    <td>October 2026</td>
+ <td>June 2026 <i>or sooner</i></td>
+ <td>Start of September 2026</td>
  <tr>
-    <td>November 2025</td>
- <td>July 2025 <i>or sooner</i></td>
- <td>Start of October 2025</td>
+    <td>November 2026</td>
+ <td>July 2026 <i>or sooner</i></td>
+ <td>Start of October 2026</td>
  <tr>
-    <td>December 2025</td>
- <td>August 2025 <i>or sooner</i></td>
- <td>Start of November 2025</td>
+    <td>December 2026</td>
+ <td>August 2026 <i>or sooner</i></td>
+ <td>Start of November 2026</td>
  <tr>
-    <td>January 2026</td>
- <td>September 2025 <i>or sooner</i></td>
- <td>Start of December 2025</td>
+    <td>January 2027</td>
+ <td>September 2026 <i>or sooner</i></td>
+ <td>Start of December 2026</td>
  <tr>
-    <td>February 2026</td>
- <td>October 2025 <i>or sooner</i></td>
- <td>Start of January 2026</td>
+    <td>February 2027</td>
+ <td>October 2026 <i>or sooner</i></td>
+ <td>Start of January 2027</td>
  <tr>
-    <td>March 2026</td>
- <td>November 2025 <i>or sooner</i></td>
- <td>Start of February 2026</td>
+    <td>March 2027</td>
+ <td>November 2026 <i>or sooner</i></td>
+ <td>Start of February 2027</td>
  <tr>
-    <td>April 2026</td>
- <td>December 2025 <i>or sooner</i></td>
- <td>Start of March 2026</td>
+    <td>April 2027</td>
+ <td>December 2026 <i>or sooner</i></td>
+ <td>Start of March 2027</td>
  <tr>
-    <td>May 2026</td>
- <td>January 2026 <i>or sooner</i></td>
- <td>Start of April 2026</td>
+    <td>May 2027</td>
+ <td>January 2027 <i>or sooner</i></td>
+ <td>Start of April 2027</td>
  <tr>
-    <td>June 2026</td>
- <td>February 2026 <i>or sooner</i></td>
- <td>Start of May 2026</td>
+    <td>June 2027</td>
+ <td>February 2027 <i>or sooner</i></td>
+ <td>Start of May 2027</td>
 </table>
 
 ## **How do we become an MLH Member Event?**
@@ -121,13 +121,13 @@ In our experience, having a global MLH partner that conflicts with a local hacka
 
 We have very limited slots to support the highest quality digital and hybrid hackathons. We typically limit ourselves to at most one digital hackathon a weekend. 
 
-We strongly encourage events considering a digital or hybrid format to host an in-person hackathon instead. Ultimately, we have limited resources and are focusing on hackathons that we believe have the most impact on hackers (in-person hackathons). In our Hacker Census each year, we’ve consistently seen that hackers prefer in-person events. Hackers notably struggle to engage with hybrid or digital events on the same level as fully in-person hackathons.
+We strongly encourage events considering a digital or hybrid format to host a fully in-person hackathon instead. Ultimately, we have limited resources and are focusing on hackathons that we believe have the most impact on hackers (in-person hackathons). In our Hacker Census each year, we’ve consistently seen that hackers prefer in-person events. Hackers notably struggle to engage with hybrid or digital events on the same level as fully in-person hackathons.
 
 We still ask digital and hybrid events to complete the [MLH Member Event Application](https://mlh.link/member-event-application). This helps us gauge organizer interest in these events. Additionally, when evaluating applications, we look for events that have consistently applied to work with us, so putting in an application (even for a digital or hybrid event) helps us prioritize your hackathon in the future.
 
 ## **Can our event have elimination rounds?**
 
-Particularly in APAC and India, we’ve seen hackathons implement shortlists, early feedback rounds, and elimination rounds during the weekend. This results in hackers being eliminated or sent home before the event officially concludes. We believe all hackers should be welcome to stay and hack at the event through the end of the event and closing ceremony.
+Particularly in APAC and India, we’ve seen hackathons implement shortlists, early feedback rounds, and elimination rounds during the weekend. This results in hackers being eliminated or sent home before the event officially concludes. We believe all hackers should be welcome to stay and hack at the event through the end of the event and the closing ceremony. 
 
 If you need to limit the number of hackers who can attend the event in person because of venue restrictions, we recommend having any shortlisting take place online before the event instead of during the event.
 
@@ -159,27 +159,29 @@ _By partnering with MLH, you get access to all the following benefits and any ad
 
 **Peer Groups.** We know how much work goes into putting on a world-class hackathon and how intimidating that can be! Through the MLH Organizer Hub, we’ll optionally connect you with organizers planning events on a similar timeline to form Peer Groups. You can use these groups to learn and discuss topics like fundraising, marketing, and leadership.
 
-**Hackathon Organizer Guide.** All organizers have full access to MLH’s Hackathon Organizer Guide at guide.mlh.io. The guide is packed with information for you and your team to leverage as you plan your event.
+**Hackathon Organizer Guide.** All organizers have full access to MLH’s Hackathon Organizer Guide at [guide.mlh.io](https://guide.mlh.io/). The guide is packed with information for you and your team to leverage as you plan your event.
 
-**Templates and Tutorials.** As part of the Hackathon Organizer Guide, we’ve created a library of templates and tutorials for all organizers to use while planning and hosting their events. While you don’t need to use our templates, we’ve seen organizers consistently struggle with major topics like budgeting and judging when they try to reinvent the wheel. We’ve created simple templates to help you and your team. You can view all of our templates [here](https://guide.mlh.io/organizer-resources/template-links) (https://guide.mlh.io/organizer-resources/template-links).
+**Templates and Tutorials.** AAs part of the Hackathon Organizer Guide, we’ve created a library of templates and tutorials for all organizers to use while planning and hosting their events. While you don’t need to use our templates, we’ve seen organizers consistently struggle with major topics like budgeting and judging when they try to reinvent the wheel. We’ve created simple templates to help you and your team. You can view all of our templates [here](https://guide.mlh.io/organizer-resources/template-links).
 
-**Hackcon Talks.** Each year we host a conference for hackathon organizers where our community shares their knowledge and experiences with one another. We have a library of past talks from organizers that you and your team can use to learn best practices. You can view some of our favorite talks [here](https://www.youtube.com/playlist?list=PLPDgudJ_VDUeQHDMl_9RfkOYf2JU5cwwl) (https://www.youtube.com/playlist?list=PLPDgudJ_VDUeQHDMl_9RfkOYf2JU5cwwl).
+**Hackcon Talks.** Each year, we host a retreat-style conference called [Hackcon](https://hackcon.mlh.com/) for hackathon organizers, where our community members share their knowledge and experiences with one another. This is the only event we host for hackathon organizers that costs money to attend. While we run Hackcon at a loss, the attendance ticket allows us to host the conference every year. We release ticket sales for Hackcon every September and offer scholarships. We would love to see you there! If you cannot make it in person, we have a library of past talks from organizers that you and your team can use to learn best practices. You can view some of our favorite talks [here](https://www.youtube.com/playlist?list=PLPDgudJ_VDUeQHDMl_9RfkOYf2JU5cwwl).
+
+**Hackcon Member Event Benefits.** Member Event organizers are eligible for discounts, scholarships, travel reimbursements, and free tickets to Hackcon. This may change slightly from year to year. Reach out to your HCM for more information.
 
 **Planning Feedback.** To help ensure your hackathon is as successful as possible, we’ll review your core documents and deliverables needed to put on a great event. As part of your Member Event Application, you’ll receive a review and feedback on your website, venue, budget, sponsorship packet, sponsorship list, and marketing plan.
 
 **Event Marketing Promotion.** While the best source of hackers for your event is likely your local community and nearby colleges, universities, and schools, Major League Hacking will promote your event to thousands of hackers through various platforms.
 
-* Season Schedule Listing. We’ll list your event on the official MLH season schedule at http://mlh.io/events. Hundreds of thousands of hackers and sponsors visit this page every year to discover the events they want to participate in.
+* Season Schedule Listing. We’ll list your event on the official MLH season schedule at [http://mlh.com/events](http://mlh.com/events). Hundreds of thousands of hackers and sponsors visit this page every year to discover the events they want to participate in.
 * MLH Community Discord Promotion. We’ll post in an announcements channel on the MLH Community Discord (with 55,000+ members) to promote your hackathon.
 * We also can promote you on our Instagram or other social media upon request once you become a Member Event. Reach out to your Hackathon Community Manager for more information.
 
 **Preferred Vendors & Discounts.** Organizing a great hackathon can be expensive. To help you save time and money, we have vetted and partnered with amazing vendors that offer exclusive discounts and priority access to Member Events.
 
-* **Pure Buttons** (https://www.purebuttons.com/) - We wanted to ensure our organizers continued to have access to high-quality stickers this season. Our friends at Pure Buttons have your back. If you’re familiar with StandOut Stickers, Pure Buttons is the same company.
+* **Pure Buttons** ([https://www.purebuttons.com/](https://www.purebuttons.com/)) - We wanted to ensure our organizers continued to have access to high-quality stickers this season. Our friends at Pure Buttons have your back. If you’re familiar with StandOut Stickers, Pure Buttons is the same company.
   * Continental US. 10% discount plus free shipping on your order.
   * UK, EU, APAC, Alaska, and Hawaii. 15% off the entire order. Shipping costs will vary.
-  * Want an even better deal? You’ll receive $125 in credit just for displaying the[Pure Buttons logo](https://static.mlh.io/brand-assets/sponsors/pure-buttons/Pure-Buttons-Blue-Gradient-Logo-RGB.png?_gl=1*539svj*_ga*NDkwMTExMTM4LjE2MzcwNzMzNTY.*_ga_E5KT6TC4TK*czE3NDc4NDMxNzQkbzY2MyRnMSR0MTc0Nzg0MzIyMCRqMCRsMCRoMA.) on your website linked to https://mlh.link/purebuttons.
-* **Brand Makers** (https://www.brandmakers.com/) - If you’re looking to produce anything from t-shirts to mugs, Brand Makers can help. They are MLH’s preferred vendor for all of our own swag. MLH works with Brand Makers for our Season Tees, scrunchies, hats, tote bags, and more.
+  * Want an even better deal? You’ll receive $150 in credit just for displaying the[Pure Buttons logo](https://static.mlh.io/brand-assets/sponsors/pure-buttons/Pure-Buttons-Blue-Gradient-Logo-RGB.png?_gl=1*539svj*_ga*NDkwMTExMTM4LjE2MzcwNzMzNTY.*_ga_E5KT6TC4TK*czE3NDc4NDMxNzQkbzY2MyRnMSR0MTc0Nzg0MzIyMCRqMCRsMCRoMA.) on your website linked to [https://mlh.link/purebuttons](https://mlh.link/purebuttons).
+* **Brand Makers** ([https://www.brandmakers.com/](https://www.brandmakers.com/)) - If you’re looking to produce anything from t-shirts to mugs, Brand Makers can help. They are MLH’s preferred vendor for all of our own swag. MLH works with Brand Makers for our Season Tees, scrunchies, hats, tote bags, and more.
 
 **Handoff Call with HCM.** About three weeks before your event, your Hackathon Community Manager will spend time with you to discuss final logistics and action items to ensure you and your team are well prepared.
 
@@ -207,11 +209,11 @@ _By partnering with MLH, you get access to all the following benefits and any ad
 
 **Judging Support.** We know that judging is one of the most stressful periods during a hackathon. We offer judging templates, resources, and tutorials for all Member Events to utilize. In addition, our MLH representative can assist you with running demos and judging during your event in a fair, standardized way. You are still expected to recruit and coordinate judges' arrival before the event.
 
-**Incidents Management.** MLH Member Events are safe and welcoming spaces. To do this, we require all attendees, sponsors, and organizers to adhere to the MLH Code of Conduct (http://mlh.io/code-of-conduct). If someone violates the Code of Conduct, your MLHer will work with our full-time Incidents Team to address the situation with you and anyone involved. Our team has extensive training and experience handling these situations, so you don’t have to.
+**Incidents Management.** MLH Member Events are safe and welcoming spaces. To do this, we require all attendees, sponsors, and organizers to adhere to the MLH Code of Conduct ([http://mlh.io/code-of-conduct](http://mlh.io/code-of-conduct)). If someone violates the Code of Conduct, your MLHer will work with our full-time Incidents Team to address the situation with you and anyone involved. Our team has extensive training and experience handling these situations, so you don’t have to.
 
-**Cheating Resolution.** While we see far fewer attempts to cheat at in-person hackathons, our team is still ready and able to help you address any concerns following our Cheating Response Procedure  (https://github.com/MLH/mlh-policies/blob/master/cheating-response.md). our on-site MLHer can review projects live or escalate them to our full-time team for more thorough analysis. The registration data you provide to our team will be scanned for any hackers with prior confirmed cheating incidents or Code of Conduct violations.
+**Cheating Resolution.** While we see far fewer attempts to cheat at in-person hackathons, our team is still ready and able to help you address any concerns following our Cheating Response Procedure ([https://github.com/MLH/mlh-policies/blob/master/cheating-response.md](https://github.com/MLH/mlh-policies/blob/master/cheating-response.md)). Your on-site MLHer can review projects live or escalate them to our full-time team for more thorough analysis. The registration data you provide to our team will be scanned for any hackers with prior confirmed cheating incidents or Code of Conduct violations.
 
-**Prizes.** All Member Events are provided with special prizes to hand out to hackers. For your event’s overall winners, we provide MLH Winner Pins. We also provide select MLH partner category prizes (http://hack.mlh.io/prizes). MLH will confirm the final prize list with your event during your handoff call before your hackathon. Your team must add our prize list to your submission platform. If your team is using Devpost, we have a partnership to make this easier. As a result, by becoming a Member Event, your hackathon page may automatically include MLH branding and prizes. Devpost may additionally grant us direct access.
+**Prizes.** All Member Events are provided with special prizes to hand out to hackers. For your event’s overall winners, we provide MLH Winner Pins. We also provide select MLH partner category prizes ([http://hack.mlh.io/prizes](http://hack.mlh.io/prizes)). MLH will confirm the final prize list with your event during your handoff call before your hackathon. Your team must add our prize list to your submission platform. If your team is using Devpost, we have a partnership to make this easier. As a result, by becoming a Member Event, your hackathon page may automatically include MLH branding and prizes. Devpost may additionally grant us direct access.
 
 **MLH Emergency Budget.** We understand that things you didn't plan for may happen, which creates unexpected costs. To help plan for these instances, your event has the benefit of tapping into the MLH Emergency Budget. This is an up to $1000 (or the currency equivalent in your country or region) fund that can be used for anything your event may need. To qualify for these funds, you must have exhausted your emergency budget and considered other changes to your budget to account for this cost. You’ll also need to work with your MLHer on-site to verify the need.
 
@@ -229,7 +231,7 @@ _MLH was built by passionate community members. To ensure that Member Events are
 
 _We encourage every event to apply for Membership regardless of whether it meets these requirements. We look at an event’s application history when evaluating whether we can work with it. You should apply every year._
 
-**Event Dates.** Your hackathon must occur during the current or upcoming academic year, from July 1st, 2025, to June 30th, 2026. MLH cannot support hackathons the weekend of our annual organizer conference, MLH Hackcon (August 22-24, 2025).
+**Event Dates.** Your hackathon must occur during the current or upcoming academic year, from July 1st, 2026, to June 30th, 2027. MLH cannot support hackathons the weekend of our annual organizer conference, MLH Hackcon (August 21-23, 2026).
 
 **Free to Attend.** MLH Member Events do not charge entry fees, making them open and accessible to all participants, regardless of their financial situation.
 
@@ -257,13 +259,13 @@ _We encourage every event to apply for Membership regardless of whether it meets
 
 We expect you to read and agree to each of the following. By signing below, you agree that you have read, reviewed, and understood each of these sub-agreements.
 
-**Member Event Guidelines** (https://github.com/MLH/mlh-policies/blob/main/member-event-guidelines.md) - You’re reading this document! It outlines the things that we need you to do before, during, and after your hackathon and the things we’re doing for you as well.
+**Member Event Guidelines** ([https://github.com/MLH/mlh-policies/blob/main/member-event-guidelines.md](https://github.com/MLH/mlh-policies/blob/main/member-event-guidelines.md)) - You’re reading this document! It outlines the things that we need you to do before, during, and after your hackathon and the things we’re doing for you as well.
 
-**Community Values** (https://github.com/MLH/mlh-policies/blob/main/community-values.md) - This document presents a set of principles shared by every Member Event that serve as examples of excellence to your attendees and sponsors, as well as other hackathons and communities. All Member Events are expected to uphold these Community Values.
+**Community Values** ([https://github.com/MLH/mlh-policies/blob/main/community-values.md](https://github.com/MLH/mlh-policies/blob/main/community-values.md)) - This document presents a set of principles shared by every Member Event that serve as examples of excellence to your attendees and sponsors, as well as other hackathons and communities. All Member Events are expected to uphold these Community Values.
 
 **Public Health & Safety Policy.** With large campus gatherings like a hackathon, we want all attendees, organizers, and sponsors to remain safe. We recommend that all events have a clear Public Health and Safety Policy covering unexpected disasters (like COVID-19) that may impact the event. Additionally, you must adhere to the guidelines set by local authorities. MLH reserves the right to change our Health & Safety requirements for Member Events.
 
-**Code of Conduct** (https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md) - This document contains the guidelines for the expected behavior of all attendees (including volunteers, mentors, sponsors, organizers, judges, etc.) at MLH Member Events. Having a single code of conduct that is used by every hackathon helps us ensure that MLH events are consistently safe and inclusive spaces for everyone and that expectations for behavior and incident response remain consistent for people who attend multiple MLH events. As an organizer of a Member Event, you are expected to adopt, make publicly available, and enforce the MLH Code of Conduct. If an incident is reported, organizers must immediately involve the onsite MLHers or MLH Incidents Team, which will work with you to follow our official incident response procedure.
+**Code of Conduct** ([https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)) - This document contains the guidelines for the expected behavior of all attendees (including volunteers, mentors, sponsors, organizers, judges, etc.) at MLH Member Events. Having a single code of conduct that is used by every hackathon helps us ensure that MLH events are consistently safe and inclusive spaces for everyone and that expectations for behavior and incident response remain consistent for people who attend multiple MLH events. As an organizer of a Member Event, you are expected to adopt, make publicly available, and enforce the MLH Code of Conduct. If an incident is reported, organizers must immediately involve the onsite MLHers or MLH Incidents Team, which will work with you to follow our official incident response procedure.
 
 **Brand License.** We need your permission to promote and list your event on our website, Discord, and other locations. By signing this agreement, you grant MLH an indefinite license to use your event name, branding, and materials to market your event and the season of Member Events. Additionally, we grant Member Events a non-exclusive license to use the MLH name and brand in conjunction with the event. MLH reserves the right to terminate the organizer's license at any time at our absolute discretion.
 
@@ -271,7 +273,7 @@ We expect you to read and agree to each of the following. By signing below, you 
 
 **Property Care Agreement.** Member Events recognize that other Member Events will use any MLH property they borrow (hardware, signage, mini-event supplies, etc.). If any supplies are lost, damaged, or late, other events will be unable to utilize them. You agree to see that, to the best of your ability, all MLH property is cared for and returned on time by your hackers, organizers, sponsors, and volunteers.
 
-**MLH Branding Agreement.** On your hackathon’s website, you must display the MLH Season Trust Badge in the header and the MLH logo under your partners section. Hackers and sponsors see the presence of these logos and know that you have achieved the level of quality guaranteed by being a Member Event. These assets are on our official Brand Guidelines page ([https://mlh.io/brand-guidelines](https://mlh.io/brand-guidelines)).
+**MLH Branding Agreement.** On your hackathon’s website, you must display the MLH Season Trust Badge in the header and the MLH logo under your partners section. Hackers and sponsors see the presence of these logos and know that you have achieved the level of quality guaranteed by being a Member Event. These assets are on our official Brand Guidelines page ([https://mlh.com/brand-guidelines](https://mlh.com/brand-guidelines)).
 
 ## **Hacker Registration Requirements**
 
@@ -284,17 +286,17 @@ We expect you to read and agree to each of the following. By signing below, you 
 **MLH Checkboxes.** To administer many of our benefits, your hackers must agree to two required checkboxes on your registration form. Additionally, you must include a third checkbox to allow hackers to opt in to marketing from MLH.
 
 * Add our two required agreements to your registration form:
-  * [REQUIRED]_MLH Code of Conduct:_ "I have read and agree to the MLH Code of Conduct." (https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)
-  * [REQUIRED]_Event Logistics Information:_ “I authorize you to share my application/registration information with Major League Hacking for event administration, ranking, and MLH administration in-line with the MLH Privacy Policy. I further agree to the terms of both the MLH Contest Terms and Conditions (https://github.com/MLH/mlh-policies/blob/main/contest-terms.md) and the MLH Privacy Policy ([https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md](https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md)).”
+  * [REQUIRED]_MLH Code of Conduct:_ "I have read and agree to the MLH Code of Conduct." ([https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md))
+  * [REQUIRED]_Event Logistics Information:_ “I authorize you to share my application/registration information with Major League Hacking for event administration, ranking, and administration (including the creation of linked accounts on MLH and DEV ([dev.to](https://dev.to/))) in line with the MLH Privacy Policy. I further agree to the terms of both the MLH Contest Terms and Conditions ([https://github.com/MLH/mlh-policies/blob/main/contest-terms.md](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md)) and the MLH Privacy Policy ”
 * Add an optional (for hackers) checkbox for the following to your registration form:
-  * [OPTIONAL]_Communication from MLH:_ ”I authorize MLH to send me occasional emails about relevant events, career opportunities, and community announcements."
+  * [OPTIONAL]_Communication from MLH:_ ”I authorize MLH + DEV to send me occasional emails about relevant events, career opportunities, and community announcements."
 * Are registrations for your hackathon already open?
   * If registrations are already open for your hackathon and you’re planning to work with MLH, you may want to add the following disclaimer to your registration and ensure your registration form meets our requirements.
   * “We have applied to be a Major League Hacking (MLH) Member Event. The following checkboxes are only applicable if our application is accepted. Your information will not be shared if we do not become an MLH Member Event."
 
 **Registration Form.** Member Events must use a minimum set of basic fields and the checkboxes above. This ensures that you, your team, and MLH know who is attending and that attendees know what they agree to. We have both a required and a recommended set of questions. We do not collect, utilize, or share any personal information without an attendee's opt-in.
 
-We’ve outlined these questions in detail in our MLH Organizer Guide at https://guide.mlh.io/general-information/managing-registrations/registration-timelines. Please review this resource to see the exact format of each question and why we need your hackathon’s data in this way.
+We’ve outlined these questions in detail in our MLH Organizer Guide at [https://guide.mlh.io/general-information/managing-registrations/registration-timelines](https://guide.mlh.io/general-information/managing-registrations/registration-timelines). Please review this resource to see the exact format of each question and why we need your hackathon’s data in this way.
 
 * Required Registration Questions. We require organizers to gather a basic set of information**(first name, last name, age, email, school name, phone number, country of residence, current level of study, and the 3 checkboxes listed above)**.
 * Optional Demographic Questions. We encourage organizers to ask about additional demographic information in a standardized format. Standardizing your responses using these options allows you to compare your hackathon data to MLH’s Season Census that we conduct each year.
@@ -333,7 +335,7 @@ We’ve outlined these questions in detail in our MLH Organizer Guide at https:/
 
 **Chat Service.** This allows hackers to communicate with each other, sponsors, organizers, and MLH. We recommend Discord or Slack.
 
-**Project Submission Platform.** Your hackers must submit their final projects somewhere to be judged and for prize data collection. MLH brings prizes to all of our Member Events on behalf of the sponsors that support us. The project submission platform used during any hackathon must be able to add custom prizes and allow hackers to opt in to submit to prize categories.
+**Project Submission Platform.** Your hackers must submit their final projects to be judged and for prize data collection. MLH brings prizes to all of our Member Events on behalf of the sponsors that support us. The project submission platform used during any hackathon must be able to add custom prizes and allow hackers to opt in to submit to prize categories. The project submission platform must accommodate the custom submission field questions found at [http://mlh.link/projectdata](http://mlh.link/projectdata).
 
 * Submission Platform Field Requirements. Any platform is acceptable as long as your platform has the required fields listed in the[MLH Hackathon Organizer Guide](https://guide.mlh.io/general-information/judging-and-submissions/set-up-your-hackathon-portal)
 
@@ -344,6 +346,6 @@ We’ve outlined these questions in detail in our MLH Organizer Guide at https:/
 **Event Data.** On the last day of your hackathon, submit all event data to your Member Event Application. We use this data to calculate season rankings and send attendees a post-event survey to collect their feedback. Specifically, you need to include Check-In and Project Submission Data.
 
 * Check-In Data. Submit all check-in data to MLH after check-in concludes. This should be the same data as registration, with an additional column to mark whether they attended. If a hacker is a late registration/walk-in attendee, you should still be collecting their full information. We recommend sending your check-in data during downtime on Saturday night so that you do not have this as a to-do item after your event ends!
-* Project Submission Data. Project submissions must include the project’s title, the team members (including their names, emails, & school name), the URL to their project page or code, the project description, any prize categories that the project applied for and/or won, any technologies the project was built with, and any other relevant metadata you’re able to provide. You can see the full list of required fields and an example at mlh.link/projectdata
+* Project Submission Data. Project submissions must include the project’s title, the team members (including their names, emails, & school name), the URL to their project page or code, the project description, any prize categories that the project applied for and/or won, any technologies the project was built with, and any other relevant metadata you’re able to provide. You can see the full list of required fields and an example at [mlh.link/projectdata](http://mlh.link/projectdata).
 
 _Major League Hacking reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please email us at league@mlh.io._

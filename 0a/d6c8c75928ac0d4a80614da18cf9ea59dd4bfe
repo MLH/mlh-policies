@@ -1,0 +1,19 @@
+member-event-guidelines.md
+  s_3f2c3d2c182d22::t_955a6e243f9463 290,292,340
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "0ad6c8c75928ac0d4a80614da18cf9ea59dd4bfe",
+  "prompts": {},
+  "sessions": {
+    "s_3f2c3d2c182d22": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1ae6bd056ffeKbB6pKdSlf48Hr",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Ryan Swift <ryan@mlh.io>"
+    }
+  }
+}

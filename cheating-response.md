@@ -11,7 +11,7 @@ Below are the rough steps that MLHers will go through.
 
 
 ## Investigation
-HackSaigon Board of Heads will review the project in question themselves to evaluate its authenticity. They will ask the team questions as necessary, such as those available [in our guide](https://guide.mlh.io/general-information/judging-and-submissions/cheating-check). 
+HackSaigon Board of Heads will review the project in question themselves to evaluate its authenticity. They will ask the team questions as necessary, such as those available [in the MLH's guide](https://guide.mlh.io/general-information/judging-and-submissions/cheating-check). 
 
 Please keep in mind that submission platforms have additional information that may not be available on the public project listing. Extra submission questions not visible to the public may be used for extra context when completing the investigation. 
 

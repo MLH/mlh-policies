@@ -69,9 +69,9 @@ You have options regarding the collection, use, and sharing of your Personal Inf
 
 Subject to applicable law, you may ask us to access, correct, update, or delete the Personal Information we hold about you, or object to or restrict certain uses of it, by emailing **contact@hacksaigon.org**. We may need to verify your identity first, and we may keep certain information where we are required or permitted to by law or where it is needed for safety and security, such as records of bans or suspensions.
 
-## Privacy Rights by Region
+## California Privacy Rights
 
-Depending on where you live, you may have additional rights under local data protection and privacy laws, for example the right to know what Personal Information we have collected and the categories of third parties we have shared it with. To make a request, email **contact@hacksaigon.org** with "\[Privacy Rights Request\]" in the subject line and tell us where you live. \[Region-specific wording to be added after review.\]
+As provided by California Civil Code 1798.83, if you are a California resident, you have the right to receive (a) information identifying any third party company(ies) to whom we have disclosed your Personal Information to in the past year; and (b) a description of the categories of Personal Information disclosed. To obtain such information, please email your request to [contact@hacksaigon.org](mailto:contact@hacksaigon.org) with [California Privacy Rights Request] in the subject line.
 
 ## Children's Information
 
@@ -85,7 +85,7 @@ HackSaigon is open to participants around the world. By using the Services, you 
 
 ## Data Retention
 
-We keep Personal Information for as long as we need it to run the event, meet legal obligations, resolve disputes, enforce our policies, and keep records of suspensions and bans. After that, we will delete or anonymize it. \[Retention periods to be added.\]
+We keep Personal Information for as long as we need it to run the event, meet legal obligations, resolve disputes, enforce our policies, and keep records of suspensions and bans. After that, we will delete or anonymize it in 3 months (13 weeks) after the event have ended.
 
 ## Other Websites
 

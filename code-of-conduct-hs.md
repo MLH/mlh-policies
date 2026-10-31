@@ -66,6 +66,6 @@ Reports go to the HackSaigon incident response team.
 
 When reporting, it helps to include screenshots, usernames, the channel or call where it happened, and the approximate time with your time zone. You can still report without these.
 
-HackSaigon reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact HackSaigon by email at \[contact@hacksaigon.com\].
+HackSaigon reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact HackSaigon by email at [contact@hacksaigon.com](mailto:contact@hacksaigon.org).
 
 This document was last updated on: October 30, 2026

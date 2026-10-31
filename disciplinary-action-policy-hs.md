@@ -32,7 +32,7 @@ In the interest of privacy, HackSaigon will not disclose the reason for a Tempor
 
 ## Appeals
 
-Participants may appeal a Temporary Suspension or Permanent Ban by submitting a written request by email to **contact@hacksaigon.org** with "\[Appeal\]" in the subject line, attaching any relevant evidence, such as screenshots, message logs, or a written explanation. Appeals should be submitted within \[number of days to be added\] of the date of the notification email.
+Participants may appeal a Temporary Suspension or Permanent Ban by submitting a written request by email to **contact@hacksaigon.org** with "\[Appeal\]" in the subject line, attaching any relevant evidence, such as screenshots, message logs, or a written explanation. Appeals should be submitted within 7 days of the date of the notification email.
 
 Appeals will be reviewed by members of the HackSaigon team who were not involved in the original decision where possible. We will respond in writing, and the outcome of an appeal is final.
 

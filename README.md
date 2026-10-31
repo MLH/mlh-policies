@@ -14,6 +14,6 @@ Contained within are:
 -   [Participant Notices and Agreements](participant-notices-and-agreements-hs.md)
 -   [Privacy Policy](privacy-policy-hs.md)
 -   [School lists](schools.csv)
--   [Standard Hackathon Rules](standard-hackathon-rules.md)
+-   [Standard Hackathon Rules](hackathon-rules-hs.md)
 -   [HackSaigon Waiver of Liability](waiver-of-liability-hs.md)
 
